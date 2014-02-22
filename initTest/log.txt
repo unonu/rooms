@@ -1,0 +1,12054 @@
+Map width, height: 48, 48
+init 0, 0
+0, 0
+rgb: 156, 0, 255
+one pass
+1, 0
+rgb: 156, 0, 255
+one pass
+2, 0
+rgb: 156, 0, 255
+one pass
+3, 0
+rgb: 156, 0, 255
+one pass
+4, 0
+rgb: 156, 0, 255
+one pass
+5, 0
+rgb: 156, 0, 255
+one pass
+6, 0
+rgb: 156, 0, 255
+one pass
+7, 0
+rgb: 156, 0, 255
+one pass
+8, 0
+rgb: 156, 0, 255
+one pass
+9, 0
+rgb: 156, 0, 255
+one pass
+10, 0
+rgb: 156, 0, 255
+one pass
+11, 0
+rgb: 156, 0, 255
+one pass
+12, 0
+rgb: 156, 0, 255
+one pass
+13, 0
+rgb: 156, 0, 255
+one pass
+14, 0
+rgb: 156, 0, 255
+one pass
+15, 0
+rgb: 156, 0, 255
+one pass
+16, 0
+rgb: 156, 0, 255
+one pass
+17, 0
+rgb: 156, 0, 255
+one pass
+18, 0
+rgb: 156, 0, 255
+one pass
+19, 0
+rgb: 156, 0, 255
+one pass
+20, 0
+rgb: 156, 0, 255
+one pass
+21, 0
+rgb: 156, 0, 255
+one pass
+22, 0
+rgb: 156, 0, 255
+one pass
+23, 0
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 24, 0
+     going right
+25, 0 for maxX
+rgb: 0, 0, 0
+26, 0 for maxX
+rgb: 0, 0, 0
+27, 0 for maxX
+rgb: 0, 0, 0
+28, 0 for maxX
+rgb: 0, 0, 0
+29, 0 for maxX
+rgb: 0, 0, 0
+30, 0 for maxX
+rgb: 0, 0, 0
+31, 0 for maxX
+rgb: 0, 0, 0
+32, 0 for maxX
+rgb: 0, 0, 0
+33, 0 for maxX
+rgb: 0, 0, 0
+34, 0 for maxX
+rgb: 0, 0, 0
+35, 0 for maxX
+rgb: 0, 0, 0
+36, 0 for maxX
+rgb: 0, 0, 0
+37, 0 for maxX
+rgb: 0, 0, 0
+38, 0 for maxX
+rgb: 0, 0, 0
+39, 0 for maxX
+rgb: 0, 0, 0
+40, 0 for maxX
+rgb: 0, 0, 0
+41, 0 for maxX
+rgb: 255, 0, 0
+42, 0 for maxX
+rgb: 255, 0, 0
+set maxX 42
+     going down
+rgb: 0, 0, 0
+42, 2 for maxY
+rgb: 0, 0, 0
+42, 3 for maxY
+rgb: 0, 0, 0
+42, 4 for maxY
+rgb: 0, 0, 0
+42, 5 for maxY
+rgb: 0, 0, 0
+42, 6 for maxY
+rgb: 0, 0, 0
+42, 7 for maxY
+rgb: 0, 0, 0
+42, 8 for maxY
+rgb: 0, 0, 0
+42, 9 for maxY
+rgb: 0, 0, 0
+42, 10 for maxY
+rgb: 0, 0, 0
+42, 11 for maxY
+rgb: 255, 128, 0
+42, 12 for maxY
+rgb: 255, 128, 0
+set maxY 12
+--------------------
+Made room at 24, 0, 17 wide and 11 tall
+-------------------
+not done, going back
+init 43, 0
+43, 0
+rgb: 156, 0, 255
+one pass
+44, 0
+rgb: 156, 0, 255
+one pass
+45, 0
+rgb: 156, 0, 255
+one pass
+46, 0
+rgb: 156, 0, 255
+one pass
+47, 0
+rgb: 156, 0, 255
+one pass
+0, 1
+rgb: 156, 0, 255
+one pass
+1, 1
+rgb: 156, 0, 255
+one pass
+2, 1
+rgb: 156, 0, 255
+one pass
+3, 1
+rgb: 156, 0, 255
+one pass
+4, 1
+rgb: 156, 0, 255
+one pass
+5, 1
+rgb: 156, 0, 255
+one pass
+6, 1
+rgb: 156, 0, 255
+one pass
+7, 1
+rgb: 156, 0, 255
+one pass
+8, 1
+rgb: 156, 0, 255
+one pass
+9, 1
+rgb: 156, 0, 255
+one pass
+10, 1
+rgb: 156, 0, 255
+one pass
+11, 1
+rgb: 156, 0, 255
+one pass
+12, 1
+rgb: 156, 0, 255
+one pass
+13, 1
+rgb: 156, 0, 255
+one pass
+14, 1
+rgb: 156, 0, 255
+one pass
+15, 1
+rgb: 156, 0, 255
+one pass
+16, 1
+rgb: 156, 0, 255
+one pass
+17, 1
+rgb: 156, 0, 255
+one pass
+18, 1
+rgb: 156, 0, 255
+one pass
+19, 1
+rgb: 156, 0, 255
+one pass
+20, 1
+rgb: 156, 0, 255
+one pass
+21, 1
+rgb: 156, 0, 255
+one pass
+22, 1
+rgb: 156, 0, 255
+one pass
+23, 1
+rgb: 156, 0, 255
+one pass
+24, 1
+rgb: 0, 0, 0
+one pass
+25, 1
+rgb: 255, 255, 255
+one pass
+26, 1
+rgb: 255, 255, 255
+one pass
+27, 1
+rgb: 255, 255, 255
+one pass
+28, 1
+rgb: 255, 255, 255
+one pass
+29, 1
+rgb: 255, 255, 255
+one pass
+30, 1
+rgb: 255, 255, 255
+one pass
+31, 1
+rgb: 255, 255, 255
+one pass
+32, 1
+rgb: 255, 255, 255
+one pass
+33, 1
+rgb: 255, 255, 255
+one pass
+34, 1
+rgb: 255, 255, 255
+one pass
+35, 1
+rgb: 255, 255, 255
+one pass
+36, 1
+rgb: 255, 255, 255
+one pass
+37, 1
+rgb: 255, 255, 255
+one pass
+38, 1
+rgb: 255, 255, 255
+one pass
+39, 1
+rgb: 255, 255, 255
+one pass
+40, 1
+rgb: 255, 255, 255
+one pass
+41, 1
+rgb: 0, 0, 255
+one pass
+42, 1
+rgb: 0, 0, 0
+one pass
+43, 1
+rgb: 156, 0, 255
+one pass
+44, 1
+rgb: 156, 0, 255
+one pass
+45, 1
+rgb: 156, 0, 255
+one pass
+46, 1
+rgb: 156, 0, 255
+one pass
+47, 1
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 0, 2
+     going right
+1, 2 for maxX
+rgb: 0, 0, 0
+2, 2 for maxX
+rgb: 0, 0, 0
+3, 2 for maxX
+rgb: 0, 0, 0
+4, 2 for maxX
+rgb: 0, 0, 0
+5, 2 for maxX
+rgb: 0, 0, 0
+6, 2 for maxX
+rgb: 0, 0, 0
+7, 2 for maxX
+rgb: 0, 0, 0
+8, 2 for maxX
+rgb: 0, 0, 0
+9, 2 for maxX
+rgb: 0, 0, 0
+10, 2 for maxX
+rgb: 0, 0, 0
+11, 2 for maxX
+rgb: 0, 0, 0
+12, 2 for maxX
+rgb: 0, 0, 0
+13, 2 for maxX
+rgb: 0, 0, 0
+14, 2 for maxX
+rgb: 0, 0, 0
+15, 2 for maxX
+rgb: 0, 0, 0
+16, 2 for maxX
+rgb: 0, 0, 0
+17, 2 for maxX
+rgb: 255, 0, 0
+18, 2 for maxX
+rgb: 255, 0, 0
+set maxX 18
+     going down
+rgb: 0, 0, 0
+18, 4 for maxY
+rgb: 0, 0, 0
+18, 5 for maxY
+rgb: 0, 255, 0
+18, 6 for maxY
+rgb: 0, 255, 0
+18, 7 for maxY
+rgb: 0, 0, 0
+18, 8 for maxY
+rgb: 0, 0, 0
+18, 9 for maxY
+rgb: 0, 0, 0
+18, 10 for maxY
+rgb: 255, 128, 0
+18, 11 for maxY
+rgb: 255, 128, 0
+set maxY 11
+--------------------
+Made room at 0, 2, 17 wide and 8 tall
+-------------------
+not done, going back
+init 19, 2
+19, 2
+rgb: 156, 0, 255
+one pass
+20, 2
+rgb: 156, 0, 255
+one pass
+21, 2
+rgb: 156, 0, 255
+one pass
+22, 2
+rgb: 156, 0, 255
+one pass
+23, 2
+rgb: 156, 0, 255
+one pass
+24, 2
+rgb: 0, 0, 0
+one pass
+25, 2
+rgb: 255, 255, 255
+one pass
+26, 2
+rgb: 255, 255, 255
+one pass
+27, 2
+rgb: 255, 255, 255
+one pass
+28, 2
+rgb: 255, 255, 255
+one pass
+29, 2
+rgb: 255, 255, 255
+one pass
+30, 2
+rgb: 255, 255, 255
+one pass
+31, 2
+rgb: 255, 255, 255
+one pass
+32, 2
+rgb: 255, 255, 255
+one pass
+33, 2
+rgb: 255, 255, 255
+one pass
+34, 2
+rgb: 255, 255, 255
+one pass
+35, 2
+rgb: 255, 255, 255
+one pass
+36, 2
+rgb: 255, 255, 255
+one pass
+37, 2
+rgb: 255, 255, 255
+one pass
+38, 2
+rgb: 255, 255, 255
+one pass
+39, 2
+rgb: 255, 255, 255
+one pass
+40, 2
+rgb: 255, 255, 255
+one pass
+41, 2
+rgb: 255, 255, 255
+one pass
+42, 2
+rgb: 0, 0, 0
+one pass
+43, 2
+rgb: 156, 0, 255
+one pass
+44, 2
+rgb: 156, 0, 255
+one pass
+45, 2
+rgb: 156, 0, 255
+one pass
+46, 2
+rgb: 156, 0, 255
+one pass
+47, 2
+rgb: 156, 0, 255
+one pass
+0, 3
+rgb: 0, 0, 0
+one pass
+1, 3
+rgb: 255, 255, 255
+one pass
+2, 3
+rgb: 255, 255, 255
+one pass
+3, 3
+rgb: 255, 255, 255
+one pass
+4, 3
+rgb: 255, 255, 255
+one pass
+5, 3
+rgb: 255, 255, 255
+one pass
+6, 3
+rgb: 255, 255, 255
+one pass
+7, 3
+rgb: 255, 255, 255
+one pass
+8, 3
+rgb: 255, 255, 255
+one pass
+9, 3
+rgb: 255, 255, 255
+one pass
+10, 3
+rgb: 255, 255, 255
+one pass
+11, 3
+rgb: 255, 255, 255
+one pass
+12, 3
+rgb: 255, 255, 255
+one pass
+13, 3
+rgb: 255, 255, 255
+one pass
+14, 3
+rgb: 255, 255, 255
+one pass
+15, 3
+rgb: 255, 255, 255
+one pass
+16, 3
+rgb: 255, 255, 255
+one pass
+17, 3
+rgb: 255, 255, 255
+one pass
+18, 3
+rgb: 0, 0, 0
+one pass
+19, 3
+rgb: 156, 0, 255
+one pass
+20, 3
+rgb: 156, 0, 255
+one pass
+21, 3
+rgb: 156, 0, 255
+one pass
+22, 3
+rgb: 156, 0, 255
+one pass
+23, 3
+rgb: 156, 0, 255
+one pass
+24, 3
+rgb: 0, 0, 0
+one pass
+25, 3
+rgb: 255, 255, 255
+one pass
+26, 3
+rgb: 255, 255, 255
+one pass
+27, 3
+rgb: 255, 255, 255
+one pass
+28, 3
+rgb: 255, 255, 255
+one pass
+29, 3
+rgb: 255, 255, 255
+one pass
+30, 3
+rgb: 255, 255, 255
+one pass
+31, 3
+rgb: 255, 255, 255
+one pass
+32, 3
+rgb: 255, 255, 255
+one pass
+33, 3
+rgb: 255, 255, 255
+one pass
+34, 3
+rgb: 255, 255, 255
+one pass
+35, 3
+rgb: 255, 255, 255
+one pass
+36, 3
+rgb: 255, 255, 255
+one pass
+37, 3
+rgb: 255, 255, 255
+one pass
+38, 3
+rgb: 255, 255, 255
+one pass
+39, 3
+rgb: 255, 255, 255
+one pass
+40, 3
+rgb: 255, 255, 255
+one pass
+41, 3
+rgb: 255, 255, 255
+one pass
+42, 3
+rgb: 0, 0, 0
+one pass
+43, 3
+rgb: 156, 0, 255
+one pass
+44, 3
+rgb: 156, 0, 255
+one pass
+45, 3
+rgb: 156, 0, 255
+one pass
+46, 3
+rgb: 156, 0, 255
+one pass
+47, 3
+rgb: 156, 0, 255
+one pass
+0, 4
+rgb: 0, 0, 0
+one pass
+1, 4
+rgb: 255, 255, 255
+one pass
+2, 4
+rgb: 255, 255, 255
+one pass
+3, 4
+rgb: 0, 0, 255
+one pass
+4, 4
+rgb: 255, 255, 255
+one pass
+5, 4
+rgb: 255, 255, 255
+one pass
+6, 4
+rgb: 255, 255, 255
+one pass
+7, 4
+rgb: 255, 255, 255
+one pass
+8, 4
+rgb: 255, 255, 255
+one pass
+9, 4
+rgb: 255, 255, 255
+one pass
+10, 4
+rgb: 255, 255, 255
+one pass
+11, 4
+rgb: 255, 255, 255
+one pass
+12, 4
+rgb: 255, 255, 255
+one pass
+13, 4
+rgb: 255, 255, 255
+one pass
+14, 4
+rgb: 255, 255, 255
+one pass
+15, 4
+rgb: 255, 255, 255
+one pass
+16, 4
+rgb: 255, 255, 255
+one pass
+17, 4
+rgb: 255, 255, 255
+one pass
+18, 4
+rgb: 0, 0, 0
+one pass
+19, 4
+rgb: 156, 0, 255
+one pass
+20, 4
+rgb: 156, 0, 255
+one pass
+21, 4
+rgb: 156, 0, 255
+one pass
+22, 4
+rgb: 156, 0, 255
+one pass
+23, 4
+rgb: 156, 0, 255
+one pass
+24, 4
+rgb: 0, 0, 0
+one pass
+25, 4
+rgb: 255, 255, 255
+one pass
+26, 4
+rgb: 255, 255, 255
+one pass
+27, 4
+rgb: 255, 255, 255
+one pass
+28, 4
+rgb: 255, 255, 255
+one pass
+29, 4
+rgb: 255, 255, 255
+one pass
+30, 4
+rgb: 255, 255, 255
+one pass
+31, 4
+rgb: 255, 255, 255
+one pass
+32, 4
+rgb: 255, 255, 255
+one pass
+33, 4
+rgb: 255, 255, 255
+one pass
+34, 4
+rgb: 255, 255, 255
+one pass
+35, 4
+rgb: 255, 255, 255
+one pass
+36, 4
+rgb: 255, 255, 255
+one pass
+37, 4
+rgb: 255, 255, 255
+one pass
+38, 4
+rgb: 255, 255, 255
+one pass
+39, 4
+rgb: 255, 255, 255
+one pass
+40, 4
+rgb: 255, 255, 255
+one pass
+41, 4
+rgb: 255, 255, 255
+one pass
+42, 4
+rgb: 0, 0, 0
+one pass
+43, 4
+rgb: 156, 0, 255
+one pass
+44, 4
+rgb: 156, 0, 255
+one pass
+45, 4
+rgb: 156, 0, 255
+one pass
+46, 4
+rgb: 156, 0, 255
+one pass
+47, 4
+rgb: 156, 0, 255
+one pass
+0, 5
+rgb: 0, 0, 0
+one pass
+1, 5
+rgb: 255, 255, 255
+one pass
+2, 5
+rgb: 255, 255, 255
+one pass
+3, 5
+rgb: 255, 255, 255
+one pass
+4, 5
+rgb: 255, 255, 255
+one pass
+5, 5
+rgb: 255, 255, 255
+one pass
+6, 5
+rgb: 255, 255, 255
+one pass
+7, 5
+rgb: 255, 255, 255
+one pass
+8, 5
+rgb: 255, 255, 255
+one pass
+9, 5
+rgb: 255, 255, 255
+one pass
+10, 5
+rgb: 255, 255, 255
+one pass
+11, 5
+rgb: 255, 255, 255
+one pass
+12, 5
+rgb: 255, 255, 255
+one pass
+13, 5
+rgb: 255, 255, 255
+one pass
+14, 5
+rgb: 255, 255, 255
+one pass
+15, 5
+rgb: 255, 255, 255
+one pass
+16, 5
+rgb: 255, 255, 255
+one pass
+17, 5
+rgb: 255, 255, 255
+one pass
+18, 5
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 19, 5
+     going right
+20, 5 for maxX
+rgb: 0, 0, 0
+21, 5 for maxX
+rgb: 0, 0, 0
+22, 5 for maxX
+rgb: 255, 0, 0
+23, 5 for maxX
+rgb: 255, 0, 0
+set maxX 23
+     going down
+rgb: 0, 255, 0
+23, 7 for maxY
+rgb: 255, 128, 0
+23, 8 for maxY
+rgb: 255, 128, 0
+set maxY 8
+--------------------
+Made room at 19, 5, 3 wide and 2 tall
+-------------------
+not done, going back
+init 24, 5
+24, 5
+rgb: 0, 0, 0
+one pass
+25, 5
+rgb: 255, 255, 255
+one pass
+26, 5
+rgb: 255, 255, 255
+one pass
+27, 5
+rgb: 255, 255, 255
+one pass
+28, 5
+rgb: 255, 255, 255
+one pass
+29, 5
+rgb: 255, 255, 255
+one pass
+30, 5
+rgb: 255, 255, 255
+one pass
+31, 5
+rgb: 255, 255, 255
+one pass
+32, 5
+rgb: 255, 255, 255
+one pass
+33, 5
+rgb: 255, 255, 255
+one pass
+34, 5
+rgb: 255, 255, 255
+one pass
+35, 5
+rgb: 255, 255, 255
+one pass
+36, 5
+rgb: 255, 255, 255
+one pass
+37, 5
+rgb: 255, 255, 255
+one pass
+38, 5
+rgb: 255, 255, 255
+one pass
+39, 5
+rgb: 255, 255, 255
+one pass
+40, 5
+rgb: 255, 255, 255
+one pass
+41, 5
+rgb: 255, 255, 255
+one pass
+42, 5
+rgb: 0, 0, 0
+one pass
+43, 5
+rgb: 156, 0, 255
+one pass
+44, 5
+rgb: 156, 0, 255
+one pass
+45, 5
+rgb: 156, 0, 255
+one pass
+46, 5
+rgb: 156, 0, 255
+one pass
+47, 5
+rgb: 156, 0, 255
+one pass
+0, 6
+rgb: 0, 0, 0
+one pass
+1, 6
+rgb: 255, 255, 255
+one pass
+2, 6
+rgb: 255, 255, 255
+one pass
+3, 6
+rgb: 255, 255, 255
+one pass
+4, 6
+rgb: 255, 255, 255
+one pass
+5, 6
+rgb: 255, 255, 255
+one pass
+6, 6
+rgb: 255, 255, 255
+one pass
+7, 6
+rgb: 255, 255, 255
+one pass
+8, 6
+rgb: 255, 255, 255
+one pass
+9, 6
+rgb: 255, 255, 255
+one pass
+10, 6
+rgb: 255, 255, 255
+one pass
+11, 6
+rgb: 255, 255, 255
+one pass
+12, 6
+rgb: 255, 255, 255
+one pass
+13, 6
+rgb: 255, 255, 255
+one pass
+14, 6
+rgb: 255, 255, 255
+one pass
+15, 6
+rgb: 255, 255, 255
+one pass
+16, 6
+rgb: 255, 255, 255
+one pass
+17, 6
+rgb: 255, 255, 255
+one pass
+18, 6
+rgb: 0, 255, 0
+one pass
+19, 6
+rgb: 0, 255, 0
+one pass
+20, 6
+rgb: 255, 255, 255
+one pass
+21, 6
+rgb: 255, 255, 255
+one pass
+22, 6
+rgb: 255, 255, 255
+one pass
+23, 6
+rgb: 0, 255, 0
+one pass
+24, 6
+rgb: 0, 255, 0
+one pass
+25, 6
+rgb: 255, 255, 255
+one pass
+26, 6
+rgb: 255, 255, 255
+one pass
+27, 6
+rgb: 255, 255, 255
+one pass
+28, 6
+rgb: 255, 255, 255
+one pass
+29, 6
+rgb: 255, 255, 255
+one pass
+30, 6
+rgb: 255, 255, 255
+one pass
+31, 6
+rgb: 255, 255, 0
+one pass
+32, 6
+rgb: 255, 255, 255
+one pass
+33, 6
+rgb: 255, 255, 255
+one pass
+34, 6
+rgb: 255, 255, 0
+one pass
+35, 6
+rgb: 255, 255, 255
+one pass
+36, 6
+rgb: 255, 255, 255
+one pass
+37, 6
+rgb: 255, 255, 255
+one pass
+38, 6
+rgb: 255, 255, 255
+one pass
+39, 6
+rgb: 255, 255, 255
+one pass
+40, 6
+rgb: 255, 255, 255
+one pass
+41, 6
+rgb: 255, 255, 255
+one pass
+42, 6
+rgb: 0, 0, 0
+one pass
+43, 6
+rgb: 156, 0, 255
+one pass
+44, 6
+rgb: 156, 0, 255
+one pass
+45, 6
+rgb: 156, 0, 255
+one pass
+46, 6
+rgb: 156, 0, 255
+one pass
+47, 6
+rgb: 156, 0, 255
+one pass
+0, 7
+rgb: 0, 0, 0
+one pass
+1, 7
+rgb: 255, 255, 255
+one pass
+2, 7
+rgb: 255, 255, 255
+one pass
+3, 7
+rgb: 255, 255, 255
+one pass
+4, 7
+rgb: 255, 255, 255
+one pass
+5, 7
+rgb: 255, 255, 255
+one pass
+6, 7
+rgb: 255, 255, 255
+one pass
+7, 7
+rgb: 255, 255, 255
+one pass
+8, 7
+rgb: 255, 255, 255
+one pass
+9, 7
+rgb: 255, 255, 255
+one pass
+10, 7
+rgb: 255, 255, 255
+one pass
+11, 7
+rgb: 255, 255, 255
+one pass
+12, 7
+rgb: 255, 255, 255
+one pass
+13, 7
+rgb: 255, 255, 255
+one pass
+14, 7
+rgb: 255, 255, 255
+one pass
+15, 7
+rgb: 255, 255, 255
+one pass
+16, 7
+rgb: 255, 255, 255
+one pass
+17, 7
+rgb: 255, 255, 255
+one pass
+18, 7
+rgb: 0, 255, 0
+one pass
+19, 7
+rgb: 0, 255, 0
+one pass
+20, 7
+rgb: 255, 255, 255
+one pass
+21, 7
+rgb: 255, 255, 255
+one pass
+22, 7
+rgb: 255, 255, 255
+one pass
+23, 7
+rgb: 0, 255, 0
+one pass
+24, 7
+rgb: 0, 255, 0
+one pass
+25, 7
+rgb: 255, 255, 255
+one pass
+26, 7
+rgb: 255, 255, 255
+one pass
+27, 7
+rgb: 255, 255, 255
+one pass
+28, 7
+rgb: 255, 255, 255
+one pass
+29, 7
+rgb: 255, 255, 255
+one pass
+30, 7
+rgb: 255, 255, 255
+one pass
+31, 7
+rgb: 255, 255, 255
+one pass
+32, 7
+rgb: 255, 255, 255
+one pass
+33, 7
+rgb: 255, 255, 255
+one pass
+34, 7
+rgb: 255, 255, 255
+one pass
+35, 7
+rgb: 255, 255, 255
+one pass
+36, 7
+rgb: 255, 255, 255
+one pass
+37, 7
+rgb: 255, 255, 255
+one pass
+38, 7
+rgb: 255, 255, 255
+one pass
+39, 7
+rgb: 255, 255, 255
+one pass
+40, 7
+rgb: 255, 255, 255
+one pass
+41, 7
+rgb: 255, 255, 255
+one pass
+42, 7
+rgb: 0, 0, 0
+one pass
+43, 7
+rgb: 156, 0, 255
+one pass
+44, 7
+rgb: 156, 0, 255
+one pass
+45, 7
+rgb: 156, 0, 255
+one pass
+46, 7
+rgb: 156, 0, 255
+one pass
+47, 7
+rgb: 156, 0, 255
+one pass
+0, 8
+rgb: 0, 0, 0
+one pass
+1, 8
+rgb: 255, 255, 255
+one pass
+2, 8
+rgb: 255, 255, 255
+one pass
+3, 8
+rgb: 255, 255, 255
+one pass
+4, 8
+rgb: 255, 255, 255
+one pass
+5, 8
+rgb: 255, 255, 255
+one pass
+6, 8
+rgb: 255, 255, 255
+one pass
+7, 8
+rgb: 255, 255, 255
+one pass
+8, 8
+rgb: 255, 255, 255
+one pass
+9, 8
+rgb: 255, 255, 255
+one pass
+10, 8
+rgb: 255, 255, 255
+one pass
+11, 8
+rgb: 255, 255, 255
+one pass
+12, 8
+rgb: 255, 255, 255
+one pass
+13, 8
+rgb: 255, 255, 255
+one pass
+14, 8
+rgb: 255, 255, 255
+one pass
+15, 8
+rgb: 255, 255, 255
+one pass
+16, 8
+rgb: 255, 255, 255
+one pass
+17, 8
+rgb: 255, 255, 255
+one pass
+18, 8
+rgb: 0, 0, 0
+one pass
+19, 8
+rgb: 0, 0, 0
+one pass
+20, 8
+rgb: 0, 0, 0
+one pass
+21, 8
+rgb: 0, 0, 0
+one pass
+22, 8
+rgb: 0, 0, 0
+one pass
+23, 8
+rgb: 255, 128, 0
+one pass
+24, 8
+rgb: 0, 0, 0
+one pass
+25, 8
+rgb: 255, 255, 255
+one pass
+26, 8
+rgb: 255, 255, 255
+one pass
+27, 8
+rgb: 255, 255, 255
+one pass
+28, 8
+rgb: 255, 255, 255
+one pass
+29, 8
+rgb: 255, 255, 255
+one pass
+30, 8
+rgb: 255, 255, 255
+one pass
+31, 8
+rgb: 255, 255, 255
+one pass
+32, 8
+rgb: 255, 255, 255
+one pass
+33, 8
+rgb: 255, 255, 255
+one pass
+34, 8
+rgb: 255, 255, 255
+one pass
+35, 8
+rgb: 255, 255, 255
+one pass
+36, 8
+rgb: 255, 255, 255
+one pass
+37, 8
+rgb: 255, 255, 255
+one pass
+38, 8
+rgb: 255, 255, 255
+one pass
+39, 8
+rgb: 255, 255, 255
+one pass
+40, 8
+rgb: 255, 255, 255
+one pass
+41, 8
+rgb: 255, 255, 255
+one pass
+42, 8
+rgb: 0, 0, 0
+one pass
+43, 8
+rgb: 156, 0, 255
+one pass
+44, 8
+rgb: 156, 0, 255
+one pass
+45, 8
+rgb: 156, 0, 255
+one pass
+46, 8
+rgb: 156, 0, 255
+one pass
+47, 8
+rgb: 156, 0, 255
+one pass
+0, 9
+rgb: 0, 0, 0
+one pass
+1, 9
+rgb: 255, 255, 255
+one pass
+2, 9
+rgb: 255, 255, 255
+one pass
+3, 9
+rgb: 255, 255, 255
+one pass
+4, 9
+rgb: 255, 255, 255
+one pass
+5, 9
+rgb: 255, 255, 255
+one pass
+6, 9
+rgb: 255, 255, 255
+one pass
+7, 9
+rgb: 255, 255, 255
+one pass
+8, 9
+rgb: 255, 255, 255
+one pass
+9, 9
+rgb: 255, 255, 255
+one pass
+10, 9
+rgb: 255, 255, 255
+one pass
+11, 9
+rgb: 255, 255, 255
+one pass
+12, 9
+rgb: 255, 255, 255
+one pass
+13, 9
+rgb: 255, 255, 255
+one pass
+14, 9
+rgb: 255, 255, 255
+one pass
+15, 9
+rgb: 255, 255, 255
+one pass
+16, 9
+rgb: 255, 255, 255
+one pass
+17, 9
+rgb: 255, 255, 255
+one pass
+18, 9
+rgb: 0, 0, 0
+one pass
+19, 9
+rgb: 156, 0, 255
+one pass
+20, 9
+rgb: 156, 0, 255
+one pass
+21, 9
+rgb: 156, 0, 255
+one pass
+22, 9
+rgb: 156, 0, 255
+one pass
+23, 9
+rgb: 156, 0, 255
+one pass
+24, 9
+rgb: 0, 0, 0
+one pass
+25, 9
+rgb: 255, 255, 255
+one pass
+26, 9
+rgb: 255, 255, 255
+one pass
+27, 9
+rgb: 255, 255, 255
+one pass
+28, 9
+rgb: 255, 255, 255
+one pass
+29, 9
+rgb: 255, 255, 255
+one pass
+30, 9
+rgb: 255, 255, 255
+one pass
+31, 9
+rgb: 255, 255, 255
+one pass
+32, 9
+rgb: 255, 255, 255
+one pass
+33, 9
+rgb: 255, 255, 255
+one pass
+34, 9
+rgb: 255, 255, 255
+one pass
+35, 9
+rgb: 255, 255, 255
+one pass
+36, 9
+rgb: 255, 255, 255
+one pass
+37, 9
+rgb: 255, 255, 255
+one pass
+38, 9
+rgb: 255, 255, 255
+one pass
+39, 9
+rgb: 255, 255, 255
+one pass
+40, 9
+rgb: 255, 255, 255
+one pass
+41, 9
+rgb: 255, 255, 255
+one pass
+42, 9
+rgb: 0, 0, 0
+one pass
+43, 9
+rgb: 156, 0, 255
+one pass
+44, 9
+rgb: 156, 0, 255
+one pass
+45, 9
+rgb: 156, 0, 255
+one pass
+46, 9
+rgb: 156, 0, 255
+one pass
+47, 9
+rgb: 156, 0, 255
+one pass
+0, 10
+rgb: 0, 0, 0
+one pass
+1, 10
+rgb: 255, 255, 255
+one pass
+2, 10
+rgb: 255, 255, 255
+one pass
+3, 10
+rgb: 255, 255, 255
+one pass
+4, 10
+rgb: 255, 255, 255
+one pass
+5, 10
+rgb: 255, 255, 255
+one pass
+6, 10
+rgb: 255, 255, 255
+one pass
+7, 10
+rgb: 255, 255, 255
+one pass
+8, 10
+rgb: 255, 255, 255
+one pass
+9, 10
+rgb: 255, 255, 255
+one pass
+10, 10
+rgb: 255, 255, 255
+one pass
+11, 10
+rgb: 255, 255, 255
+one pass
+12, 10
+rgb: 255, 255, 255
+one pass
+13, 10
+rgb: 255, 255, 255
+one pass
+14, 10
+rgb: 255, 255, 255
+one pass
+15, 10
+rgb: 255, 255, 255
+one pass
+16, 10
+rgb: 255, 255, 255
+one pass
+17, 10
+rgb: 255, 255, 255
+one pass
+18, 10
+rgb: 0, 0, 0
+one pass
+19, 10
+rgb: 156, 0, 255
+one pass
+20, 10
+rgb: 156, 0, 255
+one pass
+21, 10
+rgb: 156, 0, 255
+one pass
+22, 10
+rgb: 156, 0, 255
+one pass
+23, 10
+rgb: 156, 0, 255
+one pass
+24, 10
+rgb: 0, 0, 0
+one pass
+25, 10
+rgb: 255, 255, 255
+one pass
+26, 10
+rgb: 255, 255, 255
+one pass
+27, 10
+rgb: 255, 255, 255
+one pass
+28, 10
+rgb: 255, 255, 255
+one pass
+29, 10
+rgb: 255, 255, 255
+one pass
+30, 10
+rgb: 255, 255, 255
+one pass
+31, 10
+rgb: 255, 255, 255
+one pass
+32, 10
+rgb: 255, 255, 255
+one pass
+33, 10
+rgb: 255, 255, 255
+one pass
+34, 10
+rgb: 255, 255, 255
+one pass
+35, 10
+rgb: 255, 255, 255
+one pass
+36, 10
+rgb: 255, 255, 255
+one pass
+37, 10
+rgb: 255, 255, 255
+one pass
+38, 10
+rgb: 255, 255, 255
+one pass
+39, 10
+rgb: 255, 255, 255
+one pass
+40, 10
+rgb: 255, 255, 255
+one pass
+41, 10
+rgb: 255, 255, 255
+one pass
+42, 10
+rgb: 0, 0, 0
+one pass
+43, 10
+rgb: 156, 0, 255
+one pass
+44, 10
+rgb: 156, 0, 255
+one pass
+45, 10
+rgb: 156, 0, 255
+one pass
+46, 10
+rgb: 156, 0, 255
+one pass
+47, 10
+rgb: 156, 0, 255
+one pass
+0, 11
+rgb: 0, 0, 0
+one pass
+1, 11
+rgb: 0, 0, 0
+one pass
+2, 11
+rgb: 0, 0, 0
+one pass
+3, 11
+rgb: 0, 0, 0
+one pass
+4, 11
+rgb: 0, 0, 0
+one pass
+5, 11
+rgb: 0, 0, 0
+one pass
+6, 11
+rgb: 0, 0, 0
+one pass
+7, 11
+rgb: 0, 0, 0
+one pass
+8, 11
+rgb: 0, 0, 0
+one pass
+9, 11
+rgb: 0, 0, 0
+one pass
+10, 11
+rgb: 0, 0, 0
+one pass
+11, 11
+rgb: 0, 0, 0
+one pass
+12, 11
+rgb: 0, 0, 0
+one pass
+13, 11
+rgb: 0, 0, 0
+one pass
+14, 11
+rgb: 0, 0, 0
+one pass
+15, 11
+rgb: 0, 0, 0
+one pass
+16, 11
+rgb: 0, 0, 0
+one pass
+17, 11
+rgb: 0, 0, 0
+one pass
+18, 11
+rgb: 255, 128, 0
+one pass
+19, 11
+rgb: 156, 0, 255
+one pass
+20, 11
+rgb: 156, 0, 255
+one pass
+21, 11
+rgb: 156, 0, 255
+one pass
+22, 11
+rgb: 156, 0, 255
+one pass
+23, 11
+rgb: 156, 0, 255
+one pass
+24, 11
+rgb: 0, 0, 0
+one pass
+25, 11
+rgb: 255, 255, 255
+one pass
+26, 11
+rgb: 255, 255, 255
+one pass
+27, 11
+rgb: 255, 255, 255
+one pass
+28, 11
+rgb: 255, 255, 255
+one pass
+29, 11
+rgb: 255, 255, 255
+one pass
+30, 11
+rgb: 255, 255, 255
+one pass
+31, 11
+rgb: 255, 255, 255
+one pass
+32, 11
+rgb: 255, 255, 255
+one pass
+33, 11
+rgb: 255, 255, 255
+one pass
+34, 11
+rgb: 255, 255, 255
+one pass
+35, 11
+rgb: 255, 255, 255
+one pass
+36, 11
+rgb: 255, 255, 255
+one pass
+37, 11
+rgb: 255, 255, 255
+one pass
+38, 11
+rgb: 255, 255, 255
+one pass
+39, 11
+rgb: 255, 255, 255
+one pass
+40, 11
+rgb: 255, 255, 255
+one pass
+41, 11
+rgb: 255, 255, 255
+one pass
+42, 11
+rgb: 0, 0, 0
+one pass
+43, 11
+rgb: 156, 0, 255
+one pass
+44, 11
+rgb: 156, 0, 255
+one pass
+45, 11
+rgb: 156, 0, 255
+one pass
+46, 11
+rgb: 156, 0, 255
+one pass
+47, 11
+rgb: 156, 0, 255
+one pass
+0, 12
+rgb: 156, 0, 255
+one pass
+1, 12
+rgb: 156, 0, 255
+one pass
+2, 12
+rgb: 156, 0, 255
+one pass
+3, 12
+rgb: 156, 0, 255
+one pass
+4, 12
+rgb: 156, 0, 255
+one pass
+5, 12
+rgb: 156, 0, 255
+one pass
+6, 12
+rgb: 156, 0, 255
+one pass
+7, 12
+rgb: 156, 0, 255
+one pass
+8, 12
+rgb: 156, 0, 255
+one pass
+9, 12
+rgb: 156, 0, 255
+one pass
+10, 12
+rgb: 156, 0, 255
+one pass
+11, 12
+rgb: 156, 0, 255
+one pass
+12, 12
+rgb: 156, 0, 255
+one pass
+13, 12
+rgb: 156, 0, 255
+one pass
+14, 12
+rgb: 156, 0, 255
+one pass
+15, 12
+rgb: 156, 0, 255
+one pass
+16, 12
+rgb: 156, 0, 255
+one pass
+17, 12
+rgb: 156, 0, 255
+one pass
+18, 12
+rgb: 156, 0, 255
+one pass
+19, 12
+rgb: 156, 0, 255
+one pass
+20, 12
+rgb: 156, 0, 255
+one pass
+21, 12
+rgb: 156, 0, 255
+one pass
+22, 12
+rgb: 156, 0, 255
+one pass
+23, 12
+rgb: 156, 0, 255
+one pass
+24, 12
+rgb: 0, 0, 0
+one pass
+25, 12
+rgb: 0, 0, 0
+one pass
+26, 12
+rgb: 0, 0, 0
+one pass
+27, 12
+rgb: 0, 0, 0
+one pass
+28, 12
+rgb: 0, 0, 0
+one pass
+29, 12
+rgb: 0, 255, 0
+one pass
+30, 12
+rgb: 0, 0, 0
+one pass
+31, 12
+rgb: 0, 0, 0
+one pass
+32, 12
+rgb: 0, 0, 0
+one pass
+33, 12
+rgb: 0, 0, 0
+one pass
+34, 12
+rgb: 0, 0, 0
+one pass
+35, 12
+rgb: 0, 0, 0
+one pass
+36, 12
+rgb: 0, 0, 0
+one pass
+37, 12
+rgb: 0, 0, 0
+one pass
+38, 12
+rgb: 0, 0, 0
+one pass
+39, 12
+rgb: 0, 255, 0
+one pass
+40, 12
+rgb: 0, 0, 0
+one pass
+41, 12
+rgb: 0, 0, 0
+one pass
+42, 12
+rgb: 255, 128, 0
+one pass
+43, 12
+rgb: 156, 0, 255
+one pass
+44, 12
+rgb: 156, 0, 255
+one pass
+45, 12
+rgb: 156, 0, 255
+one pass
+46, 12
+rgb: 156, 0, 255
+one pass
+47, 12
+rgb: 156, 0, 255
+one pass
+0, 13
+rgb: 156, 0, 255
+one pass
+1, 13
+rgb: 156, 0, 255
+one pass
+2, 13
+rgb: 156, 0, 255
+one pass
+3, 13
+rgb: 156, 0, 255
+one pass
+4, 13
+rgb: 156, 0, 255
+one pass
+5, 13
+rgb: 156, 0, 255
+one pass
+6, 13
+rgb: 156, 0, 255
+one pass
+7, 13
+rgb: 156, 0, 255
+one pass
+8, 13
+rgb: 156, 0, 255
+one pass
+9, 13
+rgb: 156, 0, 255
+one pass
+10, 13
+rgb: 156, 0, 255
+one pass
+11, 13
+rgb: 156, 0, 255
+one pass
+12, 13
+rgb: 156, 0, 255
+one pass
+13, 13
+rgb: 156, 0, 255
+one pass
+14, 13
+rgb: 156, 0, 255
+one pass
+15, 13
+rgb: 156, 0, 255
+one pass
+16, 13
+rgb: 156, 0, 255
+one pass
+17, 13
+rgb: 156, 0, 255
+one pass
+18, 13
+rgb: 156, 0, 255
+one pass
+19, 13
+rgb: 156, 0, 255
+one pass
+20, 13
+rgb: 156, 0, 255
+one pass
+21, 13
+rgb: 156, 0, 255
+one pass
+22, 13
+rgb: 156, 0, 255
+one pass
+23, 13
+rgb: 156, 0, 255
+one pass
+24, 13
+rgb: 156, 0, 255
+one pass
+25, 13
+rgb: 156, 0, 255
+one pass
+26, 13
+rgb: 156, 0, 255
+one pass
+27, 13
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 28, 13
+     going right
+29, 13 for maxX
+rgb: 0, 0, 0
+30, 13 for maxX
+rgb: 255, 0, 0
+31, 13 for maxX
+rgb: 255, 0, 0
+set maxX 31
+     going down
+rgb: 0, 0, 0
+31, 15 for maxY
+rgb: 0, 0, 0
+31, 16 for maxY
+rgb: 0, 0, 0
+31, 17 for maxY
+rgb: 0, 0, 0
+31, 18 for maxY
+rgb: 255, 128, 0
+31, 19 for maxY
+rgb: 255, 128, 0
+set maxY 19
+--------------------
+Made room at 28, 13, 2 wide and 5 tall
+-------------------
+not done, going back
+init 32, 13
+32, 13
+rgb: 156, 0, 255
+one pass
+33, 13
+rgb: 156, 0, 255
+one pass
+34, 13
+rgb: 156, 0, 255
+one pass
+35, 13
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 36, 13
+     going right
+37, 13 for maxX
+rgb: 0, 0, 0
+38, 13 for maxX
+rgb: 0, 255, 0
+39, 13 for maxX
+rgb: 255, 0, 0
+40, 13 for maxX
+rgb: 255, 0, 0
+set maxX 40
+     going down
+rgb: 0, 0, 0
+40, 15 for maxY
+rgb: 0, 0, 0
+40, 16 for maxY
+rgb: 0, 0, 0
+40, 17 for maxY
+rgb: 0, 0, 0
+40, 18 for maxY
+rgb: 0, 0, 0
+40, 19 for maxY
+rgb: 0, 0, 0
+40, 20 for maxY
+rgb: 0, 0, 0
+40, 21 for maxY
+rgb: 0, 0, 0
+40, 22 for maxY
+rgb: 0, 0, 0
+40, 23 for maxY
+rgb: 0, 0, 0
+40, 24 for maxY
+rgb: 255, 128, 0
+40, 25 for maxY
+rgb: 255, 128, 0
+set maxY 25
+--------------------
+Made room at 36, 13, 3 wide and 11 tall
+-------------------
+not done, going back
+init 41, 13
+41, 13
+rgb: 156, 0, 255
+one pass
+42, 13
+rgb: 156, 0, 255
+one pass
+43, 13
+rgb: 156, 0, 255
+one pass
+44, 13
+rgb: 156, 0, 255
+one pass
+45, 13
+rgb: 156, 0, 255
+one pass
+46, 13
+rgb: 156, 0, 255
+one pass
+47, 13
+rgb: 156, 0, 255
+one pass
+0, 14
+rgb: 156, 0, 255
+one pass
+1, 14
+rgb: 156, 0, 255
+one pass
+2, 14
+rgb: 156, 0, 255
+one pass
+3, 14
+rgb: 156, 0, 255
+one pass
+4, 14
+rgb: 156, 0, 255
+one pass
+5, 14
+rgb: 156, 0, 255
+one pass
+6, 14
+rgb: 156, 0, 255
+one pass
+7, 14
+rgb: 156, 0, 255
+one pass
+8, 14
+rgb: 156, 0, 255
+one pass
+9, 14
+rgb: 156, 0, 255
+one pass
+10, 14
+rgb: 156, 0, 255
+one pass
+11, 14
+rgb: 156, 0, 255
+one pass
+12, 14
+rgb: 156, 0, 255
+one pass
+13, 14
+rgb: 156, 0, 255
+one pass
+14, 14
+rgb: 156, 0, 255
+one pass
+15, 14
+rgb: 156, 0, 255
+one pass
+16, 14
+rgb: 156, 0, 255
+one pass
+17, 14
+rgb: 156, 0, 255
+one pass
+18, 14
+rgb: 156, 0, 255
+one pass
+19, 14
+rgb: 156, 0, 255
+one pass
+20, 14
+rgb: 156, 0, 255
+one pass
+21, 14
+rgb: 156, 0, 255
+one pass
+22, 14
+rgb: 156, 0, 255
+one pass
+23, 14
+rgb: 156, 0, 255
+one pass
+24, 14
+rgb: 156, 0, 255
+one pass
+25, 14
+rgb: 156, 0, 255
+one pass
+26, 14
+rgb: 156, 0, 255
+one pass
+27, 14
+rgb: 156, 0, 255
+one pass
+28, 14
+rgb: 0, 0, 0
+one pass
+29, 14
+rgb: 255, 255, 255
+one pass
+30, 14
+rgb: 255, 255, 255
+one pass
+31, 14
+rgb: 0, 0, 0
+one pass
+32, 14
+rgb: 156, 0, 255
+one pass
+33, 14
+rgb: 156, 0, 255
+one pass
+34, 14
+rgb: 156, 0, 255
+one pass
+35, 14
+rgb: 156, 0, 255
+one pass
+36, 14
+rgb: 0, 0, 0
+one pass
+37, 14
+rgb: 255, 255, 255
+one pass
+38, 14
+rgb: 255, 255, 255
+one pass
+39, 14
+rgb: 255, 255, 255
+one pass
+40, 14
+rgb: 0, 0, 0
+one pass
+41, 14
+rgb: 156, 0, 255
+one pass
+42, 14
+rgb: 156, 0, 255
+one pass
+43, 14
+rgb: 156, 0, 255
+one pass
+44, 14
+rgb: 156, 0, 255
+one pass
+45, 14
+rgb: 156, 0, 255
+one pass
+46, 14
+rgb: 156, 0, 255
+one pass
+47, 14
+rgb: 156, 0, 255
+one pass
+0, 15
+rgb: 156, 0, 255
+one pass
+1, 15
+rgb: 156, 0, 255
+one pass
+2, 15
+rgb: 156, 0, 255
+one pass
+3, 15
+rgb: 156, 0, 255
+one pass
+4, 15
+rgb: 156, 0, 255
+one pass
+5, 15
+rgb: 156, 0, 255
+one pass
+6, 15
+rgb: 156, 0, 255
+one pass
+7, 15
+rgb: 156, 0, 255
+one pass
+8, 15
+rgb: 156, 0, 255
+one pass
+9, 15
+rgb: 156, 0, 255
+one pass
+10, 15
+rgb: 156, 0, 255
+one pass
+11, 15
+rgb: 156, 0, 255
+one pass
+12, 15
+rgb: 156, 0, 255
+one pass
+13, 15
+rgb: 156, 0, 255
+one pass
+14, 15
+rgb: 156, 0, 255
+one pass
+15, 15
+rgb: 156, 0, 255
+one pass
+16, 15
+rgb: 156, 0, 255
+one pass
+17, 15
+rgb: 156, 0, 255
+one pass
+18, 15
+rgb: 156, 0, 255
+one pass
+19, 15
+rgb: 156, 0, 255
+one pass
+20, 15
+rgb: 156, 0, 255
+one pass
+21, 15
+rgb: 156, 0, 255
+one pass
+22, 15
+rgb: 156, 0, 255
+one pass
+23, 15
+rgb: 156, 0, 255
+one pass
+24, 15
+rgb: 156, 0, 255
+one pass
+25, 15
+rgb: 156, 0, 255
+one pass
+26, 15
+rgb: 156, 0, 255
+one pass
+27, 15
+rgb: 156, 0, 255
+one pass
+28, 15
+rgb: 0, 0, 0
+one pass
+29, 15
+rgb: 255, 255, 255
+one pass
+30, 15
+rgb: 255, 255, 255
+one pass
+31, 15
+rgb: 0, 0, 0
+one pass
+32, 15
+rgb: 156, 0, 255
+one pass
+33, 15
+rgb: 156, 0, 255
+one pass
+34, 15
+rgb: 156, 0, 255
+one pass
+35, 15
+rgb: 156, 0, 255
+one pass
+36, 15
+rgb: 0, 0, 0
+one pass
+37, 15
+rgb: 255, 255, 255
+one pass
+38, 15
+rgb: 255, 255, 255
+one pass
+39, 15
+rgb: 255, 255, 255
+one pass
+40, 15
+rgb: 0, 0, 0
+one pass
+41, 15
+rgb: 156, 0, 255
+one pass
+42, 15
+rgb: 156, 0, 255
+one pass
+43, 15
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 44, 15
+     going right
+45, 15 for maxX
+rgb: 0, 0, 0
+46, 15 for maxX
+rgb: 255, 0, 0
+47, 15 for maxX
+rgb: 255, 0, 0
+set maxX 47
+     going down
+rgb: 0, 0, 0
+47, 17 for maxY
+rgb: 0, 0, 0
+47, 18 for maxY
+rgb: 255, 128, 0
+47, 19 for maxY
+rgb: 255, 128, 0
+set maxY 19
+--------------------
+Made room at 44, 15, 2 wide and 3 tall
+-------------------
+not done, going back
+init 0, 16
+0, 16
+rgb: 156, 0, 255
+one pass
+1, 16
+rgb: 156, 0, 255
+one pass
+2, 16
+rgb: 156, 0, 255
+one pass
+3, 16
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 4, 16
+     going right
+5, 16 for maxX
+rgb: 0, 0, 0
+6, 16 for maxX
+rgb: 0, 0, 0
+7, 16 for maxX
+rgb: 0, 0, 0
+8, 16 for maxX
+rgb: 0, 0, 0
+9, 16 for maxX
+rgb: 0, 0, 0
+10, 16 for maxX
+rgb: 255, 0, 0
+11, 16 for maxX
+rgb: 255, 0, 0
+set maxX 11
+     going down
+rgb: 0, 0, 0
+11, 18 for maxY
+rgb: 0, 255, 0
+11, 19 for maxY
+rgb: 0, 255, 0
+11, 20 for maxY
+rgb: 0, 0, 0
+11, 21 for maxY
+rgb: 0, 0, 0
+11, 22 for maxY
+rgb: 255, 128, 0
+11, 23 for maxY
+rgb: 255, 128, 0
+set maxY 23
+--------------------
+Made room at 4, 16, 6 wide and 6 tall
+-------------------
+not done, going back
+init 12, 16
+rgb: 255, 0, 0
+found corner
+set mins 12, 16
+     going right
+13, 16 for maxX
+rgb: 0, 0, 0
+14, 16 for maxX
+rgb: 0, 0, 0
+15, 16 for maxX
+rgb: 0, 0, 0
+16, 16 for maxX
+rgb: 0, 0, 0
+17, 16 for maxX
+rgb: 0, 0, 0
+18, 16 for maxX
+rgb: 255, 0, 0
+19, 16 for maxX
+rgb: 255, 0, 0
+set maxX 19
+     going down
+rgb: 0, 0, 0
+19, 18 for maxY
+rgb: 0, 0, 0
+19, 19 for maxY
+rgb: 0, 0, 0
+19, 20 for maxY
+rgb: 0, 0, 0
+19, 21 for maxY
+rgb: 0, 0, 0
+19, 22 for maxY
+rgb: 255, 128, 0
+19, 23 for maxY
+rgb: 255, 128, 0
+set maxY 23
+--------------------
+Made room at 12, 16, 6 wide and 6 tall
+-------------------
+not done, going back
+init 20, 16
+20, 16
+rgb: 156, 0, 255
+one pass
+21, 16
+rgb: 156, 0, 255
+one pass
+22, 16
+rgb: 156, 0, 255
+one pass
+23, 16
+rgb: 156, 0, 255
+one pass
+24, 16
+rgb: 156, 0, 255
+one pass
+25, 16
+rgb: 156, 0, 255
+one pass
+26, 16
+rgb: 156, 0, 255
+one pass
+27, 16
+rgb: 156, 0, 255
+one pass
+28, 16
+rgb: 0, 0, 0
+one pass
+29, 16
+rgb: 255, 255, 255
+one pass
+30, 16
+rgb: 255, 255, 255
+one pass
+31, 16
+rgb: 0, 0, 0
+one pass
+32, 16
+rgb: 156, 0, 255
+one pass
+33, 16
+rgb: 156, 0, 255
+one pass
+34, 16
+rgb: 156, 0, 255
+one pass
+35, 16
+rgb: 156, 0, 255
+one pass
+36, 16
+rgb: 0, 0, 0
+one pass
+37, 16
+rgb: 255, 255, 255
+one pass
+38, 16
+rgb: 255, 255, 255
+one pass
+39, 16
+rgb: 255, 255, 255
+one pass
+40, 16
+rgb: 0, 0, 0
+one pass
+41, 16
+rgb: 156, 0, 255
+one pass
+42, 16
+rgb: 156, 0, 255
+one pass
+43, 16
+rgb: 156, 0, 255
+one pass
+44, 16
+rgb: 0, 0, 0
+one pass
+45, 16
+rgb: 255, 255, 255
+one pass
+46, 16
+rgb: 255, 255, 0
+one pass
+47, 16
+rgb: 0, 0, 0
+one pass
+0, 17
+rgb: 156, 0, 255
+one pass
+1, 17
+rgb: 156, 0, 255
+one pass
+2, 17
+rgb: 156, 0, 255
+one pass
+3, 17
+rgb: 156, 0, 255
+one pass
+4, 17
+rgb: 0, 0, 0
+one pass
+5, 17
+rgb: 255, 255, 255
+one pass
+6, 17
+rgb: 255, 255, 255
+one pass
+7, 17
+rgb: 255, 255, 255
+one pass
+8, 17
+rgb: 255, 255, 255
+one pass
+9, 17
+rgb: 255, 255, 255
+one pass
+10, 17
+rgb: 255, 255, 255
+one pass
+11, 17
+rgb: 0, 0, 0
+one pass
+12, 17
+rgb: 0, 0, 0
+one pass
+13, 17
+rgb: 255, 255, 255
+one pass
+14, 17
+rgb: 255, 255, 255
+one pass
+15, 17
+rgb: 255, 255, 255
+one pass
+16, 17
+rgb: 255, 255, 255
+one pass
+17, 17
+rgb: 255, 255, 255
+one pass
+18, 17
+rgb: 255, 255, 255
+one pass
+19, 17
+rgb: 0, 0, 0
+one pass
+20, 17
+rgb: 156, 0, 255
+one pass
+21, 17
+rgb: 156, 0, 255
+one pass
+22, 17
+rgb: 156, 0, 255
+one pass
+23, 17
+rgb: 156, 0, 255
+one pass
+24, 17
+rgb: 156, 0, 255
+one pass
+25, 17
+rgb: 156, 0, 255
+one pass
+26, 17
+rgb: 156, 0, 255
+one pass
+27, 17
+rgb: 156, 0, 255
+one pass
+28, 17
+rgb: 0, 0, 0
+one pass
+29, 17
+rgb: 255, 255, 255
+one pass
+30, 17
+rgb: 255, 255, 255
+one pass
+31, 17
+rgb: 0, 0, 0
+one pass
+32, 17
+rgb: 156, 0, 255
+one pass
+33, 17
+rgb: 156, 0, 255
+one pass
+34, 17
+rgb: 156, 0, 255
+one pass
+35, 17
+rgb: 156, 0, 255
+one pass
+36, 17
+rgb: 0, 0, 0
+one pass
+37, 17
+rgb: 255, 255, 255
+one pass
+38, 17
+rgb: 255, 255, 255
+one pass
+39, 17
+rgb: 255, 255, 255
+one pass
+40, 17
+rgb: 0, 0, 0
+one pass
+41, 17
+rgb: 156, 0, 255
+one pass
+42, 17
+rgb: 156, 0, 255
+one pass
+43, 17
+rgb: 156, 0, 255
+one pass
+44, 17
+rgb: 0, 0, 0
+one pass
+45, 17
+rgb: 255, 255, 255
+one pass
+46, 17
+rgb: 255, 255, 255
+one pass
+47, 17
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 0, 18
+     going right
+1, 18 for maxX
+rgb: 0, 0, 0
+2, 18 for maxX
+rgb: 255, 0, 0
+3, 18 for maxX
+rgb: 255, 0, 0
+set maxX 3
+     going down
+rgb: 0, 255, 0
+3, 20 for maxY
+rgb: 0, 0, 0
+3, 21 for maxY
+rgb: 0, 0, 0
+3, 22 for maxY
+rgb: 0, 0, 0
+3, 23 for maxY
+rgb: 0, 0, 0
+3, 24 for maxY
+rgb: 0, 0, 0
+3, 25 for maxY
+rgb: 0, 0, 0
+3, 26 for maxY
+rgb: 0, 0, 0
+3, 27 for maxY
+rgb: 0, 0, 0
+3, 28 for maxY
+rgb: 0, 0, 0
+3, 29 for maxY
+rgb: 0, 0, 0
+3, 30 for maxY
+rgb: 0, 0, 0
+3, 31 for maxY
+rgb: 0, 0, 0
+3, 32 for maxY
+rgb: 0, 0, 0
+3, 33 for maxY
+rgb: 0, 0, 0
+3, 34 for maxY
+rgb: 0, 0, 0
+3, 35 for maxY
+rgb: 0, 0, 0
+3, 36 for maxY
+rgb: 0, 255, 0
+3, 37 for maxY
+rgb: 0, 255, 0
+3, 38 for maxY
+rgb: 0, 0, 0
+3, 39 for maxY
+rgb: 255, 128, 0
+3, 40 for maxY
+rgb: 255, 128, 0
+set maxY 40
+--------------------
+Made room at 0, 18, 2 wide and 21 tall
+-------------------
+not done, going back
+init 4, 18
+4, 18
+rgb: 0, 0, 0
+one pass
+5, 18
+rgb: 255, 255, 255
+one pass
+6, 18
+rgb: 255, 255, 255
+one pass
+7, 18
+rgb: 255, 255, 255
+one pass
+8, 18
+rgb: 255, 255, 255
+one pass
+9, 18
+rgb: 255, 255, 255
+one pass
+10, 18
+rgb: 255, 255, 255
+one pass
+11, 18
+rgb: 0, 0, 0
+one pass
+12, 18
+rgb: 0, 0, 0
+one pass
+13, 18
+rgb: 255, 255, 255
+one pass
+14, 18
+rgb: 255, 255, 255
+one pass
+15, 18
+rgb: 255, 255, 255
+one pass
+16, 18
+rgb: 255, 255, 255
+one pass
+17, 18
+rgb: 255, 255, 255
+one pass
+18, 18
+rgb: 255, 255, 255
+one pass
+19, 18
+rgb: 0, 0, 0
+one pass
+20, 18
+rgb: 156, 0, 255
+one pass
+21, 18
+rgb: 156, 0, 255
+one pass
+22, 18
+rgb: 156, 0, 255
+one pass
+23, 18
+rgb: 156, 0, 255
+one pass
+24, 18
+rgb: 156, 0, 255
+one pass
+25, 18
+rgb: 156, 0, 255
+one pass
+26, 18
+rgb: 156, 0, 255
+one pass
+27, 18
+rgb: 156, 0, 255
+one pass
+28, 18
+rgb: 0, 0, 0
+one pass
+29, 18
+rgb: 255, 255, 255
+one pass
+30, 18
+rgb: 255, 255, 255
+one pass
+31, 18
+rgb: 0, 0, 0
+one pass
+32, 18
+rgb: 156, 0, 255
+one pass
+33, 18
+rgb: 156, 0, 255
+one pass
+34, 18
+rgb: 156, 0, 255
+one pass
+35, 18
+rgb: 156, 0, 255
+one pass
+36, 18
+rgb: 0, 0, 0
+one pass
+37, 18
+rgb: 255, 255, 255
+one pass
+38, 18
+rgb: 255, 255, 255
+one pass
+39, 18
+rgb: 255, 255, 255
+one pass
+40, 18
+rgb: 0, 0, 0
+one pass
+41, 18
+rgb: 156, 0, 255
+one pass
+42, 18
+rgb: 156, 0, 255
+one pass
+43, 18
+rgb: 156, 0, 255
+one pass
+44, 18
+rgb: 0, 0, 0
+one pass
+45, 18
+rgb: 255, 255, 255
+one pass
+46, 18
+rgb: 255, 255, 255
+one pass
+47, 18
+rgb: 0, 0, 0
+one pass
+0, 19
+rgb: 0, 0, 0
+one pass
+1, 19
+rgb: 255, 255, 255
+one pass
+2, 19
+rgb: 255, 255, 255
+one pass
+3, 19
+rgb: 0, 255, 0
+one pass
+4, 19
+rgb: 0, 255, 0
+one pass
+5, 19
+rgb: 255, 255, 255
+one pass
+6, 19
+rgb: 255, 255, 255
+one pass
+7, 19
+rgb: 255, 255, 255
+one pass
+8, 19
+rgb: 255, 255, 255
+one pass
+9, 19
+rgb: 255, 255, 255
+one pass
+10, 19
+rgb: 255, 255, 255
+one pass
+11, 19
+rgb: 0, 255, 0
+one pass
+12, 19
+rgb: 0, 255, 0
+one pass
+13, 19
+rgb: 255, 255, 255
+one pass
+14, 19
+rgb: 255, 255, 255
+one pass
+15, 19
+rgb: 255, 255, 255
+one pass
+16, 19
+rgb: 255, 255, 255
+one pass
+17, 19
+rgb: 255, 255, 255
+one pass
+18, 19
+rgb: 255, 255, 255
+one pass
+19, 19
+rgb: 0, 0, 0
+one pass
+20, 19
+rgb: 156, 0, 255
+one pass
+21, 19
+rgb: 156, 0, 255
+one pass
+22, 19
+rgb: 156, 0, 255
+one pass
+23, 19
+rgb: 156, 0, 255
+one pass
+24, 19
+rgb: 156, 0, 255
+one pass
+25, 19
+rgb: 156, 0, 255
+one pass
+26, 19
+rgb: 156, 0, 255
+one pass
+27, 19
+rgb: 156, 0, 255
+one pass
+28, 19
+rgb: 0, 0, 0
+one pass
+29, 19
+rgb: 0, 255, 0
+one pass
+30, 19
+rgb: 0, 255, 0
+one pass
+31, 19
+rgb: 255, 128, 0
+one pass
+32, 19
+rgb: 156, 0, 255
+one pass
+33, 19
+rgb: 156, 0, 255
+one pass
+34, 19
+rgb: 156, 0, 255
+one pass
+35, 19
+rgb: 156, 0, 255
+one pass
+36, 19
+rgb: 0, 0, 0
+one pass
+37, 19
+rgb: 255, 255, 255
+one pass
+38, 19
+rgb: 255, 255, 255
+one pass
+39, 19
+rgb: 255, 255, 255
+one pass
+40, 19
+rgb: 0, 0, 0
+one pass
+41, 19
+rgb: 156, 0, 255
+one pass
+42, 19
+rgb: 156, 0, 255
+one pass
+43, 19
+rgb: 156, 0, 255
+one pass
+44, 19
+rgb: 0, 0, 0
+one pass
+45, 19
+rgb: 0, 255, 0
+one pass
+46, 19
+rgb: 0, 0, 0
+one pass
+47, 19
+rgb: 255, 128, 0
+one pass
+0, 20
+rgb: 0, 0, 0
+one pass
+1, 20
+rgb: 255, 255, 255
+one pass
+2, 20
+rgb: 255, 255, 255
+one pass
+3, 20
+rgb: 0, 255, 0
+one pass
+4, 20
+rgb: 0, 255, 0
+one pass
+5, 20
+rgb: 255, 255, 255
+one pass
+6, 20
+rgb: 255, 255, 255
+one pass
+7, 20
+rgb: 255, 255, 255
+one pass
+8, 20
+rgb: 255, 255, 255
+one pass
+9, 20
+rgb: 255, 255, 255
+one pass
+10, 20
+rgb: 255, 255, 255
+one pass
+11, 20
+rgb: 0, 255, 0
+one pass
+12, 20
+rgb: 0, 255, 0
+one pass
+13, 20
+rgb: 255, 255, 255
+one pass
+14, 20
+rgb: 255, 255, 255
+one pass
+15, 20
+rgb: 255, 255, 255
+one pass
+16, 20
+rgb: 255, 255, 255
+one pass
+17, 20
+rgb: 255, 255, 255
+one pass
+18, 20
+rgb: 255, 255, 255
+one pass
+19, 20
+rgb: 0, 0, 0
+one pass
+20, 20
+rgb: 156, 0, 255
+one pass
+21, 20
+rgb: 156, 0, 255
+one pass
+22, 20
+rgb: 156, 0, 255
+one pass
+23, 20
+rgb: 156, 0, 255
+one pass
+24, 20
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 25, 20
+     going right
+26, 20 for maxX
+rgb: 0, 0, 0
+27, 20 for maxX
+rgb: 0, 0, 0
+28, 20 for maxX
+rgb: 0, 255, 0
+29, 20 for maxX
+rgb: 0, 255, 0
+30, 20 for maxX
+rgb: 0, 0, 0
+31, 20 for maxX
+rgb: 0, 0, 0
+32, 20 for maxX
+rgb: 255, 0, 0
+33, 20 for maxX
+rgb: 255, 0, 0
+set maxX 33
+     going down
+rgb: 0, 0, 0
+33, 22 for maxY
+rgb: 0, 0, 0
+33, 23 for maxY
+rgb: 0, 0, 0
+33, 24 for maxY
+rgb: 255, 128, 0
+33, 25 for maxY
+rgb: 255, 128, 0
+set maxY 25
+--------------------
+Made room at 25, 20, 7 wide and 4 tall
+-------------------
+not done, going back
+init 34, 20
+34, 20
+rgb: 156, 0, 255
+one pass
+35, 20
+rgb: 156, 0, 255
+one pass
+36, 20
+rgb: 0, 0, 0
+one pass
+37, 20
+rgb: 255, 255, 255
+one pass
+38, 20
+rgb: 255, 255, 255
+one pass
+39, 20
+rgb: 255, 255, 255
+one pass
+40, 20
+rgb: 0, 0, 0
+one pass
+41, 20
+rgb: 156, 0, 255
+one pass
+42, 20
+rgb: 156, 0, 255
+one pass
+43, 20
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 44, 20
+     going right
+45, 20 for maxX
+rgb: 0, 0, 0
+46, 20 for maxX
+rgb: 255, 0, 0
+47, 20 for maxX
+rgb: 255, 0, 0
+set maxX 47
+     going down
+rgb: 0, 0, 0
+47, 22 for maxY
+rgb: 0, 0, 0
+47, 23 for maxY
+rgb: 0, 0, 0
+47, 24 for maxY
+rgb: 0, 0, 0
+47, 25 for maxY
+rgb: 0, 0, 0
+47, 26 for maxY
+rgb: 0, 0, 0
+47, 27 for maxY
+rgb: 0, 0, 0
+47, 28 for maxY
+rgb: 0, 0, 0
+47, 29 for maxY
+rgb: 255, 128, 0
+47, 30 for maxY
+rgb: 255, 128, 0
+set maxY 30
+--------------------
+Made room at 44, 20, 2 wide and 9 tall
+-------------------
+not done, going back
+init 0, 21
+0, 21
+rgb: 0, 0, 0
+one pass
+1, 21
+rgb: 255, 255, 255
+one pass
+2, 21
+rgb: 255, 255, 255
+one pass
+3, 21
+rgb: 0, 0, 0
+one pass
+4, 21
+rgb: 0, 0, 0
+one pass
+5, 21
+rgb: 255, 255, 255
+one pass
+6, 21
+rgb: 255, 255, 255
+one pass
+7, 21
+rgb: 255, 255, 255
+one pass
+8, 21
+rgb: 255, 255, 255
+one pass
+9, 21
+rgb: 255, 255, 255
+one pass
+10, 21
+rgb: 255, 255, 255
+one pass
+11, 21
+rgb: 0, 0, 0
+one pass
+12, 21
+rgb: 0, 0, 0
+one pass
+13, 21
+rgb: 255, 255, 255
+one pass
+14, 21
+rgb: 255, 255, 255
+one pass
+15, 21
+rgb: 255, 255, 255
+one pass
+16, 21
+rgb: 255, 255, 255
+one pass
+17, 21
+rgb: 255, 255, 255
+one pass
+18, 21
+rgb: 255, 255, 255
+one pass
+19, 21
+rgb: 0, 0, 0
+one pass
+20, 21
+rgb: 156, 0, 255
+one pass
+21, 21
+rgb: 156, 0, 255
+one pass
+22, 21
+rgb: 156, 0, 255
+one pass
+23, 21
+rgb: 156, 0, 255
+one pass
+24, 21
+rgb: 156, 0, 255
+one pass
+25, 21
+rgb: 0, 0, 0
+one pass
+26, 21
+rgb: 255, 255, 255
+one pass
+27, 21
+rgb: 255, 255, 255
+one pass
+28, 21
+rgb: 255, 255, 255
+one pass
+29, 21
+rgb: 255, 255, 255
+one pass
+30, 21
+rgb: 255, 255, 255
+one pass
+31, 21
+rgb: 255, 255, 255
+one pass
+32, 21
+rgb: 255, 255, 255
+one pass
+33, 21
+rgb: 0, 0, 0
+one pass
+34, 21
+rgb: 156, 0, 255
+one pass
+35, 21
+rgb: 156, 0, 255
+one pass
+36, 21
+rgb: 0, 0, 0
+one pass
+37, 21
+rgb: 255, 255, 255
+one pass
+38, 21
+rgb: 255, 255, 255
+one pass
+39, 21
+rgb: 255, 255, 255
+one pass
+40, 21
+rgb: 0, 0, 0
+one pass
+41, 21
+rgb: 156, 0, 255
+one pass
+42, 21
+rgb: 156, 0, 255
+one pass
+43, 21
+rgb: 156, 0, 255
+one pass
+44, 21
+rgb: 0, 0, 0
+one pass
+45, 21
+rgb: 255, 255, 255
+one pass
+46, 21
+rgb: 255, 255, 255
+one pass
+47, 21
+rgb: 0, 0, 0
+one pass
+0, 22
+rgb: 0, 0, 0
+one pass
+1, 22
+rgb: 255, 255, 255
+one pass
+2, 22
+rgb: 255, 255, 255
+one pass
+3, 22
+rgb: 0, 0, 0
+one pass
+4, 22
+rgb: 0, 0, 0
+one pass
+5, 22
+rgb: 255, 255, 255
+one pass
+6, 22
+rgb: 255, 255, 255
+one pass
+7, 22
+rgb: 255, 255, 255
+one pass
+8, 22
+rgb: 255, 255, 255
+one pass
+9, 22
+rgb: 255, 255, 255
+one pass
+10, 22
+rgb: 255, 255, 255
+one pass
+11, 22
+rgb: 0, 0, 0
+one pass
+12, 22
+rgb: 0, 0, 0
+one pass
+13, 22
+rgb: 255, 255, 255
+one pass
+14, 22
+rgb: 255, 255, 255
+one pass
+15, 22
+rgb: 255, 255, 255
+one pass
+16, 22
+rgb: 255, 255, 255
+one pass
+17, 22
+rgb: 255, 255, 255
+one pass
+18, 22
+rgb: 255, 255, 255
+one pass
+19, 22
+rgb: 0, 0, 0
+one pass
+20, 22
+rgb: 156, 0, 255
+one pass
+21, 22
+rgb: 156, 0, 255
+one pass
+22, 22
+rgb: 156, 0, 255
+one pass
+23, 22
+rgb: 156, 0, 255
+one pass
+24, 22
+rgb: 156, 0, 255
+one pass
+25, 22
+rgb: 0, 0, 0
+one pass
+26, 22
+rgb: 255, 255, 255
+one pass
+27, 22
+rgb: 255, 255, 255
+one pass
+28, 22
+rgb: 255, 255, 255
+one pass
+29, 22
+rgb: 255, 255, 255
+one pass
+30, 22
+rgb: 255, 255, 255
+one pass
+31, 22
+rgb: 255, 255, 255
+one pass
+32, 22
+rgb: 255, 255, 255
+one pass
+33, 22
+rgb: 0, 0, 0
+one pass
+34, 22
+rgb: 156, 0, 255
+one pass
+35, 22
+rgb: 156, 0, 255
+one pass
+36, 22
+rgb: 0, 0, 0
+one pass
+37, 22
+rgb: 255, 255, 255
+one pass
+38, 22
+rgb: 255, 255, 255
+one pass
+39, 22
+rgb: 255, 255, 255
+one pass
+40, 22
+rgb: 0, 0, 0
+one pass
+41, 22
+rgb: 156, 0, 255
+one pass
+42, 22
+rgb: 156, 0, 255
+one pass
+43, 22
+rgb: 156, 0, 255
+one pass
+44, 22
+rgb: 0, 0, 0
+one pass
+45, 22
+rgb: 255, 255, 255
+one pass
+46, 22
+rgb: 255, 255, 255
+one pass
+47, 22
+rgb: 0, 0, 0
+one pass
+0, 23
+rgb: 0, 0, 0
+one pass
+1, 23
+rgb: 255, 255, 255
+one pass
+2, 23
+rgb: 255, 255, 255
+one pass
+3, 23
+rgb: 0, 0, 0
+one pass
+4, 23
+rgb: 0, 0, 0
+one pass
+5, 23
+rgb: 0, 0, 0
+one pass
+6, 23
+rgb: 0, 0, 0
+one pass
+7, 23
+rgb: 0, 0, 0
+one pass
+8, 23
+rgb: 0, 0, 0
+one pass
+9, 23
+rgb: 0, 0, 0
+one pass
+10, 23
+rgb: 0, 0, 0
+one pass
+11, 23
+rgb: 255, 128, 0
+one pass
+12, 23
+rgb: 0, 0, 0
+one pass
+13, 23
+rgb: 0, 0, 0
+one pass
+14, 23
+rgb: 0, 0, 0
+one pass
+15, 23
+rgb: 0, 255, 0
+one pass
+16, 23
+rgb: 0, 255, 0
+one pass
+17, 23
+rgb: 0, 0, 0
+one pass
+18, 23
+rgb: 0, 0, 0
+one pass
+19, 23
+rgb: 255, 128, 0
+one pass
+20, 23
+rgb: 156, 0, 255
+one pass
+21, 23
+rgb: 156, 0, 255
+one pass
+22, 23
+rgb: 156, 0, 255
+one pass
+23, 23
+rgb: 156, 0, 255
+one pass
+24, 23
+rgb: 156, 0, 255
+one pass
+25, 23
+rgb: 0, 0, 0
+one pass
+26, 23
+rgb: 255, 255, 255
+one pass
+27, 23
+rgb: 255, 255, 255
+one pass
+28, 23
+rgb: 255, 255, 255
+one pass
+29, 23
+rgb: 255, 255, 255
+one pass
+30, 23
+rgb: 255, 255, 255
+one pass
+31, 23
+rgb: 255, 255, 255
+one pass
+32, 23
+rgb: 255, 255, 255
+one pass
+33, 23
+rgb: 0, 0, 0
+one pass
+34, 23
+rgb: 156, 0, 255
+one pass
+35, 23
+rgb: 156, 0, 255
+one pass
+36, 23
+rgb: 0, 0, 0
+one pass
+37, 23
+rgb: 255, 255, 255
+one pass
+38, 23
+rgb: 255, 255, 255
+one pass
+39, 23
+rgb: 255, 255, 255
+one pass
+40, 23
+rgb: 0, 0, 0
+one pass
+41, 23
+rgb: 156, 0, 255
+one pass
+42, 23
+rgb: 156, 0, 255
+one pass
+43, 23
+rgb: 156, 0, 255
+one pass
+44, 23
+rgb: 0, 0, 0
+one pass
+45, 23
+rgb: 255, 255, 255
+one pass
+46, 23
+rgb: 255, 255, 255
+one pass
+47, 23
+rgb: 0, 0, 0
+one pass
+0, 24
+rgb: 0, 0, 0
+one pass
+1, 24
+rgb: 255, 255, 255
+one pass
+2, 24
+rgb: 255, 255, 255
+one pass
+3, 24
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 4, 24
+     going right
+5, 24 for maxX
+rgb: 0, 0, 0
+6, 24 for maxX
+rgb: 0, 0, 0
+7, 24 for maxX
+rgb: 0, 0, 0
+8, 24 for maxX
+rgb: 0, 0, 0
+9, 24 for maxX
+rgb: 0, 0, 0
+10, 24 for maxX
+rgb: 255, 0, 0
+11, 24 for maxX
+rgb: 255, 0, 0
+set maxX 11
+     going down
+rgb: 0, 0, 0
+11, 26 for maxY
+rgb: 0, 255, 0
+11, 27 for maxY
+rgb: 0, 255, 0
+11, 28 for maxY
+rgb: 0, 0, 0
+11, 29 for maxY
+rgb: 0, 0, 0
+11, 30 for maxY
+rgb: 255, 128, 0
+11, 31 for maxY
+rgb: 255, 128, 0
+set maxY 31
+--------------------
+Made room at 4, 24, 6 wide and 6 tall
+-------------------
+not done, going back
+init 12, 24
+rgb: 255, 0, 0
+found corner
+set mins 12, 24
+     going right
+13, 24 for maxX
+rgb: 0, 0, 0
+14, 24 for maxX
+rgb: 0, 255, 0
+15, 24 for maxX
+rgb: 0, 255, 0
+16, 24 for maxX
+rgb: 0, 0, 0
+17, 24 for maxX
+rgb: 0, 0, 0
+18, 24 for maxX
+rgb: 255, 0, 0
+19, 24 for maxX
+rgb: 255, 0, 0
+set maxX 19
+     going down
+rgb: 0, 0, 0
+19, 26 for maxY
+rgb: 0, 0, 0
+19, 27 for maxY
+rgb: 0, 255, 0
+19, 28 for maxY
+rgb: 0, 255, 0
+19, 29 for maxY
+rgb: 0, 0, 0
+19, 30 for maxY
+rgb: 255, 128, 0
+19, 31 for maxY
+rgb: 255, 128, 0
+set maxY 31
+--------------------
+Made room at 12, 24, 6 wide and 6 tall
+-------------------
+not done, going back
+init 20, 24
+20, 24
+rgb: 156, 0, 255
+one pass
+21, 24
+rgb: 156, 0, 255
+one pass
+22, 24
+rgb: 156, 0, 255
+one pass
+23, 24
+rgb: 156, 0, 255
+one pass
+24, 24
+rgb: 156, 0, 255
+one pass
+25, 24
+rgb: 0, 0, 0
+one pass
+26, 24
+rgb: 255, 255, 255
+one pass
+27, 24
+rgb: 255, 255, 255
+one pass
+28, 24
+rgb: 255, 255, 255
+one pass
+29, 24
+rgb: 255, 255, 255
+one pass
+30, 24
+rgb: 255, 255, 255
+one pass
+31, 24
+rgb: 255, 255, 255
+one pass
+32, 24
+rgb: 255, 255, 255
+one pass
+33, 24
+rgb: 0, 0, 0
+one pass
+34, 24
+rgb: 156, 0, 255
+one pass
+35, 24
+rgb: 156, 0, 255
+one pass
+36, 24
+rgb: 0, 0, 0
+one pass
+37, 24
+rgb: 255, 255, 255
+one pass
+38, 24
+rgb: 255, 255, 255
+one pass
+39, 24
+rgb: 255, 255, 255
+one pass
+40, 24
+rgb: 0, 0, 0
+one pass
+41, 24
+rgb: 156, 0, 255
+one pass
+42, 24
+rgb: 156, 0, 255
+one pass
+43, 24
+rgb: 156, 0, 255
+one pass
+44, 24
+rgb: 0, 0, 0
+one pass
+45, 24
+rgb: 255, 255, 255
+one pass
+46, 24
+rgb: 255, 255, 255
+one pass
+47, 24
+rgb: 0, 0, 0
+one pass
+0, 25
+rgb: 0, 0, 0
+one pass
+1, 25
+rgb: 255, 255, 255
+one pass
+2, 25
+rgb: 255, 255, 255
+one pass
+3, 25
+rgb: 0, 0, 0
+one pass
+4, 25
+rgb: 0, 0, 0
+one pass
+5, 25
+rgb: 255, 255, 255
+one pass
+6, 25
+rgb: 255, 255, 255
+one pass
+7, 25
+rgb: 255, 255, 255
+one pass
+8, 25
+rgb: 255, 255, 255
+one pass
+9, 25
+rgb: 255, 255, 255
+one pass
+10, 25
+rgb: 255, 255, 255
+one pass
+11, 25
+rgb: 0, 0, 0
+one pass
+12, 25
+rgb: 0, 0, 0
+one pass
+13, 25
+rgb: 255, 255, 255
+one pass
+14, 25
+rgb: 255, 255, 255
+one pass
+15, 25
+rgb: 255, 255, 255
+one pass
+16, 25
+rgb: 255, 255, 255
+one pass
+17, 25
+rgb: 255, 255, 255
+one pass
+18, 25
+rgb: 255, 255, 255
+one pass
+19, 25
+rgb: 0, 0, 0
+one pass
+20, 25
+rgb: 156, 0, 255
+one pass
+21, 25
+rgb: 156, 0, 255
+one pass
+22, 25
+rgb: 156, 0, 255
+one pass
+23, 25
+rgb: 156, 0, 255
+one pass
+24, 25
+rgb: 156, 0, 255
+one pass
+25, 25
+rgb: 0, 0, 0
+one pass
+26, 25
+rgb: 0, 0, 0
+one pass
+27, 25
+rgb: 0, 0, 0
+one pass
+28, 25
+rgb: 0, 0, 0
+one pass
+29, 25
+rgb: 0, 255, 0
+one pass
+30, 25
+rgb: 0, 0, 0
+one pass
+31, 25
+rgb: 0, 0, 0
+one pass
+32, 25
+rgb: 0, 0, 0
+one pass
+33, 25
+rgb: 255, 128, 0
+one pass
+34, 25
+rgb: 156, 0, 255
+one pass
+35, 25
+rgb: 156, 0, 255
+one pass
+36, 25
+rgb: 0, 0, 0
+one pass
+37, 25
+rgb: 0, 0, 0
+one pass
+38, 25
+rgb: 0, 255, 0
+one pass
+39, 25
+rgb: 0, 0, 0
+one pass
+40, 25
+rgb: 255, 128, 0
+one pass
+41, 25
+rgb: 156, 0, 255
+one pass
+42, 25
+rgb: 156, 0, 255
+one pass
+43, 25
+rgb: 156, 0, 255
+one pass
+44, 25
+rgb: 0, 0, 0
+one pass
+45, 25
+rgb: 255, 255, 255
+one pass
+46, 25
+rgb: 255, 255, 255
+one pass
+47, 25
+rgb: 0, 0, 0
+one pass
+0, 26
+rgb: 0, 0, 0
+one pass
+1, 26
+rgb: 255, 255, 255
+one pass
+2, 26
+rgb: 255, 255, 255
+one pass
+3, 26
+rgb: 0, 0, 0
+one pass
+4, 26
+rgb: 0, 0, 0
+one pass
+5, 26
+rgb: 255, 255, 255
+one pass
+6, 26
+rgb: 255, 255, 255
+one pass
+7, 26
+rgb: 255, 255, 255
+one pass
+8, 26
+rgb: 255, 255, 255
+one pass
+9, 26
+rgb: 255, 255, 0
+one pass
+10, 26
+rgb: 255, 255, 255
+one pass
+11, 26
+rgb: 0, 0, 0
+one pass
+12, 26
+rgb: 0, 0, 0
+one pass
+13, 26
+rgb: 255, 255, 255
+one pass
+14, 26
+rgb: 255, 255, 255
+one pass
+15, 26
+rgb: 255, 255, 255
+one pass
+16, 26
+rgb: 255, 255, 255
+one pass
+17, 26
+rgb: 255, 255, 255
+one pass
+18, 26
+rgb: 255, 255, 255
+one pass
+19, 26
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 20, 26
+     going right
+21, 26 for maxX
+rgb: 0, 0, 0
+22, 26 for maxX
+rgb: 0, 0, 0
+23, 26 for maxX
+rgb: 0, 0, 0
+24, 26 for maxX
+rgb: 0, 0, 0
+25, 26 for maxX
+rgb: 0, 0, 0
+26, 26 for maxX
+rgb: 0, 0, 0
+27, 26 for maxX
+rgb: 0, 0, 0
+28, 26 for maxX
+rgb: 0, 255, 0
+29, 26 for maxX
+rgb: 0, 0, 0
+30, 26 for maxX
+rgb: 0, 0, 0
+31, 26 for maxX
+rgb: 0, 0, 0
+32, 26 for maxX
+rgb: 0, 0, 0
+33, 26 for maxX
+rgb: 0, 0, 0
+34, 26 for maxX
+rgb: 0, 0, 0
+35, 26 for maxX
+rgb: 0, 0, 0
+36, 26 for maxX
+rgb: 0, 0, 0
+37, 26 for maxX
+rgb: 0, 255, 0
+38, 26 for maxX
+rgb: 0, 0, 0
+39, 26 for maxX
+rgb: 0, 0, 0
+40, 26 for maxX
+rgb: 0, 0, 0
+41, 26 for maxX
+rgb: 0, 0, 0
+42, 26 for maxX
+rgb: 255, 0, 0
+43, 26 for maxX
+rgb: 255, 0, 0
+set maxX 43
+     going down
+rgb: 0, 255, 0
+43, 28 for maxY
+rgb: 0, 0, 0
+43, 29 for maxY
+rgb: 0, 0, 0
+43, 30 for maxY
+rgb: 255, 128, 0
+43, 31 for maxY
+rgb: 255, 128, 0
+set maxY 31
+--------------------
+Made room at 20, 26, 22 wide and 4 tall
+-------------------
+not done, going back
+init 44, 26
+44, 26
+rgb: 0, 0, 0
+one pass
+45, 26
+rgb: 255, 255, 255
+one pass
+46, 26
+rgb: 255, 255, 255
+one pass
+47, 26
+rgb: 0, 0, 0
+one pass
+0, 27
+rgb: 0, 0, 0
+one pass
+1, 27
+rgb: 255, 255, 255
+one pass
+2, 27
+rgb: 255, 255, 255
+one pass
+3, 27
+rgb: 0, 0, 0
+one pass
+4, 27
+rgb: 0, 0, 0
+one pass
+5, 27
+rgb: 255, 255, 255
+one pass
+6, 27
+rgb: 255, 255, 255
+one pass
+7, 27
+rgb: 255, 255, 255
+one pass
+8, 27
+rgb: 255, 255, 255
+one pass
+9, 27
+rgb: 255, 255, 255
+one pass
+10, 27
+rgb: 255, 255, 255
+one pass
+11, 27
+rgb: 0, 255, 0
+one pass
+12, 27
+rgb: 0, 255, 0
+one pass
+13, 27
+rgb: 255, 255, 255
+one pass
+14, 27
+rgb: 255, 255, 255
+one pass
+15, 27
+rgb: 255, 255, 255
+one pass
+16, 27
+rgb: 255, 255, 255
+one pass
+17, 27
+rgb: 255, 255, 255
+one pass
+18, 27
+rgb: 255, 255, 255
+one pass
+19, 27
+rgb: 0, 0, 0
+one pass
+20, 27
+rgb: 0, 0, 0
+one pass
+21, 27
+rgb: 255, 255, 255
+one pass
+22, 27
+rgb: 255, 255, 255
+one pass
+23, 27
+rgb: 255, 255, 255
+one pass
+24, 27
+rgb: 255, 255, 255
+one pass
+25, 27
+rgb: 255, 255, 255
+one pass
+26, 27
+rgb: 255, 255, 255
+one pass
+27, 27
+rgb: 255, 255, 255
+one pass
+28, 27
+rgb: 255, 255, 255
+one pass
+29, 27
+rgb: 255, 255, 255
+one pass
+30, 27
+rgb: 255, 255, 255
+one pass
+31, 27
+rgb: 255, 255, 255
+one pass
+32, 27
+rgb: 255, 255, 255
+one pass
+33, 27
+rgb: 255, 255, 255
+one pass
+34, 27
+rgb: 255, 255, 255
+one pass
+35, 27
+rgb: 255, 255, 255
+one pass
+36, 27
+rgb: 255, 255, 255
+one pass
+37, 27
+rgb: 255, 255, 255
+one pass
+38, 27
+rgb: 255, 255, 255
+one pass
+39, 27
+rgb: 255, 255, 255
+one pass
+40, 27
+rgb: 255, 255, 255
+one pass
+41, 27
+rgb: 255, 255, 255
+one pass
+42, 27
+rgb: 255, 255, 255
+one pass
+43, 27
+rgb: 0, 0, 0
+one pass
+44, 27
+rgb: 0, 0, 0
+one pass
+45, 27
+rgb: 255, 255, 255
+one pass
+46, 27
+rgb: 255, 255, 255
+one pass
+47, 27
+rgb: 0, 0, 0
+one pass
+0, 28
+rgb: 0, 0, 0
+one pass
+1, 28
+rgb: 255, 255, 255
+one pass
+2, 28
+rgb: 255, 255, 255
+one pass
+3, 28
+rgb: 0, 0, 0
+one pass
+4, 28
+rgb: 0, 0, 0
+one pass
+5, 28
+rgb: 255, 255, 255
+one pass
+6, 28
+rgb: 255, 255, 255
+one pass
+7, 28
+rgb: 255, 255, 255
+one pass
+8, 28
+rgb: 255, 255, 255
+one pass
+9, 28
+rgb: 255, 255, 255
+one pass
+10, 28
+rgb: 255, 255, 255
+one pass
+11, 28
+rgb: 0, 255, 0
+one pass
+12, 28
+rgb: 0, 255, 0
+one pass
+13, 28
+rgb: 255, 255, 255
+one pass
+14, 28
+rgb: 255, 255, 255
+one pass
+15, 28
+rgb: 255, 255, 255
+one pass
+16, 28
+rgb: 255, 255, 255
+one pass
+17, 28
+rgb: 255, 255, 255
+one pass
+18, 28
+rgb: 255, 255, 255
+one pass
+19, 28
+rgb: 0, 255, 0
+one pass
+20, 28
+rgb: 0, 255, 0
+one pass
+21, 28
+rgb: 255, 255, 255
+one pass
+22, 28
+rgb: 255, 255, 255
+one pass
+23, 28
+rgb: 255, 255, 255
+one pass
+24, 28
+rgb: 255, 255, 255
+one pass
+25, 28
+rgb: 255, 255, 255
+one pass
+26, 28
+rgb: 255, 255, 255
+one pass
+27, 28
+rgb: 255, 255, 255
+one pass
+28, 28
+rgb: 255, 255, 255
+one pass
+29, 28
+rgb: 255, 255, 255
+one pass
+30, 28
+rgb: 255, 255, 255
+one pass
+31, 28
+rgb: 255, 255, 255
+one pass
+32, 28
+rgb: 255, 255, 255
+one pass
+33, 28
+rgb: 255, 255, 255
+one pass
+34, 28
+rgb: 255, 255, 255
+one pass
+35, 28
+rgb: 255, 255, 255
+one pass
+36, 28
+rgb: 255, 255, 255
+one pass
+37, 28
+rgb: 255, 255, 255
+one pass
+38, 28
+rgb: 255, 255, 255
+one pass
+39, 28
+rgb: 255, 255, 255
+one pass
+40, 28
+rgb: 255, 255, 255
+one pass
+41, 28
+rgb: 255, 255, 255
+one pass
+42, 28
+rgb: 255, 255, 255
+one pass
+43, 28
+rgb: 0, 255, 0
+one pass
+44, 28
+rgb: 0, 255, 0
+one pass
+45, 28
+rgb: 255, 255, 255
+one pass
+46, 28
+rgb: 255, 255, 255
+one pass
+47, 28
+rgb: 0, 0, 0
+one pass
+0, 29
+rgb: 0, 0, 0
+one pass
+1, 29
+rgb: 255, 255, 255
+one pass
+2, 29
+rgb: 255, 255, 255
+one pass
+3, 29
+rgb: 0, 0, 0
+one pass
+4, 29
+rgb: 0, 0, 0
+one pass
+5, 29
+rgb: 255, 255, 255
+one pass
+6, 29
+rgb: 0, 0, 255
+one pass
+7, 29
+rgb: 255, 255, 255
+one pass
+8, 29
+rgb: 255, 255, 255
+one pass
+9, 29
+rgb: 255, 255, 255
+one pass
+10, 29
+rgb: 255, 255, 255
+one pass
+11, 29
+rgb: 0, 0, 0
+one pass
+12, 29
+rgb: 0, 0, 0
+one pass
+13, 29
+rgb: 255, 255, 255
+one pass
+14, 29
+rgb: 255, 255, 255
+one pass
+15, 29
+rgb: 255, 255, 255
+one pass
+16, 29
+rgb: 255, 255, 255
+one pass
+17, 29
+rgb: 255, 255, 255
+one pass
+18, 29
+rgb: 255, 255, 255
+one pass
+19, 29
+rgb: 0, 255, 0
+one pass
+20, 29
+rgb: 0, 255, 0
+one pass
+21, 29
+rgb: 255, 255, 255
+one pass
+22, 29
+rgb: 255, 255, 255
+one pass
+23, 29
+rgb: 255, 255, 255
+one pass
+24, 29
+rgb: 255, 255, 255
+one pass
+25, 29
+rgb: 255, 255, 255
+one pass
+26, 29
+rgb: 255, 255, 255
+one pass
+27, 29
+rgb: 255, 255, 255
+one pass
+28, 29
+rgb: 255, 255, 255
+one pass
+29, 29
+rgb: 255, 255, 255
+one pass
+30, 29
+rgb: 255, 255, 255
+one pass
+31, 29
+rgb: 255, 255, 255
+one pass
+32, 29
+rgb: 255, 255, 255
+one pass
+33, 29
+rgb: 255, 255, 255
+one pass
+34, 29
+rgb: 255, 255, 255
+one pass
+35, 29
+rgb: 255, 255, 255
+one pass
+36, 29
+rgb: 255, 255, 255
+one pass
+37, 29
+rgb: 255, 255, 255
+one pass
+38, 29
+rgb: 255, 255, 255
+one pass
+39, 29
+rgb: 255, 255, 255
+one pass
+40, 29
+rgb: 255, 255, 255
+one pass
+41, 29
+rgb: 255, 255, 255
+one pass
+42, 29
+rgb: 255, 255, 255
+one pass
+43, 29
+rgb: 0, 0, 0
+one pass
+44, 29
+rgb: 0, 0, 0
+one pass
+45, 29
+rgb: 255, 255, 255
+one pass
+46, 29
+rgb: 255, 255, 255
+one pass
+47, 29
+rgb: 0, 0, 0
+one pass
+0, 30
+rgb: 0, 0, 0
+one pass
+1, 30
+rgb: 255, 255, 255
+one pass
+2, 30
+rgb: 255, 255, 255
+one pass
+3, 30
+rgb: 0, 0, 0
+one pass
+4, 30
+rgb: 0, 0, 0
+one pass
+5, 30
+rgb: 255, 255, 255
+one pass
+6, 30
+rgb: 255, 255, 255
+one pass
+7, 30
+rgb: 255, 255, 255
+one pass
+8, 30
+rgb: 255, 255, 255
+one pass
+9, 30
+rgb: 255, 255, 255
+one pass
+10, 30
+rgb: 255, 255, 255
+one pass
+11, 30
+rgb: 0, 0, 0
+one pass
+12, 30
+rgb: 0, 0, 0
+one pass
+13, 30
+rgb: 255, 255, 255
+one pass
+14, 30
+rgb: 255, 255, 255
+one pass
+15, 30
+rgb: 255, 255, 255
+one pass
+16, 30
+rgb: 255, 255, 255
+one pass
+17, 30
+rgb: 255, 255, 255
+one pass
+18, 30
+rgb: 255, 255, 255
+one pass
+19, 30
+rgb: 0, 0, 0
+one pass
+20, 30
+rgb: 0, 0, 0
+one pass
+21, 30
+rgb: 255, 255, 255
+one pass
+22, 30
+rgb: 255, 255, 255
+one pass
+23, 30
+rgb: 255, 255, 255
+one pass
+24, 30
+rgb: 255, 255, 255
+one pass
+25, 30
+rgb: 255, 255, 255
+one pass
+26, 30
+rgb: 255, 255, 255
+one pass
+27, 30
+rgb: 255, 255, 255
+one pass
+28, 30
+rgb: 255, 255, 255
+one pass
+29, 30
+rgb: 255, 255, 255
+one pass
+30, 30
+rgb: 255, 255, 255
+one pass
+31, 30
+rgb: 255, 255, 255
+one pass
+32, 30
+rgb: 255, 255, 255
+one pass
+33, 30
+rgb: 255, 255, 255
+one pass
+34, 30
+rgb: 255, 255, 255
+one pass
+35, 30
+rgb: 255, 255, 255
+one pass
+36, 30
+rgb: 255, 255, 255
+one pass
+37, 30
+rgb: 255, 255, 255
+one pass
+38, 30
+rgb: 255, 255, 255
+one pass
+39, 30
+rgb: 255, 255, 255
+one pass
+40, 30
+rgb: 255, 255, 255
+one pass
+41, 30
+rgb: 255, 255, 255
+one pass
+42, 30
+rgb: 255, 255, 255
+one pass
+43, 30
+rgb: 0, 0, 0
+one pass
+44, 30
+rgb: 0, 0, 0
+one pass
+45, 30
+rgb: 0, 0, 0
+one pass
+46, 30
+rgb: 0, 255, 0
+one pass
+47, 30
+rgb: 255, 128, 0
+one pass
+0, 31
+rgb: 0, 0, 0
+one pass
+1, 31
+rgb: 255, 255, 255
+one pass
+2, 31
+rgb: 255, 255, 255
+one pass
+3, 31
+rgb: 0, 0, 0
+one pass
+4, 31
+rgb: 0, 0, 0
+one pass
+5, 31
+rgb: 0, 0, 0
+one pass
+6, 31
+rgb: 0, 0, 0
+one pass
+7, 31
+rgb: 0, 0, 0
+one pass
+8, 31
+rgb: 0, 0, 0
+one pass
+9, 31
+rgb: 0, 0, 0
+one pass
+10, 31
+rgb: 0, 0, 0
+one pass
+11, 31
+rgb: 255, 128, 0
+one pass
+12, 31
+rgb: 0, 0, 0
+one pass
+13, 31
+rgb: 0, 0, 0
+one pass
+14, 31
+rgb: 0, 0, 0
+one pass
+15, 31
+rgb: 0, 0, 0
+one pass
+16, 31
+rgb: 0, 0, 0
+one pass
+17, 31
+rgb: 0, 0, 0
+one pass
+18, 31
+rgb: 0, 0, 0
+one pass
+19, 31
+rgb: 255, 128, 0
+one pass
+20, 31
+rgb: 0, 0, 0
+one pass
+21, 31
+rgb: 0, 0, 0
+one pass
+22, 31
+rgb: 0, 0, 0
+one pass
+23, 31
+rgb: 0, 0, 0
+one pass
+24, 31
+rgb: 0, 0, 0
+one pass
+25, 31
+rgb: 0, 0, 0
+one pass
+26, 31
+rgb: 0, 0, 0
+one pass
+27, 31
+rgb: 0, 0, 0
+one pass
+28, 31
+rgb: 0, 0, 0
+one pass
+29, 31
+rgb: 0, 0, 0
+one pass
+30, 31
+rgb: 0, 0, 0
+one pass
+31, 31
+rgb: 0, 0, 0
+one pass
+32, 31
+rgb: 0, 0, 0
+one pass
+33, 31
+rgb: 0, 0, 0
+one pass
+34, 31
+rgb: 0, 0, 0
+one pass
+35, 31
+rgb: 0, 0, 0
+one pass
+36, 31
+rgb: 0, 0, 0
+one pass
+37, 31
+rgb: 0, 0, 0
+one pass
+38, 31
+rgb: 0, 0, 0
+one pass
+39, 31
+rgb: 0, 0, 0
+one pass
+40, 31
+rgb: 0, 0, 0
+one pass
+41, 31
+rgb: 0, 0, 0
+one pass
+42, 31
+rgb: 0, 0, 0
+one pass
+43, 31
+rgb: 255, 128, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 44, 31
+     going right
+45, 31 for maxX
+rgb: 0, 255, 0
+46, 31 for maxX
+rgb: 255, 0, 0
+47, 31 for maxX
+rgb: 255, 0, 0
+set maxX 47
+     going down
+rgb: 0, 0, 0
+47, 33 for maxY
+rgb: 255, 128, 0
+47, 34 for maxY
+rgb: 255, 128, 0
+set maxY 34
+--------------------
+Made room at 44, 31, 2 wide and 2 tall
+-------------------
+not done, going back
+init 0, 32
+0, 32
+rgb: 0, 0, 0
+one pass
+1, 32
+rgb: 255, 255, 255
+one pass
+2, 32
+rgb: 255, 255, 255
+one pass
+3, 32
+rgb: 0, 0, 0
+one pass
+4, 32
+rgb: 156, 0, 255
+one pass
+5, 32
+rgb: 156, 0, 255
+one pass
+6, 32
+rgb: 156, 0, 255
+one pass
+7, 32
+rgb: 156, 0, 255
+one pass
+8, 32
+rgb: 156, 0, 255
+one pass
+9, 32
+rgb: 156, 0, 255
+one pass
+10, 32
+rgb: 156, 0, 255
+one pass
+11, 32
+rgb: 156, 0, 255
+one pass
+12, 32
+rgb: 156, 0, 255
+one pass
+13, 32
+rgb: 156, 0, 255
+one pass
+14, 32
+rgb: 156, 0, 255
+one pass
+15, 32
+rgb: 156, 0, 255
+one pass
+16, 32
+rgb: 156, 0, 255
+one pass
+17, 32
+rgb: 156, 0, 255
+one pass
+18, 32
+rgb: 156, 0, 255
+one pass
+19, 32
+rgb: 156, 0, 255
+one pass
+20, 32
+rgb: 156, 0, 255
+one pass
+21, 32
+rgb: 156, 0, 255
+one pass
+22, 32
+rgb: 156, 0, 255
+one pass
+23, 32
+rgb: 156, 0, 255
+one pass
+24, 32
+rgb: 156, 0, 255
+one pass
+25, 32
+rgb: 156, 0, 255
+one pass
+26, 32
+rgb: 156, 0, 255
+one pass
+27, 32
+rgb: 156, 0, 255
+one pass
+28, 32
+rgb: 156, 0, 255
+one pass
+29, 32
+rgb: 156, 0, 255
+one pass
+30, 32
+rgb: 156, 0, 255
+one pass
+31, 32
+rgb: 156, 0, 255
+one pass
+32, 32
+rgb: 156, 0, 255
+one pass
+33, 32
+rgb: 156, 0, 255
+one pass
+34, 32
+rgb: 156, 0, 255
+one pass
+35, 32
+rgb: 156, 0, 255
+one pass
+36, 32
+rgb: 156, 0, 255
+one pass
+37, 32
+rgb: 156, 0, 255
+one pass
+38, 32
+rgb: 156, 0, 255
+one pass
+39, 32
+rgb: 156, 0, 255
+one pass
+40, 32
+rgb: 156, 0, 255
+one pass
+41, 32
+rgb: 156, 0, 255
+one pass
+42, 32
+rgb: 156, 0, 255
+one pass
+43, 32
+rgb: 156, 0, 255
+one pass
+44, 32
+rgb: 0, 0, 0
+one pass
+45, 32
+rgb: 255, 255, 255
+one pass
+46, 32
+rgb: 255, 255, 255
+one pass
+47, 32
+rgb: 0, 0, 0
+one pass
+0, 33
+rgb: 0, 0, 0
+one pass
+1, 33
+rgb: 255, 255, 255
+one pass
+2, 33
+rgb: 255, 255, 255
+one pass
+3, 33
+rgb: 0, 0, 0
+one pass
+4, 33
+rgb: 156, 0, 255
+one pass
+5, 33
+rgb: 156, 0, 255
+one pass
+6, 33
+rgb: 156, 0, 255
+one pass
+7, 33
+rgb: 156, 0, 255
+one pass
+8, 33
+rgb: 156, 0, 255
+one pass
+9, 33
+rgb: 156, 0, 255
+one pass
+10, 33
+rgb: 156, 0, 255
+one pass
+11, 33
+rgb: 156, 0, 255
+one pass
+12, 33
+rgb: 156, 0, 255
+one pass
+13, 33
+rgb: 156, 0, 255
+one pass
+14, 33
+rgb: 156, 0, 255
+one pass
+15, 33
+rgb: 156, 0, 255
+one pass
+16, 33
+rgb: 156, 0, 255
+one pass
+17, 33
+rgb: 156, 0, 255
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 18, 33
+     going right
+19, 33 for maxX
+rgb: 0, 0, 0
+20, 33 for maxX
+rgb: 0, 0, 0
+21, 33 for maxX
+rgb: 0, 0, 0
+22, 33 for maxX
+rgb: 0, 0, 0
+23, 33 for maxX
+rgb: 0, 0, 0
+24, 33 for maxX
+rgb: 255, 0, 0
+25, 33 for maxX
+rgb: 255, 0, 0
+set maxX 25
+     going down
+rgb: 0, 0, 0
+25, 35 for maxY
+rgb: 0, 0, 0
+25, 36 for maxY
+rgb: 0, 255, 0
+25, 37 for maxY
+rgb: 0, 255, 0
+25, 38 for maxY
+rgb: 0, 0, 0
+25, 39 for maxY
+rgb: 255, 128, 0
+25, 40 for maxY
+rgb: 255, 128, 0
+set maxY 40
+--------------------
+Made room at 18, 33, 6 wide and 6 tall
+-------------------
+not done, going back
+init 26, 33
+26, 33
+rgb: 156, 0, 255
+one pass
+27, 33
+rgb: 156, 0, 255
+one pass
+28, 33
+rgb: 156, 0, 255
+one pass
+29, 33
+rgb: 156, 0, 255
+one pass
+30, 33
+rgb: 156, 0, 255
+one pass
+31, 33
+rgb: 156, 0, 255
+one pass
+32, 33
+rgb: 156, 0, 255
+one pass
+33, 33
+rgb: 156, 0, 255
+one pass
+34, 33
+rgb: 156, 0, 255
+one pass
+35, 33
+rgb: 156, 0, 255
+one pass
+36, 33
+rgb: 156, 0, 255
+one pass
+37, 33
+rgb: 156, 0, 255
+one pass
+38, 33
+rgb: 156, 0, 255
+one pass
+39, 33
+rgb: 156, 0, 255
+one pass
+40, 33
+rgb: 156, 0, 255
+one pass
+41, 33
+rgb: 156, 0, 255
+one pass
+42, 33
+rgb: 156, 0, 255
+one pass
+43, 33
+rgb: 156, 0, 255
+one pass
+44, 33
+rgb: 0, 0, 0
+one pass
+45, 33
+rgb: 255, 255, 0
+one pass
+46, 33
+rgb: 255, 255, 255
+one pass
+47, 33
+rgb: 0, 0, 0
+one pass
+0, 34
+rgb: 0, 0, 0
+one pass
+1, 34
+rgb: 255, 255, 255
+one pass
+2, 34
+rgb: 255, 255, 255
+one pass
+3, 34
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 4, 34
+     going right
+5, 34 for maxX
+rgb: 0, 0, 0
+6, 34 for maxX
+rgb: 0, 0, 0
+7, 34 for maxX
+rgb: 0, 0, 0
+8, 34 for maxX
+rgb: 0, 0, 0
+9, 34 for maxX
+rgb: 0, 0, 0
+10, 34 for maxX
+rgb: 0, 0, 0
+11, 34 for maxX
+rgb: 0, 0, 0
+12, 34 for maxX
+rgb: 0, 0, 0
+13, 34 for maxX
+rgb: 0, 0, 0
+14, 34 for maxX
+rgb: 0, 0, 0
+15, 34 for maxX
+rgb: 0, 0, 0
+16, 34 for maxX
+rgb: 255, 0, 0
+17, 34 for maxX
+rgb: 255, 0, 0
+set maxX 17
+     going down
+rgb: 0, 0, 0
+17, 36 for maxY
+rgb: 0, 255, 0
+17, 37 for maxY
+rgb: 0, 0, 0
+17, 38 for maxY
+rgb: 0, 0, 0
+17, 39 for maxY
+rgb: 0, 0, 0
+17, 40 for maxY
+rgb: 0, 0, 0
+17, 41 for maxY
+rgb: 0, 255, 0
+17, 42 for maxY
+rgb: 255, 128, 0
+17, 43 for maxY
+rgb: 255, 128, 0
+set maxY 43
+--------------------
+Made room at 4, 34, 12 wide and 8 tall
+-------------------
+not done, going back
+init 18, 34
+18, 34
+rgb: 0, 0, 0
+one pass
+19, 34
+rgb: 255, 255, 255
+one pass
+20, 34
+rgb: 255, 255, 255
+one pass
+21, 34
+rgb: 255, 255, 255
+one pass
+22, 34
+rgb: 255, 255, 255
+one pass
+23, 34
+rgb: 255, 255, 255
+one pass
+24, 34
+rgb: 255, 255, 255
+one pass
+25, 34
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 26, 34
+     going right
+27, 34 for maxX
+rgb: 0, 0, 0
+28, 34 for maxX
+rgb: 0, 0, 0
+29, 34 for maxX
+rgb: 0, 0, 0
+30, 34 for maxX
+rgb: 0, 0, 0
+31, 34 for maxX
+rgb: 0, 0, 0
+32, 34 for maxX
+rgb: 0, 0, 0
+33, 34 for maxX
+rgb: 255, 0, 0
+34, 34 for maxX
+rgb: 255, 0, 0
+set maxX 34
+     going down
+rgb: 0, 0, 0
+34, 36 for maxY
+rgb: 0, 0, 0
+34, 37 for maxY
+rgb: 0, 0, 0
+34, 38 for maxY
+rgb: 0, 0, 0
+34, 39 for maxY
+rgb: 0, 255, 0
+34, 40 for maxY
+rgb: 0, 0, 0
+34, 41 for maxY
+rgb: 0, 0, 0
+34, 42 for maxY
+rgb: 0, 0, 0
+34, 43 for maxY
+rgb: 0, 0, 0
+34, 44 for maxY
+rgb: 255, 128, 0
+34, 45 for maxY
+rgb: 255, 128, 0
+set maxY 45
+--------------------
+Made room at 26, 34, 7 wide and 10 tall
+-------------------
+not done, going back
+init 35, 34
+35, 34
+rgb: 156, 0, 255
+one pass
+36, 34
+rgb: 156, 0, 255
+one pass
+37, 34
+rgb: 156, 0, 255
+one pass
+38, 34
+rgb: 156, 0, 255
+one pass
+39, 34
+rgb: 156, 0, 255
+one pass
+40, 34
+rgb: 156, 0, 255
+one pass
+41, 34
+rgb: 156, 0, 255
+one pass
+42, 34
+rgb: 156, 0, 255
+one pass
+43, 34
+rgb: 156, 0, 255
+one pass
+44, 34
+rgb: 0, 0, 0
+one pass
+45, 34
+rgb: 0, 0, 0
+one pass
+46, 34
+rgb: 0, 0, 0
+one pass
+47, 34
+rgb: 255, 128, 0
+one pass
+0, 35
+rgb: 0, 0, 0
+one pass
+1, 35
+rgb: 255, 255, 255
+one pass
+2, 35
+rgb: 255, 255, 255
+one pass
+3, 35
+rgb: 0, 0, 0
+one pass
+4, 35
+rgb: 0, 0, 0
+one pass
+5, 35
+rgb: 255, 255, 255
+one pass
+6, 35
+rgb: 255, 255, 255
+one pass
+7, 35
+rgb: 255, 255, 255
+one pass
+8, 35
+rgb: 255, 255, 255
+one pass
+9, 35
+rgb: 255, 255, 255
+one pass
+10, 35
+rgb: 255, 255, 255
+one pass
+11, 35
+rgb: 255, 255, 255
+one pass
+12, 35
+rgb: 255, 255, 255
+one pass
+13, 35
+rgb: 255, 255, 255
+one pass
+14, 35
+rgb: 255, 255, 255
+one pass
+15, 35
+rgb: 255, 255, 255
+one pass
+16, 35
+rgb: 255, 255, 255
+one pass
+17, 35
+rgb: 0, 0, 0
+one pass
+18, 35
+rgb: 0, 0, 0
+one pass
+19, 35
+rgb: 255, 255, 255
+one pass
+20, 35
+rgb: 255, 255, 255
+one pass
+21, 35
+rgb: 255, 255, 255
+one pass
+22, 35
+rgb: 255, 255, 255
+one pass
+23, 35
+rgb: 255, 255, 255
+one pass
+24, 35
+rgb: 255, 255, 255
+one pass
+25, 35
+rgb: 0, 0, 0
+one pass
+26, 35
+rgb: 0, 0, 0
+one pass
+27, 35
+rgb: 255, 255, 255
+one pass
+28, 35
+rgb: 255, 255, 255
+one pass
+29, 35
+rgb: 255, 255, 255
+one pass
+30, 35
+rgb: 255, 255, 255
+one pass
+31, 35
+rgb: 255, 255, 255
+one pass
+32, 35
+rgb: 255, 255, 255
+one pass
+33, 35
+rgb: 255, 255, 255
+one pass
+34, 35
+rgb: 0, 0, 0
+one pass
+rgb: 255, 0, 0
+found corner
+set mins 35, 35
+     going right
+36, 35 for maxX
+rgb: 0, 0, 0
+37, 35 for maxX
+rgb: 0, 0, 0
+38, 35 for maxX
+rgb: 0, 0, 0
+39, 35 for maxX
+rgb: 0, 0, 0
+40, 35 for maxX
+rgb: 0, 0, 0
+41, 35 for maxX
+rgb: 0, 0, 0
+42, 35 for maxX
+rgb: 0, 0, 0
+43, 35 for maxX
+rgb: 0, 0, 0
+44, 35 for maxX
+rgb: 0, 0, 0
+45, 35 for maxX
+rgb: 0, 0, 0
+46, 35 for maxX
+rgb: 255, 0, 0
+47, 35 for maxX
+rgb: 255, 0, 0
+set maxX 47
+     going down
+rgb: 0, 0, 0
+47, 37 for maxY
+rgb: 0, 0, 0
+47, 38 for maxY
+rgb: 0, 0, 0
+47, 39 for maxY
+rgb: 0, 0, 0
+47, 40 for maxY
+rgb: 0, 0, 0
+47, 41 for maxY
+rgb: 0, 0, 0
+47, 42 for maxY
+rgb: 0, 0, 0
+47, 43 for maxY
+rgb: 0, 0, 0
+47, 44 for maxY
+rgb: 0, 0, 0
+47, 45 for maxY
+rgb: 0, 0, 0
+47, 46 for maxY
+rgb: 255, 128, 0
+47, 47 for maxY
+rgb: 255, 128, 0
+set maxY 47
+--------------------
+Made room at 35, 35, 11 wide and 11 tall
+-------------------
+found 19 rooms
+
+--populating rooms-------------
+
+Start Room -------------
+read 24, 0
+rgb: 255, 0, 0
+read 24, 1
+rgb: 0, 0, 0
+read 24, 2
+rgb: 0, 0, 0
+read 24, 3
+rgb: 0, 0, 0
+read 24, 4
+rgb: 0, 0, 0
+read 24, 5
+rgb: 0, 0, 0
+read 24, 6
+rgb: 0, 255, 0
+made door w at pos 6
+read 24, 7
+rgb: 0, 255, 0
+made door w at pos 7
+read 24, 8
+rgb: 0, 0, 0
+read 24, 9
+rgb: 0, 0, 0
+read 24, 10
+rgb: 0, 0, 0
+read 24, 11
+rgb: 0, 0, 0
+read 24, 12
+rgb: 0, 0, 0
+read 25, 0
+rgb: 0, 0, 0
+read 25, 1
+rgb: 255, 255, 255
+read 25, 2
+rgb: 255, 255, 255
+read 25, 3
+rgb: 255, 255, 255
+read 25, 4
+rgb: 255, 255, 255
+read 25, 5
+rgb: 255, 255, 255
+read 25, 6
+rgb: 255, 255, 255
+read 25, 7
+rgb: 255, 255, 255
+read 25, 8
+rgb: 255, 255, 255
+read 25, 9
+rgb: 255, 255, 255
+read 25, 10
+rgb: 255, 255, 255
+read 25, 11
+rgb: 255, 255, 255
+read 25, 12
+rgb: 0, 0, 0
+read 26, 0
+rgb: 0, 0, 0
+read 26, 1
+rgb: 255, 255, 255
+read 26, 2
+rgb: 255, 255, 255
+read 26, 3
+rgb: 255, 255, 255
+read 26, 4
+rgb: 255, 255, 255
+read 26, 5
+rgb: 255, 255, 255
+read 26, 6
+rgb: 255, 255, 255
+read 26, 7
+rgb: 255, 255, 255
+read 26, 8
+rgb: 255, 255, 255
+read 26, 9
+rgb: 255, 255, 255
+read 26, 10
+rgb: 255, 255, 255
+read 26, 11
+rgb: 255, 255, 255
+read 26, 12
+rgb: 0, 0, 0
+read 27, 0
+rgb: 0, 0, 0
+read 27, 1
+rgb: 255, 255, 255
+read 27, 2
+rgb: 255, 255, 255
+read 27, 3
+rgb: 255, 255, 255
+read 27, 4
+rgb: 255, 255, 255
+read 27, 5
+rgb: 255, 255, 255
+read 27, 6
+rgb: 255, 255, 255
+read 27, 7
+rgb: 255, 255, 255
+read 27, 8
+rgb: 255, 255, 255
+read 27, 9
+rgb: 255, 255, 255
+read 27, 10
+rgb: 255, 255, 255
+read 27, 11
+rgb: 255, 255, 255
+read 27, 12
+rgb: 0, 0, 0
+read 28, 0
+rgb: 0, 0, 0
+read 28, 1
+rgb: 255, 255, 255
+read 28, 2
+rgb: 255, 255, 255
+read 28, 3
+rgb: 255, 255, 255
+read 28, 4
+rgb: 255, 255, 255
+read 28, 5
+rgb: 255, 255, 255
+read 28, 6
+rgb: 255, 255, 255
+read 28, 7
+rgb: 255, 255, 255
+read 28, 8
+rgb: 255, 255, 255
+read 28, 9
+rgb: 255, 255, 255
+read 28, 10
+rgb: 255, 255, 255
+read 28, 11
+rgb: 255, 255, 255
+read 28, 12
+rgb: 0, 0, 0
+read 29, 0
+rgb: 0, 0, 0
+read 29, 1
+rgb: 255, 255, 255
+read 29, 2
+rgb: 255, 255, 255
+read 29, 3
+rgb: 255, 255, 255
+read 29, 4
+rgb: 255, 255, 255
+read 29, 5
+rgb: 255, 255, 255
+read 29, 6
+rgb: 255, 255, 255
+read 29, 7
+rgb: 255, 255, 255
+read 29, 8
+rgb: 255, 255, 255
+read 29, 9
+rgb: 255, 255, 255
+read 29, 10
+rgb: 255, 255, 255
+read 29, 11
+rgb: 255, 255, 255
+read 29, 12
+rgb: 0, 255, 0
+made door s at pos 5
+read 30, 0
+rgb: 0, 0, 0
+read 30, 1
+rgb: 255, 255, 255
+read 30, 2
+rgb: 255, 255, 255
+read 30, 3
+rgb: 255, 255, 255
+read 30, 4
+rgb: 255, 255, 255
+read 30, 5
+rgb: 255, 255, 255
+read 30, 6
+rgb: 255, 255, 255
+read 30, 7
+rgb: 255, 255, 255
+read 30, 8
+rgb: 255, 255, 255
+read 30, 9
+rgb: 255, 255, 255
+read 30, 10
+rgb: 255, 255, 255
+read 30, 11
+rgb: 255, 255, 255
+read 30, 12
+rgb: 0, 0, 0
+read 31, 0
+rgb: 0, 0, 0
+read 31, 1
+rgb: 255, 255, 255
+read 31, 2
+rgb: 255, 255, 255
+read 31, 3
+rgb: 255, 255, 255
+read 31, 4
+rgb: 255, 255, 255
+read 31, 5
+rgb: 255, 255, 255
+read 31, 6
+rgb: 255, 255, 0
+read 31, 7
+rgb: 255, 255, 255
+read 31, 8
+rgb: 255, 255, 255
+read 31, 9
+rgb: 255, 255, 255
+read 31, 10
+rgb: 255, 255, 255
+read 31, 11
+rgb: 255, 255, 255
+read 31, 12
+rgb: 0, 0, 0
+read 32, 0
+rgb: 0, 0, 0
+read 32, 1
+rgb: 255, 255, 255
+read 32, 2
+rgb: 255, 255, 255
+read 32, 3
+rgb: 255, 255, 255
+read 32, 4
+rgb: 255, 255, 255
+read 32, 5
+rgb: 255, 255, 255
+read 32, 6
+rgb: 255, 255, 255
+read 32, 7
+rgb: 255, 255, 255
+read 32, 8
+rgb: 255, 255, 255
+read 32, 9
+rgb: 255, 255, 255
+read 32, 10
+rgb: 255, 255, 255
+read 32, 11
+rgb: 255, 255, 255
+read 32, 12
+rgb: 0, 0, 0
+read 33, 0
+rgb: 0, 0, 0
+read 33, 1
+rgb: 255, 255, 255
+read 33, 2
+rgb: 255, 255, 255
+read 33, 3
+rgb: 255, 255, 255
+read 33, 4
+rgb: 255, 255, 255
+read 33, 5
+rgb: 255, 255, 255
+read 33, 6
+rgb: 255, 255, 255
+read 33, 7
+rgb: 255, 255, 255
+read 33, 8
+rgb: 255, 255, 255
+read 33, 9
+rgb: 255, 255, 255
+read 33, 10
+rgb: 255, 255, 255
+read 33, 11
+rgb: 255, 255, 255
+read 33, 12
+rgb: 0, 0, 0
+read 34, 0
+rgb: 0, 0, 0
+read 34, 1
+rgb: 255, 255, 255
+read 34, 2
+rgb: 255, 255, 255
+read 34, 3
+rgb: 255, 255, 255
+read 34, 4
+rgb: 255, 255, 255
+read 34, 5
+rgb: 255, 255, 255
+read 34, 6
+rgb: 255, 255, 0
+read 34, 7
+rgb: 255, 255, 255
+read 34, 8
+rgb: 255, 255, 255
+read 34, 9
+rgb: 255, 255, 255
+read 34, 10
+rgb: 255, 255, 255
+read 34, 11
+rgb: 255, 255, 255
+read 34, 12
+rgb: 0, 0, 0
+read 35, 0
+rgb: 0, 0, 0
+read 35, 1
+rgb: 255, 255, 255
+read 35, 2
+rgb: 255, 255, 255
+read 35, 3
+rgb: 255, 255, 255
+read 35, 4
+rgb: 255, 255, 255
+read 35, 5
+rgb: 255, 255, 255
+read 35, 6
+rgb: 255, 255, 255
+read 35, 7
+rgb: 255, 255, 255
+read 35, 8
+rgb: 255, 255, 255
+read 35, 9
+rgb: 255, 255, 255
+read 35, 10
+rgb: 255, 255, 255
+read 35, 11
+rgb: 255, 255, 255
+read 35, 12
+rgb: 0, 0, 0
+read 36, 0
+rgb: 0, 0, 0
+read 36, 1
+rgb: 255, 255, 255
+read 36, 2
+rgb: 255, 255, 255
+read 36, 3
+rgb: 255, 255, 255
+read 36, 4
+rgb: 255, 255, 255
+read 36, 5
+rgb: 255, 255, 255
+read 36, 6
+rgb: 255, 255, 255
+read 36, 7
+rgb: 255, 255, 255
+read 36, 8
+rgb: 255, 255, 255
+read 36, 9
+rgb: 255, 255, 255
+read 36, 10
+rgb: 255, 255, 255
+read 36, 11
+rgb: 255, 255, 255
+read 36, 12
+rgb: 0, 0, 0
+read 37, 0
+rgb: 0, 0, 0
+read 37, 1
+rgb: 255, 255, 255
+read 37, 2
+rgb: 255, 255, 255
+read 37, 3
+rgb: 255, 255, 255
+read 37, 4
+rgb: 255, 255, 255
+read 37, 5
+rgb: 255, 255, 255
+read 37, 6
+rgb: 255, 255, 255
+read 37, 7
+rgb: 255, 255, 255
+read 37, 8
+rgb: 255, 255, 255
+read 37, 9
+rgb: 255, 255, 255
+read 37, 10
+rgb: 255, 255, 255
+read 37, 11
+rgb: 255, 255, 255
+read 37, 12
+rgb: 0, 0, 0
+read 38, 0
+rgb: 0, 0, 0
+read 38, 1
+rgb: 255, 255, 255
+read 38, 2
+rgb: 255, 255, 255
+read 38, 3
+rgb: 255, 255, 255
+read 38, 4
+rgb: 255, 255, 255
+read 38, 5
+rgb: 255, 255, 255
+read 38, 6
+rgb: 255, 255, 255
+read 38, 7
+rgb: 255, 255, 255
+read 38, 8
+rgb: 255, 255, 255
+read 38, 9
+rgb: 255, 255, 255
+read 38, 10
+rgb: 255, 255, 255
+read 38, 11
+rgb: 255, 255, 255
+read 38, 12
+rgb: 0, 0, 0
+read 39, 0
+rgb: 0, 0, 0
+read 39, 1
+rgb: 255, 255, 255
+read 39, 2
+rgb: 255, 255, 255
+read 39, 3
+rgb: 255, 255, 255
+read 39, 4
+rgb: 255, 255, 255
+read 39, 5
+rgb: 255, 255, 255
+read 39, 6
+rgb: 255, 255, 255
+read 39, 7
+rgb: 255, 255, 255
+read 39, 8
+rgb: 255, 255, 255
+read 39, 9
+rgb: 255, 255, 255
+read 39, 10
+rgb: 255, 255, 255
+read 39, 11
+rgb: 255, 255, 255
+read 39, 12
+rgb: 0, 255, 0
+made door s at pos 15
+read 40, 0
+rgb: 0, 0, 0
+read 40, 1
+rgb: 255, 255, 255
+read 40, 2
+rgb: 255, 255, 255
+read 40, 3
+rgb: 255, 255, 255
+read 40, 4
+rgb: 255, 255, 255
+read 40, 5
+rgb: 255, 255, 255
+read 40, 6
+rgb: 255, 255, 255
+read 40, 7
+rgb: 255, 255, 255
+read 40, 8
+rgb: 255, 255, 255
+read 40, 9
+rgb: 255, 255, 255
+read 40, 10
+rgb: 255, 255, 255
+read 40, 11
+rgb: 255, 255, 255
+read 40, 12
+rgb: 0, 0, 0
+read 41, 0
+rgb: 0, 0, 0
+read 41, 1
+rgb: 0, 0, 255
+read 41, 2
+rgb: 255, 255, 255
+read 41, 3
+rgb: 255, 255, 255
+read 41, 4
+rgb: 255, 255, 255
+read 41, 5
+rgb: 255, 255, 255
+read 41, 6
+rgb: 255, 255, 255
+read 41, 7
+rgb: 255, 255, 255
+read 41, 8
+rgb: 255, 255, 255
+read 41, 9
+rgb: 255, 255, 255
+read 41, 10
+rgb: 255, 255, 255
+read 41, 11
+rgb: 255, 255, 255
+read 41, 12
+rgb: 0, 0, 0
+read 42, 0
+rgb: 255, 0, 0
+read 42, 1
+rgb: 0, 0, 0
+read 42, 2
+rgb: 0, 0, 0
+read 42, 3
+rgb: 0, 0, 0
+read 42, 4
+rgb: 0, 0, 0
+read 42, 5
+rgb: 0, 0, 0
+read 42, 6
+rgb: 0, 0, 0
+read 42, 7
+rgb: 0, 0, 0
+read 42, 8
+rgb: 0, 0, 0
+read 42, 9
+rgb: 0, 0, 0
+read 42, 10
+rgb: 0, 0, 0
+read 42, 11
+rgb: 0, 0, 0
+read 42, 12
+rgb: 255, 128, 0
+No more doors -------------
+read 25, 1
+rgb: 255, 255, 255
+read 25, 2
+rgb: 255, 255, 255
+read 25, 3
+rgb: 255, 255, 255
+read 25, 4
+rgb: 255, 255, 255
+read 25, 5
+rgb: 255, 255, 255
+read 25, 6
+rgb: 255, 255, 255
+read 25, 7
+rgb: 255, 255, 255
+read 25, 8
+rgb: 255, 255, 255
+read 25, 9
+rgb: 255, 255, 255
+read 25, 10
+rgb: 255, 255, 255
+read 25, 11
+rgb: 255, 255, 255
+read 26, 1
+rgb: 255, 255, 255
+read 26, 2
+rgb: 255, 255, 255
+read 26, 3
+rgb: 255, 255, 255
+read 26, 4
+rgb: 255, 255, 255
+read 26, 5
+rgb: 255, 255, 255
+read 26, 6
+rgb: 255, 255, 255
+read 26, 7
+rgb: 255, 255, 255
+read 26, 8
+rgb: 255, 255, 255
+read 26, 9
+rgb: 255, 255, 255
+read 26, 10
+rgb: 255, 255, 255
+read 26, 11
+rgb: 255, 255, 255
+read 27, 1
+rgb: 255, 255, 255
+read 27, 2
+rgb: 255, 255, 255
+read 27, 3
+rgb: 255, 255, 255
+read 27, 4
+rgb: 255, 255, 255
+read 27, 5
+rgb: 255, 255, 255
+read 27, 6
+rgb: 255, 255, 255
+read 27, 7
+rgb: 255, 255, 255
+read 27, 8
+rgb: 255, 255, 255
+read 27, 9
+rgb: 255, 255, 255
+read 27, 10
+rgb: 255, 255, 255
+read 27, 11
+rgb: 255, 255, 255
+read 28, 1
+rgb: 255, 255, 255
+read 28, 2
+rgb: 255, 255, 255
+read 28, 3
+rgb: 255, 255, 255
+read 28, 4
+rgb: 255, 255, 255
+read 28, 5
+rgb: 255, 255, 255
+read 28, 6
+rgb: 255, 255, 255
+read 28, 7
+rgb: 255, 255, 255
+read 28, 8
+rgb: 255, 255, 255
+read 28, 9
+rgb: 255, 255, 255
+read 28, 10
+rgb: 255, 255, 255
+read 28, 11
+rgb: 255, 255, 255
+read 29, 1
+rgb: 255, 255, 255
+read 29, 2
+rgb: 255, 255, 255
+read 29, 3
+rgb: 255, 255, 255
+read 29, 4
+rgb: 255, 255, 255
+read 29, 5
+rgb: 255, 255, 255
+read 29, 6
+rgb: 255, 255, 255
+read 29, 7
+rgb: 255, 255, 255
+read 29, 8
+rgb: 255, 255, 255
+read 29, 9
+rgb: 255, 255, 255
+read 29, 10
+rgb: 255, 255, 255
+read 29, 11
+rgb: 255, 255, 255
+read 30, 1
+rgb: 255, 255, 255
+read 30, 2
+rgb: 255, 255, 255
+read 30, 3
+rgb: 255, 255, 255
+read 30, 4
+rgb: 255, 255, 255
+read 30, 5
+rgb: 255, 255, 255
+read 30, 6
+rgb: 255, 255, 255
+read 30, 7
+rgb: 255, 255, 255
+read 30, 8
+rgb: 255, 255, 255
+read 30, 9
+rgb: 255, 255, 255
+read 30, 10
+rgb: 255, 255, 255
+read 30, 11
+rgb: 255, 255, 255
+read 31, 1
+rgb: 255, 255, 255
+read 31, 2
+rgb: 255, 255, 255
+read 31, 3
+rgb: 255, 255, 255
+read 31, 4
+rgb: 255, 255, 255
+read 31, 5
+rgb: 255, 255, 255
+read 31, 6
+rgb: 255, 255, 0
+chest at 6, 5
+read 31, 7
+rgb: 255, 255, 255
+read 31, 8
+rgb: 255, 255, 255
+read 31, 9
+rgb: 255, 255, 255
+read 31, 10
+rgb: 255, 255, 255
+read 31, 11
+rgb: 255, 255, 255
+read 32, 1
+rgb: 255, 255, 255
+read 32, 2
+rgb: 255, 255, 255
+read 32, 3
+rgb: 255, 255, 255
+read 32, 4
+rgb: 255, 255, 255
+read 32, 5
+rgb: 255, 255, 255
+read 32, 6
+rgb: 255, 255, 255
+read 32, 7
+rgb: 255, 255, 255
+read 32, 8
+rgb: 255, 255, 255
+read 32, 9
+rgb: 255, 255, 255
+read 32, 10
+rgb: 255, 255, 255
+read 32, 11
+rgb: 255, 255, 255
+read 33, 1
+rgb: 255, 255, 255
+read 33, 2
+rgb: 255, 255, 255
+read 33, 3
+rgb: 255, 255, 255
+read 33, 4
+rgb: 255, 255, 255
+read 33, 5
+rgb: 255, 255, 255
+read 33, 6
+rgb: 255, 255, 255
+read 33, 7
+rgb: 255, 255, 255
+read 33, 8
+rgb: 255, 255, 255
+read 33, 9
+rgb: 255, 255, 255
+read 33, 10
+rgb: 255, 255, 255
+read 33, 11
+rgb: 255, 255, 255
+read 34, 1
+rgb: 255, 255, 255
+read 34, 2
+rgb: 255, 255, 255
+read 34, 3
+rgb: 255, 255, 255
+read 34, 4
+rgb: 255, 255, 255
+read 34, 5
+rgb: 255, 255, 255
+read 34, 6
+rgb: 255, 255, 0
+chest at 9, 5
+read 34, 7
+rgb: 255, 255, 255
+read 34, 8
+rgb: 255, 255, 255
+read 34, 9
+rgb: 255, 255, 255
+read 34, 10
+rgb: 255, 255, 255
+read 34, 11
+rgb: 255, 255, 255
+read 35, 1
+rgb: 255, 255, 255
+read 35, 2
+rgb: 255, 255, 255
+read 35, 3
+rgb: 255, 255, 255
+read 35, 4
+rgb: 255, 255, 255
+read 35, 5
+rgb: 255, 255, 255
+read 35, 6
+rgb: 255, 255, 255
+read 35, 7
+rgb: 255, 255, 255
+read 35, 8
+rgb: 255, 255, 255
+read 35, 9
+rgb: 255, 255, 255
+read 35, 10
+rgb: 255, 255, 255
+read 35, 11
+rgb: 255, 255, 255
+read 36, 1
+rgb: 255, 255, 255
+read 36, 2
+rgb: 255, 255, 255
+read 36, 3
+rgb: 255, 255, 255
+read 36, 4
+rgb: 255, 255, 255
+read 36, 5
+rgb: 255, 255, 255
+read 36, 6
+rgb: 255, 255, 255
+read 36, 7
+rgb: 255, 255, 255
+read 36, 8
+rgb: 255, 255, 255
+read 36, 9
+rgb: 255, 255, 255
+read 36, 10
+rgb: 255, 255, 255
+read 36, 11
+rgb: 255, 255, 255
+read 37, 1
+rgb: 255, 255, 255
+read 37, 2
+rgb: 255, 255, 255
+read 37, 3
+rgb: 255, 255, 255
+read 37, 4
+rgb: 255, 255, 255
+read 37, 5
+rgb: 255, 255, 255
+read 37, 6
+rgb: 255, 255, 255
+read 37, 7
+rgb: 255, 255, 255
+read 37, 8
+rgb: 255, 255, 255
+read 37, 9
+rgb: 255, 255, 255
+read 37, 10
+rgb: 255, 255, 255
+read 37, 11
+rgb: 255, 255, 255
+read 38, 1
+rgb: 255, 255, 255
+read 38, 2
+rgb: 255, 255, 255
+read 38, 3
+rgb: 255, 255, 255
+read 38, 4
+rgb: 255, 255, 255
+read 38, 5
+rgb: 255, 255, 255
+read 38, 6
+rgb: 255, 255, 255
+read 38, 7
+rgb: 255, 255, 255
+read 38, 8
+rgb: 255, 255, 255
+read 38, 9
+rgb: 255, 255, 255
+read 38, 10
+rgb: 255, 255, 255
+read 38, 11
+rgb: 255, 255, 255
+read 39, 1
+rgb: 255, 255, 255
+read 39, 2
+rgb: 255, 255, 255
+read 39, 3
+rgb: 255, 255, 255
+read 39, 4
+rgb: 255, 255, 255
+read 39, 5
+rgb: 255, 255, 255
+read 39, 6
+rgb: 255, 255, 255
+read 39, 7
+rgb: 255, 255, 255
+read 39, 8
+rgb: 255, 255, 255
+read 39, 9
+rgb: 255, 255, 255
+read 39, 10
+rgb: 255, 255, 255
+read 39, 11
+rgb: 255, 255, 255
+read 40, 1
+rgb: 255, 255, 255
+read 40, 2
+rgb: 255, 255, 255
+read 40, 3
+rgb: 255, 255, 255
+read 40, 4
+rgb: 255, 255, 255
+read 40, 5
+rgb: 255, 255, 255
+read 40, 6
+rgb: 255, 255, 255
+read 40, 7
+rgb: 255, 255, 255
+read 40, 8
+rgb: 255, 255, 255
+read 40, 9
+rgb: 255, 255, 255
+read 40, 10
+rgb: 255, 255, 255
+read 40, 11
+rgb: 255, 255, 255
+read 41, 1
+rgb: 0, 0, 255
+stair at 16, 0
+read 41, 2
+rgb: 255, 255, 255
+read 41, 3
+rgb: 255, 255, 255
+read 41, 4
+rgb: 255, 255, 255
+read 41, 5
+rgb: 255, 255, 255
+read 41, 6
+rgb: 255, 255, 255
+read 41, 7
+rgb: 255, 255, 255
+read 41, 8
+rgb: 255, 255, 255
+read 41, 9
+rgb: 255, 255, 255
+read 41, 10
+rgb: 255, 255, 255
+read 41, 11
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 0, 2
+rgb: 255, 0, 0
+read 0, 3
+rgb: 0, 0, 0
+read 0, 4
+rgb: 0, 0, 0
+read 0, 5
+rgb: 0, 0, 0
+read 0, 6
+rgb: 0, 0, 0
+read 0, 7
+rgb: 0, 0, 0
+read 0, 8
+rgb: 0, 0, 0
+read 0, 9
+rgb: 0, 0, 0
+read 0, 10
+rgb: 0, 0, 0
+read 0, 11
+rgb: 0, 0, 0
+read 1, 2
+rgb: 0, 0, 0
+read 1, 3
+rgb: 255, 255, 255
+read 1, 4
+rgb: 255, 255, 255
+read 1, 5
+rgb: 255, 255, 255
+read 1, 6
+rgb: 255, 255, 255
+read 1, 7
+rgb: 255, 255, 255
+read 1, 8
+rgb: 255, 255, 255
+read 1, 9
+rgb: 255, 255, 255
+read 1, 10
+rgb: 255, 255, 255
+read 1, 11
+rgb: 0, 0, 0
+read 2, 2
+rgb: 0, 0, 0
+read 2, 3
+rgb: 255, 255, 255
+read 2, 4
+rgb: 255, 255, 255
+read 2, 5
+rgb: 255, 255, 255
+read 2, 6
+rgb: 255, 255, 255
+read 2, 7
+rgb: 255, 255, 255
+read 2, 8
+rgb: 255, 255, 255
+read 2, 9
+rgb: 255, 255, 255
+read 2, 10
+rgb: 255, 255, 255
+read 2, 11
+rgb: 0, 0, 0
+read 3, 2
+rgb: 0, 0, 0
+read 3, 3
+rgb: 255, 255, 255
+read 3, 4
+rgb: 0, 0, 255
+read 3, 5
+rgb: 255, 255, 255
+read 3, 6
+rgb: 255, 255, 255
+read 3, 7
+rgb: 255, 255, 255
+read 3, 8
+rgb: 255, 255, 255
+read 3, 9
+rgb: 255, 255, 255
+read 3, 10
+rgb: 255, 255, 255
+read 3, 11
+rgb: 0, 0, 0
+read 4, 2
+rgb: 0, 0, 0
+read 4, 3
+rgb: 255, 255, 255
+read 4, 4
+rgb: 255, 255, 255
+read 4, 5
+rgb: 255, 255, 255
+read 4, 6
+rgb: 255, 255, 255
+read 4, 7
+rgb: 255, 255, 255
+read 4, 8
+rgb: 255, 255, 255
+read 4, 9
+rgb: 255, 255, 255
+read 4, 10
+rgb: 255, 255, 255
+read 4, 11
+rgb: 0, 0, 0
+read 5, 2
+rgb: 0, 0, 0
+read 5, 3
+rgb: 255, 255, 255
+read 5, 4
+rgb: 255, 255, 255
+read 5, 5
+rgb: 255, 255, 255
+read 5, 6
+rgb: 255, 255, 255
+read 5, 7
+rgb: 255, 255, 255
+read 5, 8
+rgb: 255, 255, 255
+read 5, 9
+rgb: 255, 255, 255
+read 5, 10
+rgb: 255, 255, 255
+read 5, 11
+rgb: 0, 0, 0
+read 6, 2
+rgb: 0, 0, 0
+read 6, 3
+rgb: 255, 255, 255
+read 6, 4
+rgb: 255, 255, 255
+read 6, 5
+rgb: 255, 255, 255
+read 6, 6
+rgb: 255, 255, 255
+read 6, 7
+rgb: 255, 255, 255
+read 6, 8
+rgb: 255, 255, 255
+read 6, 9
+rgb: 255, 255, 255
+read 6, 10
+rgb: 255, 255, 255
+read 6, 11
+rgb: 0, 0, 0
+read 7, 2
+rgb: 0, 0, 0
+read 7, 3
+rgb: 255, 255, 255
+read 7, 4
+rgb: 255, 255, 255
+read 7, 5
+rgb: 255, 255, 255
+read 7, 6
+rgb: 255, 255, 255
+read 7, 7
+rgb: 255, 255, 255
+read 7, 8
+rgb: 255, 255, 255
+read 7, 9
+rgb: 255, 255, 255
+read 7, 10
+rgb: 255, 255, 255
+read 7, 11
+rgb: 0, 0, 0
+read 8, 2
+rgb: 0, 0, 0
+read 8, 3
+rgb: 255, 255, 255
+read 8, 4
+rgb: 255, 255, 255
+read 8, 5
+rgb: 255, 255, 255
+read 8, 6
+rgb: 255, 255, 255
+read 8, 7
+rgb: 255, 255, 255
+read 8, 8
+rgb: 255, 255, 255
+read 8, 9
+rgb: 255, 255, 255
+read 8, 10
+rgb: 255, 255, 255
+read 8, 11
+rgb: 0, 0, 0
+read 9, 2
+rgb: 0, 0, 0
+read 9, 3
+rgb: 255, 255, 255
+read 9, 4
+rgb: 255, 255, 255
+read 9, 5
+rgb: 255, 255, 255
+read 9, 6
+rgb: 255, 255, 255
+read 9, 7
+rgb: 255, 255, 255
+read 9, 8
+rgb: 255, 255, 255
+read 9, 9
+rgb: 255, 255, 255
+read 9, 10
+rgb: 255, 255, 255
+read 9, 11
+rgb: 0, 0, 0
+read 10, 2
+rgb: 0, 0, 0
+read 10, 3
+rgb: 255, 255, 255
+read 10, 4
+rgb: 255, 255, 255
+read 10, 5
+rgb: 255, 255, 255
+read 10, 6
+rgb: 255, 255, 255
+read 10, 7
+rgb: 255, 255, 255
+read 10, 8
+rgb: 255, 255, 255
+read 10, 9
+rgb: 255, 255, 255
+read 10, 10
+rgb: 255, 255, 255
+read 10, 11
+rgb: 0, 0, 0
+read 11, 2
+rgb: 0, 0, 0
+read 11, 3
+rgb: 255, 255, 255
+read 11, 4
+rgb: 255, 255, 255
+read 11, 5
+rgb: 255, 255, 255
+read 11, 6
+rgb: 255, 255, 255
+read 11, 7
+rgb: 255, 255, 255
+read 11, 8
+rgb: 255, 255, 255
+read 11, 9
+rgb: 255, 255, 255
+read 11, 10
+rgb: 255, 255, 255
+read 11, 11
+rgb: 0, 0, 0
+read 12, 2
+rgb: 0, 0, 0
+read 12, 3
+rgb: 255, 255, 255
+read 12, 4
+rgb: 255, 255, 255
+read 12, 5
+rgb: 255, 255, 255
+read 12, 6
+rgb: 255, 255, 255
+read 12, 7
+rgb: 255, 255, 255
+read 12, 8
+rgb: 255, 255, 255
+read 12, 9
+rgb: 255, 255, 255
+read 12, 10
+rgb: 255, 255, 255
+read 12, 11
+rgb: 0, 0, 0
+read 13, 2
+rgb: 0, 0, 0
+read 13, 3
+rgb: 255, 255, 255
+read 13, 4
+rgb: 255, 255, 255
+read 13, 5
+rgb: 255, 255, 255
+read 13, 6
+rgb: 255, 255, 255
+read 13, 7
+rgb: 255, 255, 255
+read 13, 8
+rgb: 255, 255, 255
+read 13, 9
+rgb: 255, 255, 255
+read 13, 10
+rgb: 255, 255, 255
+read 13, 11
+rgb: 0, 0, 0
+read 14, 2
+rgb: 0, 0, 0
+read 14, 3
+rgb: 255, 255, 255
+read 14, 4
+rgb: 255, 255, 255
+read 14, 5
+rgb: 255, 255, 255
+read 14, 6
+rgb: 255, 255, 255
+read 14, 7
+rgb: 255, 255, 255
+read 14, 8
+rgb: 255, 255, 255
+read 14, 9
+rgb: 255, 255, 255
+read 14, 10
+rgb: 255, 255, 255
+read 14, 11
+rgb: 0, 0, 0
+read 15, 2
+rgb: 0, 0, 0
+read 15, 3
+rgb: 255, 255, 255
+read 15, 4
+rgb: 255, 255, 255
+read 15, 5
+rgb: 255, 255, 255
+read 15, 6
+rgb: 255, 255, 255
+read 15, 7
+rgb: 255, 255, 255
+read 15, 8
+rgb: 255, 255, 255
+read 15, 9
+rgb: 255, 255, 255
+read 15, 10
+rgb: 255, 255, 255
+read 15, 11
+rgb: 0, 0, 0
+read 16, 2
+rgb: 0, 0, 0
+read 16, 3
+rgb: 255, 255, 255
+read 16, 4
+rgb: 255, 255, 255
+read 16, 5
+rgb: 255, 255, 255
+read 16, 6
+rgb: 255, 255, 255
+read 16, 7
+rgb: 255, 255, 255
+read 16, 8
+rgb: 255, 255, 255
+read 16, 9
+rgb: 255, 255, 255
+read 16, 10
+rgb: 255, 255, 255
+read 16, 11
+rgb: 0, 0, 0
+read 17, 2
+rgb: 0, 0, 0
+read 17, 3
+rgb: 255, 255, 255
+read 17, 4
+rgb: 255, 255, 255
+read 17, 5
+rgb: 255, 255, 255
+read 17, 6
+rgb: 255, 255, 255
+read 17, 7
+rgb: 255, 255, 255
+read 17, 8
+rgb: 255, 255, 255
+read 17, 9
+rgb: 255, 255, 255
+read 17, 10
+rgb: 255, 255, 255
+read 17, 11
+rgb: 0, 0, 0
+read 18, 2
+rgb: 255, 0, 0
+read 18, 3
+rgb: 0, 0, 0
+read 18, 4
+rgb: 0, 0, 0
+read 18, 5
+rgb: 0, 0, 0
+read 18, 6
+rgb: 0, 255, 0
+made door e at pos 4
+read 18, 7
+rgb: 0, 255, 0
+made door e at pos 5
+read 18, 8
+rgb: 0, 0, 0
+read 18, 9
+rgb: 0, 0, 0
+read 18, 10
+rgb: 0, 0, 0
+read 18, 11
+rgb: 255, 128, 0
+No more doors -------------
+read 1, 3
+rgb: 255, 255, 255
+read 1, 4
+rgb: 255, 255, 255
+read 1, 5
+rgb: 255, 255, 255
+read 1, 6
+rgb: 255, 255, 255
+read 1, 7
+rgb: 255, 255, 255
+read 1, 8
+rgb: 255, 255, 255
+read 1, 9
+rgb: 255, 255, 255
+read 1, 10
+rgb: 255, 255, 255
+read 2, 3
+rgb: 255, 255, 255
+read 2, 4
+rgb: 255, 255, 255
+read 2, 5
+rgb: 255, 255, 255
+read 2, 6
+rgb: 255, 255, 255
+read 2, 7
+rgb: 255, 255, 255
+read 2, 8
+rgb: 255, 255, 255
+read 2, 9
+rgb: 255, 255, 255
+read 2, 10
+rgb: 255, 255, 255
+read 3, 3
+rgb: 255, 255, 255
+read 3, 4
+rgb: 0, 0, 255
+stair at 2, 1
+read 3, 5
+rgb: 255, 255, 255
+read 3, 6
+rgb: 255, 255, 255
+read 3, 7
+rgb: 255, 255, 255
+read 3, 8
+rgb: 255, 255, 255
+read 3, 9
+rgb: 255, 255, 255
+read 3, 10
+rgb: 255, 255, 255
+read 4, 3
+rgb: 255, 255, 255
+read 4, 4
+rgb: 255, 255, 255
+read 4, 5
+rgb: 255, 255, 255
+read 4, 6
+rgb: 255, 255, 255
+read 4, 7
+rgb: 255, 255, 255
+read 4, 8
+rgb: 255, 255, 255
+read 4, 9
+rgb: 255, 255, 255
+read 4, 10
+rgb: 255, 255, 255
+read 5, 3
+rgb: 255, 255, 255
+read 5, 4
+rgb: 255, 255, 255
+read 5, 5
+rgb: 255, 255, 255
+read 5, 6
+rgb: 255, 255, 255
+read 5, 7
+rgb: 255, 255, 255
+read 5, 8
+rgb: 255, 255, 255
+read 5, 9
+rgb: 255, 255, 255
+read 5, 10
+rgb: 255, 255, 255
+read 6, 3
+rgb: 255, 255, 255
+read 6, 4
+rgb: 255, 255, 255
+read 6, 5
+rgb: 255, 255, 255
+read 6, 6
+rgb: 255, 255, 255
+read 6, 7
+rgb: 255, 255, 255
+read 6, 8
+rgb: 255, 255, 255
+read 6, 9
+rgb: 255, 255, 255
+read 6, 10
+rgb: 255, 255, 255
+read 7, 3
+rgb: 255, 255, 255
+read 7, 4
+rgb: 255, 255, 255
+read 7, 5
+rgb: 255, 255, 255
+read 7, 6
+rgb: 255, 255, 255
+read 7, 7
+rgb: 255, 255, 255
+read 7, 8
+rgb: 255, 255, 255
+read 7, 9
+rgb: 255, 255, 255
+read 7, 10
+rgb: 255, 255, 255
+read 8, 3
+rgb: 255, 255, 255
+read 8, 4
+rgb: 255, 255, 255
+read 8, 5
+rgb: 255, 255, 255
+read 8, 6
+rgb: 255, 255, 255
+read 8, 7
+rgb: 255, 255, 255
+read 8, 8
+rgb: 255, 255, 255
+read 8, 9
+rgb: 255, 255, 255
+read 8, 10
+rgb: 255, 255, 255
+read 9, 3
+rgb: 255, 255, 255
+read 9, 4
+rgb: 255, 255, 255
+read 9, 5
+rgb: 255, 255, 255
+read 9, 6
+rgb: 255, 255, 255
+read 9, 7
+rgb: 255, 255, 255
+read 9, 8
+rgb: 255, 255, 255
+read 9, 9
+rgb: 255, 255, 255
+read 9, 10
+rgb: 255, 255, 255
+read 10, 3
+rgb: 255, 255, 255
+read 10, 4
+rgb: 255, 255, 255
+read 10, 5
+rgb: 255, 255, 255
+read 10, 6
+rgb: 255, 255, 255
+read 10, 7
+rgb: 255, 255, 255
+read 10, 8
+rgb: 255, 255, 255
+read 10, 9
+rgb: 255, 255, 255
+read 10, 10
+rgb: 255, 255, 255
+read 11, 3
+rgb: 255, 255, 255
+read 11, 4
+rgb: 255, 255, 255
+read 11, 5
+rgb: 255, 255, 255
+read 11, 6
+rgb: 255, 255, 255
+read 11, 7
+rgb: 255, 255, 255
+read 11, 8
+rgb: 255, 255, 255
+read 11, 9
+rgb: 255, 255, 255
+read 11, 10
+rgb: 255, 255, 255
+read 12, 3
+rgb: 255, 255, 255
+read 12, 4
+rgb: 255, 255, 255
+read 12, 5
+rgb: 255, 255, 255
+read 12, 6
+rgb: 255, 255, 255
+read 12, 7
+rgb: 255, 255, 255
+read 12, 8
+rgb: 255, 255, 255
+read 12, 9
+rgb: 255, 255, 255
+read 12, 10
+rgb: 255, 255, 255
+read 13, 3
+rgb: 255, 255, 255
+read 13, 4
+rgb: 255, 255, 255
+read 13, 5
+rgb: 255, 255, 255
+read 13, 6
+rgb: 255, 255, 255
+read 13, 7
+rgb: 255, 255, 255
+read 13, 8
+rgb: 255, 255, 255
+read 13, 9
+rgb: 255, 255, 255
+read 13, 10
+rgb: 255, 255, 255
+read 14, 3
+rgb: 255, 255, 255
+read 14, 4
+rgb: 255, 255, 255
+read 14, 5
+rgb: 255, 255, 255
+read 14, 6
+rgb: 255, 255, 255
+read 14, 7
+rgb: 255, 255, 255
+read 14, 8
+rgb: 255, 255, 255
+read 14, 9
+rgb: 255, 255, 255
+read 14, 10
+rgb: 255, 255, 255
+read 15, 3
+rgb: 255, 255, 255
+read 15, 4
+rgb: 255, 255, 255
+read 15, 5
+rgb: 255, 255, 255
+read 15, 6
+rgb: 255, 255, 255
+read 15, 7
+rgb: 255, 255, 255
+read 15, 8
+rgb: 255, 255, 255
+read 15, 9
+rgb: 255, 255, 255
+read 15, 10
+rgb: 255, 255, 255
+read 16, 3
+rgb: 255, 255, 255
+read 16, 4
+rgb: 255, 255, 255
+read 16, 5
+rgb: 255, 255, 255
+read 16, 6
+rgb: 255, 255, 255
+read 16, 7
+rgb: 255, 255, 255
+read 16, 8
+rgb: 255, 255, 255
+read 16, 9
+rgb: 255, 255, 255
+read 16, 10
+rgb: 255, 255, 255
+read 17, 3
+rgb: 255, 255, 255
+read 17, 4
+rgb: 255, 255, 255
+read 17, 5
+rgb: 255, 255, 255
+read 17, 6
+rgb: 255, 255, 255
+read 17, 7
+rgb: 255, 255, 255
+read 17, 8
+rgb: 255, 255, 255
+read 17, 9
+rgb: 255, 255, 255
+read 17, 10
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 19, 5
+rgb: 255, 0, 0
+read 19, 6
+rgb: 0, 255, 0
+made door w at pos 1
+read 19, 7
+rgb: 0, 255, 0
+made door w at pos 2
+read 19, 8
+rgb: 0, 0, 0
+read 20, 5
+rgb: 0, 0, 0
+read 20, 6
+rgb: 255, 255, 255
+read 20, 7
+rgb: 255, 255, 255
+read 20, 8
+rgb: 0, 0, 0
+read 21, 5
+rgb: 0, 0, 0
+read 21, 6
+rgb: 255, 255, 255
+read 21, 7
+rgb: 255, 255, 255
+read 21, 8
+rgb: 0, 0, 0
+read 22, 5
+rgb: 0, 0, 0
+read 22, 6
+rgb: 255, 255, 255
+read 22, 7
+rgb: 255, 255, 255
+read 22, 8
+rgb: 0, 0, 0
+read 23, 5
+rgb: 255, 0, 0
+read 23, 6
+rgb: 0, 255, 0
+made door e at pos 1
+read 23, 7
+rgb: 0, 255, 0
+made door e at pos 2
+read 23, 8
+rgb: 255, 128, 0
+No more doors -------------
+read 20, 6
+rgb: 255, 255, 255
+read 20, 7
+rgb: 255, 255, 255
+read 21, 6
+rgb: 255, 255, 255
+read 21, 7
+rgb: 255, 255, 255
+read 22, 6
+rgb: 255, 255, 255
+read 22, 7
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 28, 13
+rgb: 255, 0, 0
+read 28, 14
+rgb: 0, 0, 0
+read 28, 15
+rgb: 0, 0, 0
+read 28, 16
+rgb: 0, 0, 0
+read 28, 17
+rgb: 0, 0, 0
+read 28, 18
+rgb: 0, 0, 0
+read 28, 19
+rgb: 0, 0, 0
+read 29, 13
+rgb: 0, 255, 0
+made door n at pos 1
+read 29, 14
+rgb: 255, 255, 255
+read 29, 15
+rgb: 255, 255, 255
+read 29, 16
+rgb: 255, 255, 255
+read 29, 17
+rgb: 255, 255, 255
+read 29, 18
+rgb: 255, 255, 255
+read 29, 19
+rgb: 0, 255, 0
+made door s at pos 1
+read 30, 13
+rgb: 0, 0, 0
+read 30, 14
+rgb: 255, 255, 255
+read 30, 15
+rgb: 255, 255, 255
+read 30, 16
+rgb: 255, 255, 255
+read 30, 17
+rgb: 255, 255, 255
+read 30, 18
+rgb: 255, 255, 255
+read 30, 19
+rgb: 0, 255, 0
+made door s at pos 2
+read 31, 13
+rgb: 255, 0, 0
+read 31, 14
+rgb: 0, 0, 0
+read 31, 15
+rgb: 0, 0, 0
+read 31, 16
+rgb: 0, 0, 0
+read 31, 17
+rgb: 0, 0, 0
+read 31, 18
+rgb: 0, 0, 0
+read 31, 19
+rgb: 255, 128, 0
+No more doors -------------
+read 29, 14
+rgb: 255, 255, 255
+read 29, 15
+rgb: 255, 255, 255
+read 29, 16
+rgb: 255, 255, 255
+read 29, 17
+rgb: 255, 255, 255
+read 29, 18
+rgb: 255, 255, 255
+read 30, 14
+rgb: 255, 255, 255
+read 30, 15
+rgb: 255, 255, 255
+read 30, 16
+rgb: 255, 255, 255
+read 30, 17
+rgb: 255, 255, 255
+read 30, 18
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 36, 13
+rgb: 255, 0, 0
+read 36, 14
+rgb: 0, 0, 0
+read 36, 15
+rgb: 0, 0, 0
+read 36, 16
+rgb: 0, 0, 0
+read 36, 17
+rgb: 0, 0, 0
+read 36, 18
+rgb: 0, 0, 0
+read 36, 19
+rgb: 0, 0, 0
+read 36, 20
+rgb: 0, 0, 0
+read 36, 21
+rgb: 0, 0, 0
+read 36, 22
+rgb: 0, 0, 0
+read 36, 23
+rgb: 0, 0, 0
+read 36, 24
+rgb: 0, 0, 0
+read 36, 25
+rgb: 0, 0, 0
+read 37, 13
+rgb: 0, 0, 0
+read 37, 14
+rgb: 255, 255, 255
+read 37, 15
+rgb: 255, 255, 255
+read 37, 16
+rgb: 255, 255, 255
+read 37, 17
+rgb: 255, 255, 255
+read 37, 18
+rgb: 255, 255, 255
+read 37, 19
+rgb: 255, 255, 255
+read 37, 20
+rgb: 255, 255, 255
+read 37, 21
+rgb: 255, 255, 255
+read 37, 22
+rgb: 255, 255, 255
+read 37, 23
+rgb: 255, 255, 255
+read 37, 24
+rgb: 255, 255, 255
+read 37, 25
+rgb: 0, 0, 0
+read 38, 13
+rgb: 0, 0, 0
+read 38, 14
+rgb: 255, 255, 255
+read 38, 15
+rgb: 255, 255, 255
+read 38, 16
+rgb: 255, 255, 255
+read 38, 17
+rgb: 255, 255, 255
+read 38, 18
+rgb: 255, 255, 255
+read 38, 19
+rgb: 255, 255, 255
+read 38, 20
+rgb: 255, 255, 255
+read 38, 21
+rgb: 255, 255, 255
+read 38, 22
+rgb: 255, 255, 255
+read 38, 23
+rgb: 255, 255, 255
+read 38, 24
+rgb: 255, 255, 255
+read 38, 25
+rgb: 0, 255, 0
+made door s at pos 2
+read 39, 13
+rgb: 0, 255, 0
+made door n at pos 3
+read 39, 14
+rgb: 255, 255, 255
+read 39, 15
+rgb: 255, 255, 255
+read 39, 16
+rgb: 255, 255, 255
+read 39, 17
+rgb: 255, 255, 255
+read 39, 18
+rgb: 255, 255, 255
+read 39, 19
+rgb: 255, 255, 255
+read 39, 20
+rgb: 255, 255, 255
+read 39, 21
+rgb: 255, 255, 255
+read 39, 22
+rgb: 255, 255, 255
+read 39, 23
+rgb: 255, 255, 255
+read 39, 24
+rgb: 255, 255, 255
+read 39, 25
+rgb: 0, 0, 0
+read 40, 13
+rgb: 255, 0, 0
+read 40, 14
+rgb: 0, 0, 0
+read 40, 15
+rgb: 0, 0, 0
+read 40, 16
+rgb: 0, 0, 0
+read 40, 17
+rgb: 0, 0, 0
+read 40, 18
+rgb: 0, 0, 0
+read 40, 19
+rgb: 0, 0, 0
+read 40, 20
+rgb: 0, 0, 0
+read 40, 21
+rgb: 0, 0, 0
+read 40, 22
+rgb: 0, 0, 0
+read 40, 23
+rgb: 0, 0, 0
+read 40, 24
+rgb: 0, 0, 0
+read 40, 25
+rgb: 255, 128, 0
+No more doors -------------
+read 37, 14
+rgb: 255, 255, 255
+read 37, 15
+rgb: 255, 255, 255
+read 37, 16
+rgb: 255, 255, 255
+read 37, 17
+rgb: 255, 255, 255
+read 37, 18
+rgb: 255, 255, 255
+read 37, 19
+rgb: 255, 255, 255
+read 37, 20
+rgb: 255, 255, 255
+read 37, 21
+rgb: 255, 255, 255
+read 37, 22
+rgb: 255, 255, 255
+read 37, 23
+rgb: 255, 255, 255
+read 37, 24
+rgb: 255, 255, 255
+read 38, 14
+rgb: 255, 255, 255
+read 38, 15
+rgb: 255, 255, 255
+read 38, 16
+rgb: 255, 255, 255
+read 38, 17
+rgb: 255, 255, 255
+read 38, 18
+rgb: 255, 255, 255
+read 38, 19
+rgb: 255, 255, 255
+read 38, 20
+rgb: 255, 255, 255
+read 38, 21
+rgb: 255, 255, 255
+read 38, 22
+rgb: 255, 255, 255
+read 38, 23
+rgb: 255, 255, 255
+read 38, 24
+rgb: 255, 255, 255
+read 39, 14
+rgb: 255, 255, 255
+read 39, 15
+rgb: 255, 255, 255
+read 39, 16
+rgb: 255, 255, 255
+read 39, 17
+rgb: 255, 255, 255
+read 39, 18
+rgb: 255, 255, 255
+read 39, 19
+rgb: 255, 255, 255
+read 39, 20
+rgb: 255, 255, 255
+read 39, 21
+rgb: 255, 255, 255
+read 39, 22
+rgb: 255, 255, 255
+read 39, 23
+rgb: 255, 255, 255
+read 39, 24
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 44, 15
+rgb: 255, 0, 0
+read 44, 16
+rgb: 0, 0, 0
+read 44, 17
+rgb: 0, 0, 0
+read 44, 18
+rgb: 0, 0, 0
+read 44, 19
+rgb: 0, 0, 0
+read 45, 15
+rgb: 0, 0, 0
+read 45, 16
+rgb: 255, 255, 255
+read 45, 17
+rgb: 255, 255, 255
+read 45, 18
+rgb: 255, 255, 255
+read 45, 19
+rgb: 0, 255, 0
+made door s at pos 1
+read 46, 15
+rgb: 0, 0, 0
+read 46, 16
+rgb: 255, 255, 0
+read 46, 17
+rgb: 255, 255, 255
+read 46, 18
+rgb: 255, 255, 255
+read 46, 19
+rgb: 0, 0, 0
+read 47, 15
+rgb: 255, 0, 0
+read 47, 16
+rgb: 0, 0, 0
+read 47, 17
+rgb: 0, 0, 0
+read 47, 18
+rgb: 0, 0, 0
+read 47, 19
+rgb: 255, 128, 0
+No more doors -------------
+read 45, 16
+rgb: 255, 255, 255
+read 45, 17
+rgb: 255, 255, 255
+read 45, 18
+rgb: 255, 255, 255
+read 46, 16
+rgb: 255, 255, 0
+chest at 1, 0
+read 46, 17
+rgb: 255, 255, 255
+read 46, 18
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 4, 16
+rgb: 255, 0, 0
+read 4, 17
+rgb: 0, 0, 0
+read 4, 18
+rgb: 0, 0, 0
+read 4, 19
+rgb: 0, 255, 0
+made door w at pos 3
+read 4, 20
+rgb: 0, 255, 0
+made door w at pos 4
+read 4, 21
+rgb: 0, 0, 0
+read 4, 22
+rgb: 0, 0, 0
+read 4, 23
+rgb: 0, 0, 0
+read 5, 16
+rgb: 0, 0, 0
+read 5, 17
+rgb: 255, 255, 255
+read 5, 18
+rgb: 255, 255, 255
+read 5, 19
+rgb: 255, 255, 255
+read 5, 20
+rgb: 255, 255, 255
+read 5, 21
+rgb: 255, 255, 255
+read 5, 22
+rgb: 255, 255, 255
+read 5, 23
+rgb: 0, 0, 0
+read 6, 16
+rgb: 0, 0, 0
+read 6, 17
+rgb: 255, 255, 255
+read 6, 18
+rgb: 255, 255, 255
+read 6, 19
+rgb: 255, 255, 255
+read 6, 20
+rgb: 255, 255, 255
+read 6, 21
+rgb: 255, 255, 255
+read 6, 22
+rgb: 255, 255, 255
+read 6, 23
+rgb: 0, 0, 0
+read 7, 16
+rgb: 0, 0, 0
+read 7, 17
+rgb: 255, 255, 255
+read 7, 18
+rgb: 255, 255, 255
+read 7, 19
+rgb: 255, 255, 255
+read 7, 20
+rgb: 255, 255, 255
+read 7, 21
+rgb: 255, 255, 255
+read 7, 22
+rgb: 255, 255, 255
+read 7, 23
+rgb: 0, 0, 0
+read 8, 16
+rgb: 0, 0, 0
+read 8, 17
+rgb: 255, 255, 255
+read 8, 18
+rgb: 255, 255, 255
+read 8, 19
+rgb: 255, 255, 255
+read 8, 20
+rgb: 255, 255, 255
+read 8, 21
+rgb: 255, 255, 255
+read 8, 22
+rgb: 255, 255, 255
+read 8, 23
+rgb: 0, 0, 0
+read 9, 16
+rgb: 0, 0, 0
+read 9, 17
+rgb: 255, 255, 255
+read 9, 18
+rgb: 255, 255, 255
+read 9, 19
+rgb: 255, 255, 255
+read 9, 20
+rgb: 255, 255, 255
+read 9, 21
+rgb: 255, 255, 255
+read 9, 22
+rgb: 255, 255, 255
+read 9, 23
+rgb: 0, 0, 0
+read 10, 16
+rgb: 0, 0, 0
+read 10, 17
+rgb: 255, 255, 255
+read 10, 18
+rgb: 255, 255, 255
+read 10, 19
+rgb: 255, 255, 255
+read 10, 20
+rgb: 255, 255, 255
+read 10, 21
+rgb: 255, 255, 255
+read 10, 22
+rgb: 255, 255, 255
+read 10, 23
+rgb: 0, 0, 0
+read 11, 16
+rgb: 255, 0, 0
+read 11, 17
+rgb: 0, 0, 0
+read 11, 18
+rgb: 0, 0, 0
+read 11, 19
+rgb: 0, 255, 0
+made door e at pos 3
+read 11, 20
+rgb: 0, 255, 0
+made door e at pos 4
+read 11, 21
+rgb: 0, 0, 0
+read 11, 22
+rgb: 0, 0, 0
+read 11, 23
+rgb: 255, 128, 0
+No more doors -------------
+read 5, 17
+rgb: 255, 255, 255
+read 5, 18
+rgb: 255, 255, 255
+read 5, 19
+rgb: 255, 255, 255
+read 5, 20
+rgb: 255, 255, 255
+read 5, 21
+rgb: 255, 255, 255
+read 5, 22
+rgb: 255, 255, 255
+read 6, 17
+rgb: 255, 255, 255
+read 6, 18
+rgb: 255, 255, 255
+read 6, 19
+rgb: 255, 255, 255
+read 6, 20
+rgb: 255, 255, 255
+read 6, 21
+rgb: 255, 255, 255
+read 6, 22
+rgb: 255, 255, 255
+read 7, 17
+rgb: 255, 255, 255
+read 7, 18
+rgb: 255, 255, 255
+read 7, 19
+rgb: 255, 255, 255
+read 7, 20
+rgb: 255, 255, 255
+read 7, 21
+rgb: 255, 255, 255
+read 7, 22
+rgb: 255, 255, 255
+read 8, 17
+rgb: 255, 255, 255
+read 8, 18
+rgb: 255, 255, 255
+read 8, 19
+rgb: 255, 255, 255
+read 8, 20
+rgb: 255, 255, 255
+read 8, 21
+rgb: 255, 255, 255
+read 8, 22
+rgb: 255, 255, 255
+read 9, 17
+rgb: 255, 255, 255
+read 9, 18
+rgb: 255, 255, 255
+read 9, 19
+rgb: 255, 255, 255
+read 9, 20
+rgb: 255, 255, 255
+read 9, 21
+rgb: 255, 255, 255
+read 9, 22
+rgb: 255, 255, 255
+read 10, 17
+rgb: 255, 255, 255
+read 10, 18
+rgb: 255, 255, 255
+read 10, 19
+rgb: 255, 255, 255
+read 10, 20
+rgb: 255, 255, 255
+read 10, 21
+rgb: 255, 255, 255
+read 10, 22
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 12, 16
+rgb: 255, 0, 0
+read 12, 17
+rgb: 0, 0, 0
+read 12, 18
+rgb: 0, 0, 0
+read 12, 19
+rgb: 0, 255, 0
+made door w at pos 3
+read 12, 20
+rgb: 0, 255, 0
+made door w at pos 4
+read 12, 21
+rgb: 0, 0, 0
+read 12, 22
+rgb: 0, 0, 0
+read 12, 23
+rgb: 0, 0, 0
+read 13, 16
+rgb: 0, 0, 0
+read 13, 17
+rgb: 255, 255, 255
+read 13, 18
+rgb: 255, 255, 255
+read 13, 19
+rgb: 255, 255, 255
+read 13, 20
+rgb: 255, 255, 255
+read 13, 21
+rgb: 255, 255, 255
+read 13, 22
+rgb: 255, 255, 255
+read 13, 23
+rgb: 0, 0, 0
+read 14, 16
+rgb: 0, 0, 0
+read 14, 17
+rgb: 255, 255, 255
+read 14, 18
+rgb: 255, 255, 255
+read 14, 19
+rgb: 255, 255, 255
+read 14, 20
+rgb: 255, 255, 255
+read 14, 21
+rgb: 255, 255, 255
+read 14, 22
+rgb: 255, 255, 255
+read 14, 23
+rgb: 0, 0, 0
+read 15, 16
+rgb: 0, 0, 0
+read 15, 17
+rgb: 255, 255, 255
+read 15, 18
+rgb: 255, 255, 255
+read 15, 19
+rgb: 255, 255, 255
+read 15, 20
+rgb: 255, 255, 255
+read 15, 21
+rgb: 255, 255, 255
+read 15, 22
+rgb: 255, 255, 255
+read 15, 23
+rgb: 0, 255, 0
+made door s at pos 3
+read 16, 16
+rgb: 0, 0, 0
+read 16, 17
+rgb: 255, 255, 255
+read 16, 18
+rgb: 255, 255, 255
+read 16, 19
+rgb: 255, 255, 255
+read 16, 20
+rgb: 255, 255, 255
+read 16, 21
+rgb: 255, 255, 255
+read 16, 22
+rgb: 255, 255, 255
+read 16, 23
+rgb: 0, 255, 0
+made door s at pos 4
+read 17, 16
+rgb: 0, 0, 0
+read 17, 17
+rgb: 255, 255, 255
+read 17, 18
+rgb: 255, 255, 255
+read 17, 19
+rgb: 255, 255, 255
+read 17, 20
+rgb: 255, 255, 255
+read 17, 21
+rgb: 255, 255, 255
+read 17, 22
+rgb: 255, 255, 255
+read 17, 23
+rgb: 0, 0, 0
+read 18, 16
+rgb: 0, 0, 0
+read 18, 17
+rgb: 255, 255, 255
+read 18, 18
+rgb: 255, 255, 255
+read 18, 19
+rgb: 255, 255, 255
+read 18, 20
+rgb: 255, 255, 255
+read 18, 21
+rgb: 255, 255, 255
+read 18, 22
+rgb: 255, 255, 255
+read 18, 23
+rgb: 0, 0, 0
+read 19, 16
+rgb: 255, 0, 0
+read 19, 17
+rgb: 0, 0, 0
+read 19, 18
+rgb: 0, 0, 0
+read 19, 19
+rgb: 0, 0, 0
+read 19, 20
+rgb: 0, 0, 0
+read 19, 21
+rgb: 0, 0, 0
+read 19, 22
+rgb: 0, 0, 0
+read 19, 23
+rgb: 255, 128, 0
+No more doors -------------
+read 13, 17
+rgb: 255, 255, 255
+read 13, 18
+rgb: 255, 255, 255
+read 13, 19
+rgb: 255, 255, 255
+read 13, 20
+rgb: 255, 255, 255
+read 13, 21
+rgb: 255, 255, 255
+read 13, 22
+rgb: 255, 255, 255
+read 14, 17
+rgb: 255, 255, 255
+read 14, 18
+rgb: 255, 255, 255
+read 14, 19
+rgb: 255, 255, 255
+read 14, 20
+rgb: 255, 255, 255
+read 14, 21
+rgb: 255, 255, 255
+read 14, 22
+rgb: 255, 255, 255
+read 15, 17
+rgb: 255, 255, 255
+read 15, 18
+rgb: 255, 255, 255
+read 15, 19
+rgb: 255, 255, 255
+read 15, 20
+rgb: 255, 255, 255
+read 15, 21
+rgb: 255, 255, 255
+read 15, 22
+rgb: 255, 255, 255
+read 16, 17
+rgb: 255, 255, 255
+read 16, 18
+rgb: 255, 255, 255
+read 16, 19
+rgb: 255, 255, 255
+read 16, 20
+rgb: 255, 255, 255
+read 16, 21
+rgb: 255, 255, 255
+read 16, 22
+rgb: 255, 255, 255
+read 17, 17
+rgb: 255, 255, 255
+read 17, 18
+rgb: 255, 255, 255
+read 17, 19
+rgb: 255, 255, 255
+read 17, 20
+rgb: 255, 255, 255
+read 17, 21
+rgb: 255, 255, 255
+read 17, 22
+rgb: 255, 255, 255
+read 18, 17
+rgb: 255, 255, 255
+read 18, 18
+rgb: 255, 255, 255
+read 18, 19
+rgb: 255, 255, 255
+read 18, 20
+rgb: 255, 255, 255
+read 18, 21
+rgb: 255, 255, 255
+read 18, 22
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 0, 18
+rgb: 255, 0, 0
+read 0, 19
+rgb: 0, 0, 0
+read 0, 20
+rgb: 0, 0, 0
+read 0, 21
+rgb: 0, 0, 0
+read 0, 22
+rgb: 0, 0, 0
+read 0, 23
+rgb: 0, 0, 0
+read 0, 24
+rgb: 0, 0, 0
+read 0, 25
+rgb: 0, 0, 0
+read 0, 26
+rgb: 0, 0, 0
+read 0, 27
+rgb: 0, 0, 0
+read 0, 28
+rgb: 0, 0, 0
+read 0, 29
+rgb: 0, 0, 0
+read 0, 30
+rgb: 0, 0, 0
+read 0, 31
+rgb: 0, 0, 0
+read 0, 32
+rgb: 0, 0, 0
+read 0, 33
+rgb: 0, 0, 0
+read 0, 34
+rgb: 0, 0, 0
+read 0, 35
+rgb: 0, 0, 0
+read 0, 36
+rgb: 0, 0, 0
+read 0, 37
+rgb: 0, 0, 0
+read 0, 38
+rgb: 0, 0, 0
+read 0, 39
+rgb: 0, 0, 0
+read 0, 40
+rgb: 0, 0, 0
+read 1, 18
+rgb: 0, 0, 0
+read 1, 19
+rgb: 255, 255, 255
+read 1, 20
+rgb: 255, 255, 255
+read 1, 21
+rgb: 255, 255, 255
+read 1, 22
+rgb: 255, 255, 255
+read 1, 23
+rgb: 255, 255, 255
+read 1, 24
+rgb: 255, 255, 255
+read 1, 25
+rgb: 255, 255, 255
+read 1, 26
+rgb: 255, 255, 255
+read 1, 27
+rgb: 255, 255, 255
+read 1, 28
+rgb: 255, 255, 255
+read 1, 29
+rgb: 255, 255, 255
+read 1, 30
+rgb: 255, 255, 255
+read 1, 31
+rgb: 255, 255, 255
+read 1, 32
+rgb: 255, 255, 255
+read 1, 33
+rgb: 255, 255, 255
+read 1, 34
+rgb: 255, 255, 255
+read 1, 35
+rgb: 255, 255, 255
+read 1, 36
+rgb: 255, 255, 255
+read 1, 37
+rgb: 255, 255, 255
+read 1, 38
+rgb: 255, 255, 255
+read 1, 39
+rgb: 255, 255, 255
+read 1, 40
+rgb: 0, 0, 0
+read 2, 18
+rgb: 0, 0, 0
+read 2, 19
+rgb: 255, 255, 255
+read 2, 20
+rgb: 255, 255, 255
+read 2, 21
+rgb: 255, 255, 255
+read 2, 22
+rgb: 255, 255, 255
+read 2, 23
+rgb: 255, 255, 255
+read 2, 24
+rgb: 255, 255, 255
+read 2, 25
+rgb: 255, 255, 255
+read 2, 26
+rgb: 255, 255, 255
+read 2, 27
+rgb: 255, 255, 255
+read 2, 28
+rgb: 255, 255, 255
+read 2, 29
+rgb: 255, 255, 255
+read 2, 30
+rgb: 255, 255, 255
+read 2, 31
+rgb: 255, 255, 255
+read 2, 32
+rgb: 255, 255, 255
+read 2, 33
+rgb: 255, 255, 255
+read 2, 34
+rgb: 255, 255, 255
+read 2, 35
+rgb: 255, 255, 255
+read 2, 36
+rgb: 255, 255, 255
+read 2, 37
+rgb: 255, 255, 255
+read 2, 38
+rgb: 255, 255, 255
+read 2, 39
+rgb: 255, 255, 255
+read 2, 40
+rgb: 0, 0, 0
+read 3, 18
+rgb: 255, 0, 0
+read 3, 19
+rgb: 0, 255, 0
+made door e at pos 1
+read 3, 20
+rgb: 0, 255, 0
+made door e at pos 2
+read 3, 21
+rgb: 0, 0, 0
+read 3, 22
+rgb: 0, 0, 0
+read 3, 23
+rgb: 0, 0, 0
+read 3, 24
+rgb: 0, 0, 0
+read 3, 25
+rgb: 0, 0, 0
+read 3, 26
+rgb: 0, 0, 0
+read 3, 27
+rgb: 0, 0, 0
+read 3, 28
+rgb: 0, 0, 0
+read 3, 29
+rgb: 0, 0, 0
+read 3, 30
+rgb: 0, 0, 0
+read 3, 31
+rgb: 0, 0, 0
+read 3, 32
+rgb: 0, 0, 0
+read 3, 33
+rgb: 0, 0, 0
+read 3, 34
+rgb: 0, 0, 0
+read 3, 35
+rgb: 0, 0, 0
+read 3, 36
+rgb: 0, 0, 0
+read 3, 37
+rgb: 0, 255, 0
+made door e at pos 19
+read 3, 38
+rgb: 0, 255, 0
+made door e at pos 20
+read 3, 39
+rgb: 0, 0, 0
+read 3, 40
+rgb: 255, 128, 0
+No more doors -------------
+read 1, 19
+rgb: 255, 255, 255
+read 1, 20
+rgb: 255, 255, 255
+read 1, 21
+rgb: 255, 255, 255
+read 1, 22
+rgb: 255, 255, 255
+read 1, 23
+rgb: 255, 255, 255
+read 1, 24
+rgb: 255, 255, 255
+read 1, 25
+rgb: 255, 255, 255
+read 1, 26
+rgb: 255, 255, 255
+read 1, 27
+rgb: 255, 255, 255
+read 1, 28
+rgb: 255, 255, 255
+read 1, 29
+rgb: 255, 255, 255
+read 1, 30
+rgb: 255, 255, 255
+read 1, 31
+rgb: 255, 255, 255
+read 1, 32
+rgb: 255, 255, 255
+read 1, 33
+rgb: 255, 255, 255
+read 1, 34
+rgb: 255, 255, 255
+read 1, 35
+rgb: 255, 255, 255
+read 1, 36
+rgb: 255, 255, 255
+read 1, 37
+rgb: 255, 255, 255
+read 1, 38
+rgb: 255, 255, 255
+read 1, 39
+rgb: 255, 255, 255
+read 2, 19
+rgb: 255, 255, 255
+read 2, 20
+rgb: 255, 255, 255
+read 2, 21
+rgb: 255, 255, 255
+read 2, 22
+rgb: 255, 255, 255
+read 2, 23
+rgb: 255, 255, 255
+read 2, 24
+rgb: 255, 255, 255
+read 2, 25
+rgb: 255, 255, 255
+read 2, 26
+rgb: 255, 255, 255
+read 2, 27
+rgb: 255, 255, 255
+read 2, 28
+rgb: 255, 255, 255
+read 2, 29
+rgb: 255, 255, 255
+read 2, 30
+rgb: 255, 255, 255
+read 2, 31
+rgb: 255, 255, 255
+read 2, 32
+rgb: 255, 255, 255
+read 2, 33
+rgb: 255, 255, 255
+read 2, 34
+rgb: 255, 255, 255
+read 2, 35
+rgb: 255, 255, 255
+read 2, 36
+rgb: 255, 255, 255
+read 2, 37
+rgb: 255, 255, 255
+read 2, 38
+rgb: 255, 255, 255
+read 2, 39
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 25, 20
+rgb: 255, 0, 0
+read 25, 21
+rgb: 0, 0, 0
+read 25, 22
+rgb: 0, 0, 0
+read 25, 23
+rgb: 0, 0, 0
+read 25, 24
+rgb: 0, 0, 0
+read 25, 25
+rgb: 0, 0, 0
+read 26, 20
+rgb: 0, 0, 0
+read 26, 21
+rgb: 255, 255, 255
+read 26, 22
+rgb: 255, 255, 255
+read 26, 23
+rgb: 255, 255, 255
+read 26, 24
+rgb: 255, 255, 255
+read 26, 25
+rgb: 0, 0, 0
+read 27, 20
+rgb: 0, 0, 0
+read 27, 21
+rgb: 255, 255, 255
+read 27, 22
+rgb: 255, 255, 255
+read 27, 23
+rgb: 255, 255, 255
+read 27, 24
+rgb: 255, 255, 255
+read 27, 25
+rgb: 0, 0, 0
+read 28, 20
+rgb: 0, 0, 0
+read 28, 21
+rgb: 255, 255, 255
+read 28, 22
+rgb: 255, 255, 255
+read 28, 23
+rgb: 255, 255, 255
+read 28, 24
+rgb: 255, 255, 255
+read 28, 25
+rgb: 0, 0, 0
+read 29, 20
+rgb: 0, 255, 0
+made door n at pos 4
+read 29, 21
+rgb: 255, 255, 255
+read 29, 22
+rgb: 255, 255, 255
+read 29, 23
+rgb: 255, 255, 255
+read 29, 24
+rgb: 255, 255, 255
+read 29, 25
+rgb: 0, 255, 0
+made door s at pos 4
+read 30, 20
+rgb: 0, 255, 0
+made door n at pos 5
+read 30, 21
+rgb: 255, 255, 255
+read 30, 22
+rgb: 255, 255, 255
+read 30, 23
+rgb: 255, 255, 255
+read 30, 24
+rgb: 255, 255, 255
+read 30, 25
+rgb: 0, 0, 0
+read 31, 20
+rgb: 0, 0, 0
+read 31, 21
+rgb: 255, 255, 255
+read 31, 22
+rgb: 255, 255, 255
+read 31, 23
+rgb: 255, 255, 255
+read 31, 24
+rgb: 255, 255, 255
+read 31, 25
+rgb: 0, 0, 0
+read 32, 20
+rgb: 0, 0, 0
+read 32, 21
+rgb: 255, 255, 255
+read 32, 22
+rgb: 255, 255, 255
+read 32, 23
+rgb: 255, 255, 255
+read 32, 24
+rgb: 255, 255, 255
+read 32, 25
+rgb: 0, 0, 0
+read 33, 20
+rgb: 255, 0, 0
+read 33, 21
+rgb: 0, 0, 0
+read 33, 22
+rgb: 0, 0, 0
+read 33, 23
+rgb: 0, 0, 0
+read 33, 24
+rgb: 0, 0, 0
+read 33, 25
+rgb: 255, 128, 0
+No more doors -------------
+read 26, 21
+rgb: 255, 255, 255
+read 26, 22
+rgb: 255, 255, 255
+read 26, 23
+rgb: 255, 255, 255
+read 26, 24
+rgb: 255, 255, 255
+read 27, 21
+rgb: 255, 255, 255
+read 27, 22
+rgb: 255, 255, 255
+read 27, 23
+rgb: 255, 255, 255
+read 27, 24
+rgb: 255, 255, 255
+read 28, 21
+rgb: 255, 255, 255
+read 28, 22
+rgb: 255, 255, 255
+read 28, 23
+rgb: 255, 255, 255
+read 28, 24
+rgb: 255, 255, 255
+read 29, 21
+rgb: 255, 255, 255
+read 29, 22
+rgb: 255, 255, 255
+read 29, 23
+rgb: 255, 255, 255
+read 29, 24
+rgb: 255, 255, 255
+read 30, 21
+rgb: 255, 255, 255
+read 30, 22
+rgb: 255, 255, 255
+read 30, 23
+rgb: 255, 255, 255
+read 30, 24
+rgb: 255, 255, 255
+read 31, 21
+rgb: 255, 255, 255
+read 31, 22
+rgb: 255, 255, 255
+read 31, 23
+rgb: 255, 255, 255
+read 31, 24
+rgb: 255, 255, 255
+read 32, 21
+rgb: 255, 255, 255
+read 32, 22
+rgb: 255, 255, 255
+read 32, 23
+rgb: 255, 255, 255
+read 32, 24
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 44, 20
+rgb: 255, 0, 0
+read 44, 21
+rgb: 0, 0, 0
+read 44, 22
+rgb: 0, 0, 0
+read 44, 23
+rgb: 0, 0, 0
+read 44, 24
+rgb: 0, 0, 0
+read 44, 25
+rgb: 0, 0, 0
+read 44, 26
+rgb: 0, 0, 0
+read 44, 27
+rgb: 0, 0, 0
+read 44, 28
+rgb: 0, 255, 0
+made door w at pos 8
+read 44, 29
+rgb: 0, 0, 0
+read 44, 30
+rgb: 0, 0, 0
+read 45, 20
+rgb: 0, 255, 0
+made door n at pos 1
+read 45, 21
+rgb: 255, 255, 255
+read 45, 22
+rgb: 255, 255, 255
+read 45, 23
+rgb: 255, 255, 255
+read 45, 24
+rgb: 255, 255, 255
+read 45, 25
+rgb: 255, 255, 255
+read 45, 26
+rgb: 255, 255, 255
+read 45, 27
+rgb: 255, 255, 255
+read 45, 28
+rgb: 255, 255, 255
+read 45, 29
+rgb: 255, 255, 255
+read 45, 30
+rgb: 0, 0, 0
+read 46, 20
+rgb: 0, 0, 0
+read 46, 21
+rgb: 255, 255, 255
+read 46, 22
+rgb: 255, 255, 255
+read 46, 23
+rgb: 255, 255, 255
+read 46, 24
+rgb: 255, 255, 255
+read 46, 25
+rgb: 255, 255, 255
+read 46, 26
+rgb: 255, 255, 255
+read 46, 27
+rgb: 255, 255, 255
+read 46, 28
+rgb: 255, 255, 255
+read 46, 29
+rgb: 255, 255, 255
+read 46, 30
+rgb: 0, 255, 0
+made door s at pos 2
+read 47, 20
+rgb: 255, 0, 0
+read 47, 21
+rgb: 0, 0, 0
+read 47, 22
+rgb: 0, 0, 0
+read 47, 23
+rgb: 0, 0, 0
+read 47, 24
+rgb: 0, 0, 0
+read 47, 25
+rgb: 0, 0, 0
+read 47, 26
+rgb: 0, 0, 0
+read 47, 27
+rgb: 0, 0, 0
+read 47, 28
+rgb: 0, 0, 0
+read 47, 29
+rgb: 0, 0, 0
+read 47, 30
+rgb: 255, 128, 0
+No more doors -------------
+read 45, 21
+rgb: 255, 255, 255
+read 45, 22
+rgb: 255, 255, 255
+read 45, 23
+rgb: 255, 255, 255
+read 45, 24
+rgb: 255, 255, 255
+read 45, 25
+rgb: 255, 255, 255
+read 45, 26
+rgb: 255, 255, 255
+read 45, 27
+rgb: 255, 255, 255
+read 45, 28
+rgb: 255, 255, 255
+read 45, 29
+rgb: 255, 255, 255
+read 46, 21
+rgb: 255, 255, 255
+read 46, 22
+rgb: 255, 255, 255
+read 46, 23
+rgb: 255, 255, 255
+read 46, 24
+rgb: 255, 255, 255
+read 46, 25
+rgb: 255, 255, 255
+read 46, 26
+rgb: 255, 255, 255
+read 46, 27
+rgb: 255, 255, 255
+read 46, 28
+rgb: 255, 255, 255
+read 46, 29
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 4, 24
+rgb: 255, 0, 0
+read 4, 25
+rgb: 0, 0, 0
+read 4, 26
+rgb: 0, 0, 0
+read 4, 27
+rgb: 0, 0, 0
+read 4, 28
+rgb: 0, 0, 0
+read 4, 29
+rgb: 0, 0, 0
+read 4, 30
+rgb: 0, 0, 0
+read 4, 31
+rgb: 0, 0, 0
+read 5, 24
+rgb: 0, 0, 0
+read 5, 25
+rgb: 255, 255, 255
+read 5, 26
+rgb: 255, 255, 255
+read 5, 27
+rgb: 255, 255, 255
+read 5, 28
+rgb: 255, 255, 255
+read 5, 29
+rgb: 255, 255, 255
+read 5, 30
+rgb: 255, 255, 255
+read 5, 31
+rgb: 0, 0, 0
+read 6, 24
+rgb: 0, 0, 0
+read 6, 25
+rgb: 255, 255, 255
+read 6, 26
+rgb: 255, 255, 255
+read 6, 27
+rgb: 255, 255, 255
+read 6, 28
+rgb: 255, 255, 255
+read 6, 29
+rgb: 0, 0, 255
+read 6, 30
+rgb: 255, 255, 255
+read 6, 31
+rgb: 0, 0, 0
+read 7, 24
+rgb: 0, 0, 0
+read 7, 25
+rgb: 255, 255, 255
+read 7, 26
+rgb: 255, 255, 255
+read 7, 27
+rgb: 255, 255, 255
+read 7, 28
+rgb: 255, 255, 255
+read 7, 29
+rgb: 255, 255, 255
+read 7, 30
+rgb: 255, 255, 255
+read 7, 31
+rgb: 0, 0, 0
+read 8, 24
+rgb: 0, 0, 0
+read 8, 25
+rgb: 255, 255, 255
+read 8, 26
+rgb: 255, 255, 255
+read 8, 27
+rgb: 255, 255, 255
+read 8, 28
+rgb: 255, 255, 255
+read 8, 29
+rgb: 255, 255, 255
+read 8, 30
+rgb: 255, 255, 255
+read 8, 31
+rgb: 0, 0, 0
+read 9, 24
+rgb: 0, 0, 0
+read 9, 25
+rgb: 255, 255, 255
+read 9, 26
+rgb: 255, 255, 0
+read 9, 27
+rgb: 255, 255, 255
+read 9, 28
+rgb: 255, 255, 255
+read 9, 29
+rgb: 255, 255, 255
+read 9, 30
+rgb: 255, 255, 255
+read 9, 31
+rgb: 0, 0, 0
+read 10, 24
+rgb: 0, 0, 0
+read 10, 25
+rgb: 255, 255, 255
+read 10, 26
+rgb: 255, 255, 255
+read 10, 27
+rgb: 255, 255, 255
+read 10, 28
+rgb: 255, 255, 255
+read 10, 29
+rgb: 255, 255, 255
+read 10, 30
+rgb: 255, 255, 255
+read 10, 31
+rgb: 0, 0, 0
+read 11, 24
+rgb: 255, 0, 0
+read 11, 25
+rgb: 0, 0, 0
+read 11, 26
+rgb: 0, 0, 0
+read 11, 27
+rgb: 0, 255, 0
+made door e at pos 3
+read 11, 28
+rgb: 0, 255, 0
+made door e at pos 4
+read 11, 29
+rgb: 0, 0, 0
+read 11, 30
+rgb: 0, 0, 0
+read 11, 31
+rgb: 255, 128, 0
+No more doors -------------
+read 5, 25
+rgb: 255, 255, 255
+read 5, 26
+rgb: 255, 255, 255
+read 5, 27
+rgb: 255, 255, 255
+read 5, 28
+rgb: 255, 255, 255
+read 5, 29
+rgb: 255, 255, 255
+read 5, 30
+rgb: 255, 255, 255
+read 6, 25
+rgb: 255, 255, 255
+read 6, 26
+rgb: 255, 255, 255
+read 6, 27
+rgb: 255, 255, 255
+read 6, 28
+rgb: 255, 255, 255
+read 6, 29
+rgb: 0, 0, 255
+stair at 1, 4
+read 6, 30
+rgb: 255, 255, 255
+read 7, 25
+rgb: 255, 255, 255
+read 7, 26
+rgb: 255, 255, 255
+read 7, 27
+rgb: 255, 255, 255
+read 7, 28
+rgb: 255, 255, 255
+read 7, 29
+rgb: 255, 255, 255
+read 7, 30
+rgb: 255, 255, 255
+read 8, 25
+rgb: 255, 255, 255
+read 8, 26
+rgb: 255, 255, 255
+read 8, 27
+rgb: 255, 255, 255
+read 8, 28
+rgb: 255, 255, 255
+read 8, 29
+rgb: 255, 255, 255
+read 8, 30
+rgb: 255, 255, 255
+read 9, 25
+rgb: 255, 255, 255
+read 9, 26
+rgb: 255, 255, 0
+chest at 4, 1
+read 9, 27
+rgb: 255, 255, 255
+read 9, 28
+rgb: 255, 255, 255
+read 9, 29
+rgb: 255, 255, 255
+read 9, 30
+rgb: 255, 255, 255
+read 10, 25
+rgb: 255, 255, 255
+read 10, 26
+rgb: 255, 255, 255
+read 10, 27
+rgb: 255, 255, 255
+read 10, 28
+rgb: 255, 255, 255
+read 10, 29
+rgb: 255, 255, 255
+read 10, 30
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 12, 24
+rgb: 255, 0, 0
+read 12, 25
+rgb: 0, 0, 0
+read 12, 26
+rgb: 0, 0, 0
+read 12, 27
+rgb: 0, 255, 0
+made door w at pos 3
+read 12, 28
+rgb: 0, 255, 0
+made door w at pos 4
+read 12, 29
+rgb: 0, 0, 0
+read 12, 30
+rgb: 0, 0, 0
+read 12, 31
+rgb: 0, 0, 0
+read 13, 24
+rgb: 0, 0, 0
+read 13, 25
+rgb: 255, 255, 255
+read 13, 26
+rgb: 255, 255, 255
+read 13, 27
+rgb: 255, 255, 255
+read 13, 28
+rgb: 255, 255, 255
+read 13, 29
+rgb: 255, 255, 255
+read 13, 30
+rgb: 255, 255, 255
+read 13, 31
+rgb: 0, 0, 0
+read 14, 24
+rgb: 0, 0, 0
+read 14, 25
+rgb: 255, 255, 255
+read 14, 26
+rgb: 255, 255, 255
+read 14, 27
+rgb: 255, 255, 255
+read 14, 28
+rgb: 255, 255, 255
+read 14, 29
+rgb: 255, 255, 255
+read 14, 30
+rgb: 255, 255, 255
+read 14, 31
+rgb: 0, 0, 0
+read 15, 24
+rgb: 0, 255, 0
+made door n at pos 3
+read 15, 25
+rgb: 255, 255, 255
+read 15, 26
+rgb: 255, 255, 255
+read 15, 27
+rgb: 255, 255, 255
+read 15, 28
+rgb: 255, 255, 255
+read 15, 29
+rgb: 255, 255, 255
+read 15, 30
+rgb: 255, 255, 255
+read 15, 31
+rgb: 0, 0, 0
+read 16, 24
+rgb: 0, 255, 0
+made door n at pos 4
+read 16, 25
+rgb: 255, 255, 255
+read 16, 26
+rgb: 255, 255, 255
+read 16, 27
+rgb: 255, 255, 255
+read 16, 28
+rgb: 255, 255, 255
+read 16, 29
+rgb: 255, 255, 255
+read 16, 30
+rgb: 255, 255, 255
+read 16, 31
+rgb: 0, 0, 0
+read 17, 24
+rgb: 0, 0, 0
+read 17, 25
+rgb: 255, 255, 255
+read 17, 26
+rgb: 255, 255, 255
+read 17, 27
+rgb: 255, 255, 255
+read 17, 28
+rgb: 255, 255, 255
+read 17, 29
+rgb: 255, 255, 255
+read 17, 30
+rgb: 255, 255, 255
+read 17, 31
+rgb: 0, 0, 0
+read 18, 24
+rgb: 0, 0, 0
+read 18, 25
+rgb: 255, 255, 255
+read 18, 26
+rgb: 255, 255, 255
+read 18, 27
+rgb: 255, 255, 255
+read 18, 28
+rgb: 255, 255, 255
+read 18, 29
+rgb: 255, 255, 255
+read 18, 30
+rgb: 255, 255, 255
+read 18, 31
+rgb: 0, 0, 0
+read 19, 24
+rgb: 255, 0, 0
+read 19, 25
+rgb: 0, 0, 0
+read 19, 26
+rgb: 0, 0, 0
+read 19, 27
+rgb: 0, 0, 0
+read 19, 28
+rgb: 0, 255, 0
+made door e at pos 4
+read 19, 29
+rgb: 0, 255, 0
+made door e at pos 5
+read 19, 30
+rgb: 0, 0, 0
+read 19, 31
+rgb: 255, 128, 0
+No more doors -------------
+read 13, 25
+rgb: 255, 255, 255
+read 13, 26
+rgb: 255, 255, 255
+read 13, 27
+rgb: 255, 255, 255
+read 13, 28
+rgb: 255, 255, 255
+read 13, 29
+rgb: 255, 255, 255
+read 13, 30
+rgb: 255, 255, 255
+read 14, 25
+rgb: 255, 255, 255
+read 14, 26
+rgb: 255, 255, 255
+read 14, 27
+rgb: 255, 255, 255
+read 14, 28
+rgb: 255, 255, 255
+read 14, 29
+rgb: 255, 255, 255
+read 14, 30
+rgb: 255, 255, 255
+read 15, 25
+rgb: 255, 255, 255
+read 15, 26
+rgb: 255, 255, 255
+read 15, 27
+rgb: 255, 255, 255
+read 15, 28
+rgb: 255, 255, 255
+read 15, 29
+rgb: 255, 255, 255
+read 15, 30
+rgb: 255, 255, 255
+read 16, 25
+rgb: 255, 255, 255
+read 16, 26
+rgb: 255, 255, 255
+read 16, 27
+rgb: 255, 255, 255
+read 16, 28
+rgb: 255, 255, 255
+read 16, 29
+rgb: 255, 255, 255
+read 16, 30
+rgb: 255, 255, 255
+read 17, 25
+rgb: 255, 255, 255
+read 17, 26
+rgb: 255, 255, 255
+read 17, 27
+rgb: 255, 255, 255
+read 17, 28
+rgb: 255, 255, 255
+read 17, 29
+rgb: 255, 255, 255
+read 17, 30
+rgb: 255, 255, 255
+read 18, 25
+rgb: 255, 255, 255
+read 18, 26
+rgb: 255, 255, 255
+read 18, 27
+rgb: 255, 255, 255
+read 18, 28
+rgb: 255, 255, 255
+read 18, 29
+rgb: 255, 255, 255
+read 18, 30
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 20, 26
+rgb: 255, 0, 0
+read 20, 27
+rgb: 0, 0, 0
+read 20, 28
+rgb: 0, 255, 0
+made door w at pos 2
+read 20, 29
+rgb: 0, 255, 0
+made door w at pos 3
+read 20, 30
+rgb: 0, 0, 0
+read 20, 31
+rgb: 0, 0, 0
+read 21, 26
+rgb: 0, 0, 0
+read 21, 27
+rgb: 255, 255, 255
+read 21, 28
+rgb: 255, 255, 255
+read 21, 29
+rgb: 255, 255, 255
+read 21, 30
+rgb: 255, 255, 255
+read 21, 31
+rgb: 0, 0, 0
+read 22, 26
+rgb: 0, 0, 0
+read 22, 27
+rgb: 255, 255, 255
+read 22, 28
+rgb: 255, 255, 255
+read 22, 29
+rgb: 255, 255, 255
+read 22, 30
+rgb: 255, 255, 255
+read 22, 31
+rgb: 0, 0, 0
+read 23, 26
+rgb: 0, 0, 0
+read 23, 27
+rgb: 255, 255, 255
+read 23, 28
+rgb: 255, 255, 255
+read 23, 29
+rgb: 255, 255, 255
+read 23, 30
+rgb: 255, 255, 255
+read 23, 31
+rgb: 0, 0, 0
+read 24, 26
+rgb: 0, 0, 0
+read 24, 27
+rgb: 255, 255, 255
+read 24, 28
+rgb: 255, 255, 255
+read 24, 29
+rgb: 255, 255, 255
+read 24, 30
+rgb: 255, 255, 255
+read 24, 31
+rgb: 0, 0, 0
+read 25, 26
+rgb: 0, 0, 0
+read 25, 27
+rgb: 255, 255, 255
+read 25, 28
+rgb: 255, 255, 255
+read 25, 29
+rgb: 255, 255, 255
+read 25, 30
+rgb: 255, 255, 255
+read 25, 31
+rgb: 0, 0, 0
+read 26, 26
+rgb: 0, 0, 0
+read 26, 27
+rgb: 255, 255, 255
+read 26, 28
+rgb: 255, 255, 255
+read 26, 29
+rgb: 255, 255, 255
+read 26, 30
+rgb: 255, 255, 255
+read 26, 31
+rgb: 0, 0, 0
+read 27, 26
+rgb: 0, 0, 0
+read 27, 27
+rgb: 255, 255, 255
+read 27, 28
+rgb: 255, 255, 255
+read 27, 29
+rgb: 255, 255, 255
+read 27, 30
+rgb: 255, 255, 255
+read 27, 31
+rgb: 0, 0, 0
+read 28, 26
+rgb: 0, 0, 0
+read 28, 27
+rgb: 255, 255, 255
+read 28, 28
+rgb: 255, 255, 255
+read 28, 29
+rgb: 255, 255, 255
+read 28, 30
+rgb: 255, 255, 255
+read 28, 31
+rgb: 0, 0, 0
+read 29, 26
+rgb: 0, 255, 0
+made door n at pos 9
+read 29, 27
+rgb: 255, 255, 255
+read 29, 28
+rgb: 255, 255, 255
+read 29, 29
+rgb: 255, 255, 255
+read 29, 30
+rgb: 255, 255, 255
+read 29, 31
+rgb: 0, 0, 0
+read 30, 26
+rgb: 0, 0, 0
+read 30, 27
+rgb: 255, 255, 255
+read 30, 28
+rgb: 255, 255, 255
+read 30, 29
+rgb: 255, 255, 255
+read 30, 30
+rgb: 255, 255, 255
+read 30, 31
+rgb: 0, 0, 0
+read 31, 26
+rgb: 0, 0, 0
+read 31, 27
+rgb: 255, 255, 255
+read 31, 28
+rgb: 255, 255, 255
+read 31, 29
+rgb: 255, 255, 255
+read 31, 30
+rgb: 255, 255, 255
+read 31, 31
+rgb: 0, 0, 0
+read 32, 26
+rgb: 0, 0, 0
+read 32, 27
+rgb: 255, 255, 255
+read 32, 28
+rgb: 255, 255, 255
+read 32, 29
+rgb: 255, 255, 255
+read 32, 30
+rgb: 255, 255, 255
+read 32, 31
+rgb: 0, 0, 0
+read 33, 26
+rgb: 0, 0, 0
+read 33, 27
+rgb: 255, 255, 255
+read 33, 28
+rgb: 255, 255, 255
+read 33, 29
+rgb: 255, 255, 255
+read 33, 30
+rgb: 255, 255, 255
+read 33, 31
+rgb: 0, 0, 0
+read 34, 26
+rgb: 0, 0, 0
+read 34, 27
+rgb: 255, 255, 255
+read 34, 28
+rgb: 255, 255, 255
+read 34, 29
+rgb: 255, 255, 255
+read 34, 30
+rgb: 255, 255, 255
+read 34, 31
+rgb: 0, 0, 0
+read 35, 26
+rgb: 0, 0, 0
+read 35, 27
+rgb: 255, 255, 255
+read 35, 28
+rgb: 255, 255, 255
+read 35, 29
+rgb: 255, 255, 255
+read 35, 30
+rgb: 255, 255, 255
+read 35, 31
+rgb: 0, 0, 0
+read 36, 26
+rgb: 0, 0, 0
+read 36, 27
+rgb: 255, 255, 255
+read 36, 28
+rgb: 255, 255, 255
+read 36, 29
+rgb: 255, 255, 255
+read 36, 30
+rgb: 255, 255, 255
+read 36, 31
+rgb: 0, 0, 0
+read 37, 26
+rgb: 0, 0, 0
+read 37, 27
+rgb: 255, 255, 255
+read 37, 28
+rgb: 255, 255, 255
+read 37, 29
+rgb: 255, 255, 255
+read 37, 30
+rgb: 255, 255, 255
+read 37, 31
+rgb: 0, 0, 0
+read 38, 26
+rgb: 0, 255, 0
+made door n at pos 18
+read 38, 27
+rgb: 255, 255, 255
+read 38, 28
+rgb: 255, 255, 255
+read 38, 29
+rgb: 255, 255, 255
+read 38, 30
+rgb: 255, 255, 255
+read 38, 31
+rgb: 0, 0, 0
+read 39, 26
+rgb: 0, 0, 0
+read 39, 27
+rgb: 255, 255, 255
+read 39, 28
+rgb: 255, 255, 255
+read 39, 29
+rgb: 255, 255, 255
+read 39, 30
+rgb: 255, 255, 255
+read 39, 31
+rgb: 0, 0, 0
+read 40, 26
+rgb: 0, 0, 0
+read 40, 27
+rgb: 255, 255, 255
+read 40, 28
+rgb: 255, 255, 255
+read 40, 29
+rgb: 255, 255, 255
+read 40, 30
+rgb: 255, 255, 255
+read 40, 31
+rgb: 0, 0, 0
+read 41, 26
+rgb: 0, 0, 0
+read 41, 27
+rgb: 255, 255, 255
+read 41, 28
+rgb: 255, 255, 255
+read 41, 29
+rgb: 255, 255, 255
+read 41, 30
+rgb: 255, 255, 255
+read 41, 31
+rgb: 0, 0, 0
+read 42, 26
+rgb: 0, 0, 0
+read 42, 27
+rgb: 255, 255, 255
+read 42, 28
+rgb: 255, 255, 255
+read 42, 29
+rgb: 255, 255, 255
+read 42, 30
+rgb: 255, 255, 255
+read 42, 31
+rgb: 0, 0, 0
+read 43, 26
+rgb: 255, 0, 0
+read 43, 27
+rgb: 0, 0, 0
+read 43, 28
+rgb: 0, 255, 0
+made door e at pos 2
+read 43, 29
+rgb: 0, 0, 0
+read 43, 30
+rgb: 0, 0, 0
+read 43, 31
+rgb: 255, 128, 0
+No more doors -------------
+read 21, 27
+rgb: 255, 255, 255
+read 21, 28
+rgb: 255, 255, 255
+read 21, 29
+rgb: 255, 255, 255
+read 21, 30
+rgb: 255, 255, 255
+read 22, 27
+rgb: 255, 255, 255
+read 22, 28
+rgb: 255, 255, 255
+read 22, 29
+rgb: 255, 255, 255
+read 22, 30
+rgb: 255, 255, 255
+read 23, 27
+rgb: 255, 255, 255
+read 23, 28
+rgb: 255, 255, 255
+read 23, 29
+rgb: 255, 255, 255
+read 23, 30
+rgb: 255, 255, 255
+read 24, 27
+rgb: 255, 255, 255
+read 24, 28
+rgb: 255, 255, 255
+read 24, 29
+rgb: 255, 255, 255
+read 24, 30
+rgb: 255, 255, 255
+read 25, 27
+rgb: 255, 255, 255
+read 25, 28
+rgb: 255, 255, 255
+read 25, 29
+rgb: 255, 255, 255
+read 25, 30
+rgb: 255, 255, 255
+read 26, 27
+rgb: 255, 255, 255
+read 26, 28
+rgb: 255, 255, 255
+read 26, 29
+rgb: 255, 255, 255
+read 26, 30
+rgb: 255, 255, 255
+read 27, 27
+rgb: 255, 255, 255
+read 27, 28
+rgb: 255, 255, 255
+read 27, 29
+rgb: 255, 255, 255
+read 27, 30
+rgb: 255, 255, 255
+read 28, 27
+rgb: 255, 255, 255
+read 28, 28
+rgb: 255, 255, 255
+read 28, 29
+rgb: 255, 255, 255
+read 28, 30
+rgb: 255, 255, 255
+read 29, 27
+rgb: 255, 255, 255
+read 29, 28
+rgb: 255, 255, 255
+read 29, 29
+rgb: 255, 255, 255
+read 29, 30
+rgb: 255, 255, 255
+read 30, 27
+rgb: 255, 255, 255
+read 30, 28
+rgb: 255, 255, 255
+read 30, 29
+rgb: 255, 255, 255
+read 30, 30
+rgb: 255, 255, 255
+read 31, 27
+rgb: 255, 255, 255
+read 31, 28
+rgb: 255, 255, 255
+read 31, 29
+rgb: 255, 255, 255
+read 31, 30
+rgb: 255, 255, 255
+read 32, 27
+rgb: 255, 255, 255
+read 32, 28
+rgb: 255, 255, 255
+read 32, 29
+rgb: 255, 255, 255
+read 32, 30
+rgb: 255, 255, 255
+read 33, 27
+rgb: 255, 255, 255
+read 33, 28
+rgb: 255, 255, 255
+read 33, 29
+rgb: 255, 255, 255
+read 33, 30
+rgb: 255, 255, 255
+read 34, 27
+rgb: 255, 255, 255
+read 34, 28
+rgb: 255, 255, 255
+read 34, 29
+rgb: 255, 255, 255
+read 34, 30
+rgb: 255, 255, 255
+read 35, 27
+rgb: 255, 255, 255
+read 35, 28
+rgb: 255, 255, 255
+read 35, 29
+rgb: 255, 255, 255
+read 35, 30
+rgb: 255, 255, 255
+read 36, 27
+rgb: 255, 255, 255
+read 36, 28
+rgb: 255, 255, 255
+read 36, 29
+rgb: 255, 255, 255
+read 36, 30
+rgb: 255, 255, 255
+read 37, 27
+rgb: 255, 255, 255
+read 37, 28
+rgb: 255, 255, 255
+read 37, 29
+rgb: 255, 255, 255
+read 37, 30
+rgb: 255, 255, 255
+read 38, 27
+rgb: 255, 255, 255
+read 38, 28
+rgb: 255, 255, 255
+read 38, 29
+rgb: 255, 255, 255
+read 38, 30
+rgb: 255, 255, 255
+read 39, 27
+rgb: 255, 255, 255
+read 39, 28
+rgb: 255, 255, 255
+read 39, 29
+rgb: 255, 255, 255
+read 39, 30
+rgb: 255, 255, 255
+read 40, 27
+rgb: 255, 255, 255
+read 40, 28
+rgb: 255, 255, 255
+read 40, 29
+rgb: 255, 255, 255
+read 40, 30
+rgb: 255, 255, 255
+read 41, 27
+rgb: 255, 255, 255
+read 41, 28
+rgb: 255, 255, 255
+read 41, 29
+rgb: 255, 255, 255
+read 41, 30
+rgb: 255, 255, 255
+read 42, 27
+rgb: 255, 255, 255
+read 42, 28
+rgb: 255, 255, 255
+read 42, 29
+rgb: 255, 255, 255
+read 42, 30
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 44, 31
+rgb: 255, 0, 0
+read 44, 32
+rgb: 0, 0, 0
+read 44, 33
+rgb: 0, 0, 0
+read 44, 34
+rgb: 0, 0, 0
+read 45, 31
+rgb: 0, 0, 0
+read 45, 32
+rgb: 255, 255, 255
+read 45, 33
+rgb: 255, 255, 0
+read 45, 34
+rgb: 0, 0, 0
+read 46, 31
+rgb: 0, 255, 0
+made door n at pos 2
+read 46, 32
+rgb: 255, 255, 255
+read 46, 33
+rgb: 255, 255, 255
+read 46, 34
+rgb: 0, 0, 0
+read 47, 31
+rgb: 255, 0, 0
+read 47, 32
+rgb: 0, 0, 0
+read 47, 33
+rgb: 0, 0, 0
+read 47, 34
+rgb: 255, 128, 0
+No more doors -------------
+read 45, 32
+rgb: 255, 255, 255
+read 45, 33
+rgb: 255, 255, 0
+chest at 0, 1
+read 46, 32
+rgb: 255, 255, 255
+read 46, 33
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 18, 33
+rgb: 255, 0, 0
+read 18, 34
+rgb: 0, 0, 0
+read 18, 35
+rgb: 0, 0, 0
+read 18, 36
+rgb: 0, 0, 0
+read 18, 37
+rgb: 0, 255, 0
+made door w at pos 4
+read 18, 38
+rgb: 0, 0, 0
+read 18, 39
+rgb: 0, 0, 0
+read 18, 40
+rgb: 0, 0, 0
+read 19, 33
+rgb: 0, 0, 0
+read 19, 34
+rgb: 255, 255, 255
+read 19, 35
+rgb: 255, 255, 255
+read 19, 36
+rgb: 255, 255, 255
+read 19, 37
+rgb: 255, 255, 255
+read 19, 38
+rgb: 255, 255, 255
+read 19, 39
+rgb: 255, 255, 255
+read 19, 40
+rgb: 0, 0, 0
+read 20, 33
+rgb: 0, 0, 0
+read 20, 34
+rgb: 255, 255, 255
+read 20, 35
+rgb: 255, 255, 255
+read 20, 36
+rgb: 255, 255, 255
+read 20, 37
+rgb: 255, 255, 255
+read 20, 38
+rgb: 255, 255, 255
+read 20, 39
+rgb: 255, 255, 255
+read 20, 40
+rgb: 0, 0, 0
+read 21, 33
+rgb: 0, 0, 0
+read 21, 34
+rgb: 255, 255, 255
+read 21, 35
+rgb: 255, 255, 255
+read 21, 36
+rgb: 255, 255, 255
+read 21, 37
+rgb: 255, 255, 255
+read 21, 38
+rgb: 255, 255, 255
+read 21, 39
+rgb: 255, 255, 255
+read 21, 40
+rgb: 0, 0, 0
+read 22, 33
+rgb: 0, 0, 0
+read 22, 34
+rgb: 255, 255, 255
+read 22, 35
+rgb: 255, 255, 255
+read 22, 36
+rgb: 255, 255, 255
+read 22, 37
+rgb: 255, 255, 255
+read 22, 38
+rgb: 255, 255, 255
+read 22, 39
+rgb: 255, 255, 255
+read 22, 40
+rgb: 0, 255, 0
+made door s at pos 4
+read 23, 33
+rgb: 0, 0, 0
+read 23, 34
+rgb: 255, 255, 255
+read 23, 35
+rgb: 255, 255, 255
+read 23, 36
+rgb: 255, 255, 255
+read 23, 37
+rgb: 255, 255, 255
+read 23, 38
+rgb: 255, 255, 255
+read 23, 39
+rgb: 255, 255, 255
+read 23, 40
+rgb: 0, 0, 0
+read 24, 33
+rgb: 0, 0, 0
+read 24, 34
+rgb: 255, 255, 255
+read 24, 35
+rgb: 255, 255, 255
+read 24, 36
+rgb: 255, 255, 255
+read 24, 37
+rgb: 255, 255, 255
+read 24, 38
+rgb: 255, 255, 255
+read 24, 39
+rgb: 255, 255, 255
+read 24, 40
+rgb: 0, 0, 0
+read 25, 33
+rgb: 255, 0, 0
+read 25, 34
+rgb: 0, 0, 0
+read 25, 35
+rgb: 0, 0, 0
+read 25, 36
+rgb: 0, 0, 0
+read 25, 37
+rgb: 0, 255, 0
+made door e at pos 4
+read 25, 38
+rgb: 0, 255, 0
+made door e at pos 5
+read 25, 39
+rgb: 0, 0, 0
+read 25, 40
+rgb: 255, 128, 0
+No more doors -------------
+read 19, 34
+rgb: 255, 255, 255
+read 19, 35
+rgb: 255, 255, 255
+read 19, 36
+rgb: 255, 255, 255
+read 19, 37
+rgb: 255, 255, 255
+read 19, 38
+rgb: 255, 255, 255
+read 19, 39
+rgb: 255, 255, 255
+read 20, 34
+rgb: 255, 255, 255
+read 20, 35
+rgb: 255, 255, 255
+read 20, 36
+rgb: 255, 255, 255
+read 20, 37
+rgb: 255, 255, 255
+read 20, 38
+rgb: 255, 255, 255
+read 20, 39
+rgb: 255, 255, 255
+read 21, 34
+rgb: 255, 255, 255
+read 21, 35
+rgb: 255, 255, 255
+read 21, 36
+rgb: 255, 255, 255
+read 21, 37
+rgb: 255, 255, 255
+read 21, 38
+rgb: 255, 255, 255
+read 21, 39
+rgb: 255, 255, 255
+read 22, 34
+rgb: 255, 255, 255
+read 22, 35
+rgb: 255, 255, 255
+read 22, 36
+rgb: 255, 255, 255
+read 22, 37
+rgb: 255, 255, 255
+read 22, 38
+rgb: 255, 255, 255
+read 22, 39
+rgb: 255, 255, 255
+read 23, 34
+rgb: 255, 255, 255
+read 23, 35
+rgb: 255, 255, 255
+read 23, 36
+rgb: 255, 255, 255
+read 23, 37
+rgb: 255, 255, 255
+read 23, 38
+rgb: 255, 255, 255
+read 23, 39
+rgb: 255, 255, 255
+read 24, 34
+rgb: 255, 255, 255
+read 24, 35
+rgb: 255, 255, 255
+read 24, 36
+rgb: 255, 255, 255
+read 24, 37
+rgb: 255, 255, 255
+read 24, 38
+rgb: 255, 255, 255
+read 24, 39
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 4, 34
+rgb: 255, 0, 0
+read 4, 35
+rgb: 0, 0, 0
+read 4, 36
+rgb: 0, 0, 0
+read 4, 37
+rgb: 0, 255, 0
+made door w at pos 3
+read 4, 38
+rgb: 0, 255, 0
+made door w at pos 4
+read 4, 39
+rgb: 0, 0, 0
+read 4, 40
+rgb: 0, 0, 0
+read 4, 41
+rgb: 0, 0, 0
+read 4, 42
+rgb: 0, 0, 0
+read 4, 43
+rgb: 0, 0, 0
+read 5, 34
+rgb: 0, 0, 0
+read 5, 35
+rgb: 255, 255, 255
+read 5, 36
+rgb: 255, 255, 255
+read 5, 37
+rgb: 255, 255, 255
+read 5, 38
+rgb: 255, 255, 255
+read 5, 39
+rgb: 255, 255, 255
+read 5, 40
+rgb: 255, 255, 255
+read 5, 41
+rgb: 255, 255, 255
+read 5, 42
+rgb: 255, 255, 255
+read 5, 43
+rgb: 0, 0, 0
+read 6, 34
+rgb: 0, 0, 0
+read 6, 35
+rgb: 255, 255, 255
+read 6, 36
+rgb: 255, 255, 255
+read 6, 37
+rgb: 255, 255, 255
+read 6, 38
+rgb: 255, 255, 255
+read 6, 39
+rgb: 255, 255, 255
+read 6, 40
+rgb: 255, 255, 255
+read 6, 41
+rgb: 0, 0, 255
+read 6, 42
+rgb: 255, 255, 255
+read 6, 43
+rgb: 0, 0, 0
+read 7, 34
+rgb: 0, 0, 0
+read 7, 35
+rgb: 255, 255, 255
+read 7, 36
+rgb: 255, 255, 255
+read 7, 37
+rgb: 255, 255, 255
+read 7, 38
+rgb: 255, 255, 255
+read 7, 39
+rgb: 255, 255, 255
+read 7, 40
+rgb: 255, 255, 255
+read 7, 41
+rgb: 255, 255, 255
+read 7, 42
+rgb: 255, 255, 255
+read 7, 43
+rgb: 0, 0, 0
+read 8, 34
+rgb: 0, 0, 0
+read 8, 35
+rgb: 255, 255, 255
+read 8, 36
+rgb: 255, 255, 255
+read 8, 37
+rgb: 255, 255, 255
+read 8, 38
+rgb: 255, 255, 255
+read 8, 39
+rgb: 255, 255, 255
+read 8, 40
+rgb: 255, 255, 255
+read 8, 41
+rgb: 255, 255, 255
+read 8, 42
+rgb: 255, 255, 255
+read 8, 43
+rgb: 0, 0, 0
+read 9, 34
+rgb: 0, 0, 0
+read 9, 35
+rgb: 255, 255, 255
+read 9, 36
+rgb: 255, 255, 255
+read 9, 37
+rgb: 255, 255, 255
+read 9, 38
+rgb: 255, 255, 255
+read 9, 39
+rgb: 255, 255, 255
+read 9, 40
+rgb: 255, 255, 255
+read 9, 41
+rgb: 255, 255, 255
+read 9, 42
+rgb: 255, 255, 255
+read 9, 43
+rgb: 0, 0, 0
+read 10, 34
+rgb: 0, 0, 0
+read 10, 35
+rgb: 255, 255, 255
+read 10, 36
+rgb: 255, 255, 255
+read 10, 37
+rgb: 255, 255, 255
+read 10, 38
+rgb: 255, 255, 255
+read 10, 39
+rgb: 255, 255, 255
+read 10, 40
+rgb: 255, 255, 255
+read 10, 41
+rgb: 255, 255, 255
+read 10, 42
+rgb: 255, 255, 255
+read 10, 43
+rgb: 0, 0, 0
+read 11, 34
+rgb: 0, 0, 0
+read 11, 35
+rgb: 255, 255, 255
+read 11, 36
+rgb: 255, 255, 255
+read 11, 37
+rgb: 255, 255, 255
+read 11, 38
+rgb: 255, 255, 255
+read 11, 39
+rgb: 255, 255, 255
+read 11, 40
+rgb: 255, 255, 255
+read 11, 41
+rgb: 255, 255, 255
+read 11, 42
+rgb: 255, 255, 255
+read 11, 43
+rgb: 0, 0, 0
+read 12, 34
+rgb: 0, 0, 0
+read 12, 35
+rgb: 255, 255, 255
+read 12, 36
+rgb: 255, 255, 255
+read 12, 37
+rgb: 255, 255, 255
+read 12, 38
+rgb: 255, 255, 255
+read 12, 39
+rgb: 255, 255, 255
+read 12, 40
+rgb: 255, 255, 255
+read 12, 41
+rgb: 255, 255, 255
+read 12, 42
+rgb: 255, 255, 255
+read 12, 43
+rgb: 0, 0, 0
+read 13, 34
+rgb: 0, 0, 0
+read 13, 35
+rgb: 255, 255, 255
+read 13, 36
+rgb: 255, 255, 255
+read 13, 37
+rgb: 255, 255, 255
+read 13, 38
+rgb: 255, 255, 255
+read 13, 39
+rgb: 255, 255, 255
+read 13, 40
+rgb: 255, 255, 255
+read 13, 41
+rgb: 255, 255, 255
+read 13, 42
+rgb: 255, 255, 255
+read 13, 43
+rgb: 0, 0, 0
+read 14, 34
+rgb: 0, 0, 0
+read 14, 35
+rgb: 255, 255, 255
+read 14, 36
+rgb: 255, 255, 255
+read 14, 37
+rgb: 255, 255, 255
+read 14, 38
+rgb: 255, 255, 255
+read 14, 39
+rgb: 255, 255, 255
+read 14, 40
+rgb: 255, 255, 255
+read 14, 41
+rgb: 255, 255, 255
+read 14, 42
+rgb: 255, 255, 255
+read 14, 43
+rgb: 0, 0, 0
+read 15, 34
+rgb: 0, 0, 0
+read 15, 35
+rgb: 255, 255, 255
+read 15, 36
+rgb: 255, 255, 255
+read 15, 37
+rgb: 255, 255, 255
+read 15, 38
+rgb: 255, 255, 255
+read 15, 39
+rgb: 255, 255, 255
+read 15, 40
+rgb: 255, 255, 255
+read 15, 41
+rgb: 255, 255, 255
+read 15, 42
+rgb: 255, 255, 255
+read 15, 43
+rgb: 0, 0, 0
+read 16, 34
+rgb: 0, 0, 0
+read 16, 35
+rgb: 255, 255, 255
+read 16, 36
+rgb: 255, 255, 255
+read 16, 37
+rgb: 255, 255, 255
+read 16, 38
+rgb: 255, 255, 255
+read 16, 39
+rgb: 255, 255, 255
+read 16, 40
+rgb: 255, 255, 255
+read 16, 41
+rgb: 255, 255, 255
+read 16, 42
+rgb: 255, 255, 255
+read 16, 43
+rgb: 0, 0, 0
+read 17, 34
+rgb: 255, 0, 0
+read 17, 35
+rgb: 0, 0, 0
+read 17, 36
+rgb: 0, 0, 0
+read 17, 37
+rgb: 0, 255, 0
+made door e at pos 3
+read 17, 38
+rgb: 0, 0, 0
+read 17, 39
+rgb: 0, 0, 0
+read 17, 40
+rgb: 0, 0, 0
+read 17, 41
+rgb: 0, 0, 0
+read 17, 42
+rgb: 0, 255, 0
+made door e at pos 8
+read 17, 43
+rgb: 255, 128, 0
+No more doors -------------
+read 5, 35
+rgb: 255, 255, 255
+read 5, 36
+rgb: 255, 255, 255
+read 5, 37
+rgb: 255, 255, 255
+read 5, 38
+rgb: 255, 255, 255
+read 5, 39
+rgb: 255, 255, 255
+read 5, 40
+rgb: 255, 255, 255
+read 5, 41
+rgb: 255, 255, 255
+read 5, 42
+rgb: 255, 255, 255
+read 6, 35
+rgb: 255, 255, 255
+read 6, 36
+rgb: 255, 255, 255
+read 6, 37
+rgb: 255, 255, 255
+read 6, 38
+rgb: 255, 255, 255
+read 6, 39
+rgb: 255, 255, 255
+read 6, 40
+rgb: 255, 255, 255
+read 6, 41
+rgb: 0, 0, 255
+stair at 1, 6
+read 6, 42
+rgb: 255, 255, 255
+read 7, 35
+rgb: 255, 255, 255
+read 7, 36
+rgb: 255, 255, 255
+read 7, 37
+rgb: 255, 255, 255
+read 7, 38
+rgb: 255, 255, 255
+read 7, 39
+rgb: 255, 255, 255
+read 7, 40
+rgb: 255, 255, 255
+read 7, 41
+rgb: 255, 255, 255
+read 7, 42
+rgb: 255, 255, 255
+read 8, 35
+rgb: 255, 255, 255
+read 8, 36
+rgb: 255, 255, 255
+read 8, 37
+rgb: 255, 255, 255
+read 8, 38
+rgb: 255, 255, 255
+read 8, 39
+rgb: 255, 255, 255
+read 8, 40
+rgb: 255, 255, 255
+read 8, 41
+rgb: 255, 255, 255
+read 8, 42
+rgb: 255, 255, 255
+read 9, 35
+rgb: 255, 255, 255
+read 9, 36
+rgb: 255, 255, 255
+read 9, 37
+rgb: 255, 255, 255
+read 9, 38
+rgb: 255, 255, 255
+read 9, 39
+rgb: 255, 255, 255
+read 9, 40
+rgb: 255, 255, 255
+read 9, 41
+rgb: 255, 255, 255
+read 9, 42
+rgb: 255, 255, 255
+read 10, 35
+rgb: 255, 255, 255
+read 10, 36
+rgb: 255, 255, 255
+read 10, 37
+rgb: 255, 255, 255
+read 10, 38
+rgb: 255, 255, 255
+read 10, 39
+rgb: 255, 255, 255
+read 10, 40
+rgb: 255, 255, 255
+read 10, 41
+rgb: 255, 255, 255
+read 10, 42
+rgb: 255, 255, 255
+read 11, 35
+rgb: 255, 255, 255
+read 11, 36
+rgb: 255, 255, 255
+read 11, 37
+rgb: 255, 255, 255
+read 11, 38
+rgb: 255, 255, 255
+read 11, 39
+rgb: 255, 255, 255
+read 11, 40
+rgb: 255, 255, 255
+read 11, 41
+rgb: 255, 255, 255
+read 11, 42
+rgb: 255, 255, 255
+read 12, 35
+rgb: 255, 255, 255
+read 12, 36
+rgb: 255, 255, 255
+read 12, 37
+rgb: 255, 255, 255
+read 12, 38
+rgb: 255, 255, 255
+read 12, 39
+rgb: 255, 255, 255
+read 12, 40
+rgb: 255, 255, 255
+read 12, 41
+rgb: 255, 255, 255
+read 12, 42
+rgb: 255, 255, 255
+read 13, 35
+rgb: 255, 255, 255
+read 13, 36
+rgb: 255, 255, 255
+read 13, 37
+rgb: 255, 255, 255
+read 13, 38
+rgb: 255, 255, 255
+read 13, 39
+rgb: 255, 255, 255
+read 13, 40
+rgb: 255, 255, 255
+read 13, 41
+rgb: 255, 255, 255
+read 13, 42
+rgb: 255, 255, 255
+read 14, 35
+rgb: 255, 255, 255
+read 14, 36
+rgb: 255, 255, 255
+read 14, 37
+rgb: 255, 255, 255
+read 14, 38
+rgb: 255, 255, 255
+read 14, 39
+rgb: 255, 255, 255
+read 14, 40
+rgb: 255, 255, 255
+read 14, 41
+rgb: 255, 255, 255
+read 14, 42
+rgb: 255, 255, 255
+read 15, 35
+rgb: 255, 255, 255
+read 15, 36
+rgb: 255, 255, 255
+read 15, 37
+rgb: 255, 255, 255
+read 15, 38
+rgb: 255, 255, 255
+read 15, 39
+rgb: 255, 255, 255
+read 15, 40
+rgb: 255, 255, 255
+read 15, 41
+rgb: 255, 255, 255
+read 15, 42
+rgb: 255, 255, 255
+read 16, 35
+rgb: 255, 255, 255
+read 16, 36
+rgb: 255, 255, 255
+read 16, 37
+rgb: 255, 255, 255
+read 16, 38
+rgb: 255, 255, 255
+read 16, 39
+rgb: 255, 255, 255
+read 16, 40
+rgb: 255, 255, 255
+read 16, 41
+rgb: 255, 255, 255
+read 16, 42
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 26, 34
+rgb: 255, 0, 0
+read 26, 35
+rgb: 0, 0, 0
+read 26, 36
+rgb: 0, 0, 0
+read 26, 37
+rgb: 0, 255, 0
+made door w at pos 3
+read 26, 38
+rgb: 0, 255, 0
+made door w at pos 4
+read 26, 39
+rgb: 0, 0, 0
+read 26, 40
+rgb: 0, 0, 0
+read 26, 41
+rgb: 0, 0, 0
+read 26, 42
+rgb: 0, 0, 0
+read 26, 43
+rgb: 0, 255, 0
+made door w at pos 9
+read 26, 44
+rgb: 0, 0, 0
+read 26, 45
+rgb: 0, 0, 0
+read 27, 34
+rgb: 0, 0, 0
+read 27, 35
+rgb: 255, 255, 255
+read 27, 36
+rgb: 255, 255, 255
+read 27, 37
+rgb: 255, 255, 255
+read 27, 38
+rgb: 255, 255, 255
+read 27, 39
+rgb: 255, 255, 255
+read 27, 40
+rgb: 255, 255, 255
+read 27, 41
+rgb: 255, 255, 255
+read 27, 42
+rgb: 255, 255, 255
+read 27, 43
+rgb: 255, 255, 255
+read 27, 44
+rgb: 255, 255, 255
+read 27, 45
+rgb: 0, 0, 0
+read 28, 34
+rgb: 0, 0, 0
+read 28, 35
+rgb: 255, 255, 255
+read 28, 36
+rgb: 255, 255, 255
+read 28, 37
+rgb: 255, 255, 255
+read 28, 38
+rgb: 255, 255, 255
+read 28, 39
+rgb: 255, 255, 255
+read 28, 40
+rgb: 255, 255, 255
+read 28, 41
+rgb: 255, 255, 255
+read 28, 42
+rgb: 255, 255, 255
+read 28, 43
+rgb: 255, 255, 255
+read 28, 44
+rgb: 255, 255, 255
+read 28, 45
+rgb: 0, 0, 0
+read 29, 34
+rgb: 0, 0, 0
+read 29, 35
+rgb: 255, 255, 255
+read 29, 36
+rgb: 255, 255, 255
+read 29, 37
+rgb: 255, 255, 255
+read 29, 38
+rgb: 255, 255, 255
+read 29, 39
+rgb: 255, 255, 255
+read 29, 40
+rgb: 255, 255, 255
+read 29, 41
+rgb: 255, 255, 255
+read 29, 42
+rgb: 255, 255, 255
+read 29, 43
+rgb: 255, 255, 255
+read 29, 44
+rgb: 255, 255, 255
+read 29, 45
+rgb: 0, 0, 0
+read 30, 34
+rgb: 0, 0, 0
+read 30, 35
+rgb: 255, 255, 255
+read 30, 36
+rgb: 255, 255, 255
+read 30, 37
+rgb: 255, 255, 255
+read 30, 38
+rgb: 255, 255, 255
+read 30, 39
+rgb: 255, 255, 255
+read 30, 40
+rgb: 255, 255, 255
+read 30, 41
+rgb: 255, 255, 255
+read 30, 42
+rgb: 255, 255, 255
+read 30, 43
+rgb: 255, 255, 255
+read 30, 44
+rgb: 255, 255, 255
+read 30, 45
+rgb: 0, 0, 0
+read 31, 34
+rgb: 0, 0, 0
+read 31, 35
+rgb: 255, 255, 255
+read 31, 36
+rgb: 255, 255, 255
+read 31, 37
+rgb: 255, 255, 255
+read 31, 38
+rgb: 255, 255, 255
+read 31, 39
+rgb: 255, 255, 255
+read 31, 40
+rgb: 255, 255, 255
+read 31, 41
+rgb: 255, 255, 255
+read 31, 42
+rgb: 255, 255, 255
+read 31, 43
+rgb: 255, 255, 255
+read 31, 44
+rgb: 255, 255, 255
+read 31, 45
+rgb: 0, 0, 0
+read 32, 34
+rgb: 0, 0, 0
+read 32, 35
+rgb: 255, 255, 255
+read 32, 36
+rgb: 255, 255, 255
+read 32, 37
+rgb: 255, 255, 255
+read 32, 38
+rgb: 255, 255, 255
+read 32, 39
+rgb: 255, 255, 255
+read 32, 40
+rgb: 255, 255, 255
+read 32, 41
+rgb: 255, 255, 255
+read 32, 42
+rgb: 255, 255, 255
+read 32, 43
+rgb: 255, 255, 255
+read 32, 44
+rgb: 255, 255, 255
+read 32, 45
+rgb: 0, 0, 0
+read 33, 34
+rgb: 0, 0, 0
+read 33, 35
+rgb: 255, 255, 255
+read 33, 36
+rgb: 255, 255, 255
+read 33, 37
+rgb: 255, 255, 255
+read 33, 38
+rgb: 255, 255, 255
+read 33, 39
+rgb: 255, 255, 255
+read 33, 40
+rgb: 255, 255, 255
+read 33, 41
+rgb: 255, 255, 255
+read 33, 42
+rgb: 255, 255, 255
+read 33, 43
+rgb: 255, 255, 255
+read 33, 44
+rgb: 255, 255, 255
+read 33, 45
+rgb: 0, 0, 0
+read 34, 34
+rgb: 255, 0, 0
+read 34, 35
+rgb: 0, 0, 0
+read 34, 36
+rgb: 0, 0, 0
+read 34, 37
+rgb: 0, 0, 0
+read 34, 38
+rgb: 0, 0, 0
+read 34, 39
+rgb: 0, 0, 0
+read 34, 40
+rgb: 0, 255, 0
+made door e at pos 6
+read 34, 41
+rgb: 0, 0, 0
+read 34, 42
+rgb: 0, 0, 0
+read 34, 43
+rgb: 0, 0, 0
+read 34, 44
+rgb: 0, 0, 0
+read 34, 45
+rgb: 255, 128, 0
+No more doors -------------
+read 27, 35
+rgb: 255, 255, 255
+read 27, 36
+rgb: 255, 255, 255
+read 27, 37
+rgb: 255, 255, 255
+read 27, 38
+rgb: 255, 255, 255
+read 27, 39
+rgb: 255, 255, 255
+read 27, 40
+rgb: 255, 255, 255
+read 27, 41
+rgb: 255, 255, 255
+read 27, 42
+rgb: 255, 255, 255
+read 27, 43
+rgb: 255, 255, 255
+read 27, 44
+rgb: 255, 255, 255
+read 28, 35
+rgb: 255, 255, 255
+read 28, 36
+rgb: 255, 255, 255
+read 28, 37
+rgb: 255, 255, 255
+read 28, 38
+rgb: 255, 255, 255
+read 28, 39
+rgb: 255, 255, 255
+read 28, 40
+rgb: 255, 255, 255
+read 28, 41
+rgb: 255, 255, 255
+read 28, 42
+rgb: 255, 255, 255
+read 28, 43
+rgb: 255, 255, 255
+read 28, 44
+rgb: 255, 255, 255
+read 29, 35
+rgb: 255, 255, 255
+read 29, 36
+rgb: 255, 255, 255
+read 29, 37
+rgb: 255, 255, 255
+read 29, 38
+rgb: 255, 255, 255
+read 29, 39
+rgb: 255, 255, 255
+read 29, 40
+rgb: 255, 255, 255
+read 29, 41
+rgb: 255, 255, 255
+read 29, 42
+rgb: 255, 255, 255
+read 29, 43
+rgb: 255, 255, 255
+read 29, 44
+rgb: 255, 255, 255
+read 30, 35
+rgb: 255, 255, 255
+read 30, 36
+rgb: 255, 255, 255
+read 30, 37
+rgb: 255, 255, 255
+read 30, 38
+rgb: 255, 255, 255
+read 30, 39
+rgb: 255, 255, 255
+read 30, 40
+rgb: 255, 255, 255
+read 30, 41
+rgb: 255, 255, 255
+read 30, 42
+rgb: 255, 255, 255
+read 30, 43
+rgb: 255, 255, 255
+read 30, 44
+rgb: 255, 255, 255
+read 31, 35
+rgb: 255, 255, 255
+read 31, 36
+rgb: 255, 255, 255
+read 31, 37
+rgb: 255, 255, 255
+read 31, 38
+rgb: 255, 255, 255
+read 31, 39
+rgb: 255, 255, 255
+read 31, 40
+rgb: 255, 255, 255
+read 31, 41
+rgb: 255, 255, 255
+read 31, 42
+rgb: 255, 255, 255
+read 31, 43
+rgb: 255, 255, 255
+read 31, 44
+rgb: 255, 255, 255
+read 32, 35
+rgb: 255, 255, 255
+read 32, 36
+rgb: 255, 255, 255
+read 32, 37
+rgb: 255, 255, 255
+read 32, 38
+rgb: 255, 255, 255
+read 32, 39
+rgb: 255, 255, 255
+read 32, 40
+rgb: 255, 255, 255
+read 32, 41
+rgb: 255, 255, 255
+read 32, 42
+rgb: 255, 255, 255
+read 32, 43
+rgb: 255, 255, 255
+read 32, 44
+rgb: 255, 255, 255
+read 33, 35
+rgb: 255, 255, 255
+read 33, 36
+rgb: 255, 255, 255
+read 33, 37
+rgb: 255, 255, 255
+read 33, 38
+rgb: 255, 255, 255
+read 33, 39
+rgb: 255, 255, 255
+read 33, 40
+rgb: 255, 255, 255
+read 33, 41
+rgb: 255, 255, 255
+read 33, 42
+rgb: 255, 255, 255
+read 33, 43
+rgb: 255, 255, 255
+read 33, 44
+rgb: 255, 255, 255
+no more stuffing
+End room
+Start Room -------------
+read 35, 35
+rgb: 255, 0, 0
+read 35, 36
+rgb: 0, 0, 0
+read 35, 37
+rgb: 0, 0, 0
+read 35, 38
+rgb: 0, 0, 0
+read 35, 39
+rgb: 0, 0, 0
+read 35, 40
+rgb: 0, 255, 0
+made door w at pos 5
+read 35, 41
+rgb: 0, 0, 0
+read 35, 42
+rgb: 0, 0, 0
+read 35, 43
+rgb: 0, 0, 0
+read 35, 44
+rgb: 0, 0, 0
+read 35, 45
+rgb: 0, 0, 0
+read 35, 46
+rgb: 0, 0, 0
+read 35, 47
+rgb: 0, 0, 0
+read 36, 35
+rgb: 0, 0, 0
+read 36, 36
+rgb: 255, 255, 255
+read 36, 37
+rgb: 255, 255, 255
+read 36, 38
+rgb: 255, 255, 255
+read 36, 39
+rgb: 255, 255, 255
+read 36, 40
+rgb: 255, 255, 255
+read 36, 41
+rgb: 255, 255, 255
+read 36, 42
+rgb: 255, 255, 255
+read 36, 43
+rgb: 255, 255, 255
+read 36, 44
+rgb: 255, 255, 255
+read 36, 45
+rgb: 255, 255, 255
+read 36, 46
+rgb: 255, 255, 255
+read 36, 47
+rgb: 0, 0, 0
+read 37, 35
+rgb: 0, 0, 0
+read 37, 36
+rgb: 255, 255, 255
+read 37, 37
+rgb: 255, 255, 255
+read 37, 38
+rgb: 255, 255, 255
+read 37, 39
+rgb: 255, 255, 255
+read 37, 40
+rgb: 255, 255, 255
+read 37, 41
+rgb: 255, 255, 255
+read 37, 42
+rgb: 255, 255, 255
+read 37, 43
+rgb: 255, 255, 255
+read 37, 44
+rgb: 255, 255, 255
+read 37, 45
+rgb: 255, 255, 255
+read 37, 46
+rgb: 255, 255, 255
+read 37, 47
+rgb: 0, 0, 0
+read 38, 35
+rgb: 0, 0, 0
+read 38, 36
+rgb: 255, 255, 255
+read 38, 37
+rgb: 255, 255, 255
+read 38, 38
+rgb: 255, 255, 255
+read 38, 39
+rgb: 255, 255, 255
+read 38, 40
+rgb: 255, 255, 255
+read 38, 41
+rgb: 255, 255, 255
+read 38, 42
+rgb: 255, 255, 255
+read 38, 43
+rgb: 255, 255, 255
+read 38, 44
+rgb: 255, 255, 255
+read 38, 45
+rgb: 255, 255, 255
+read 38, 46
+rgb: 255, 255, 255
+read 38, 47
+rgb: 0, 0, 0
+read 39, 35
+rgb: 0, 0, 0
+read 39, 36
+rgb: 255, 255, 255
+read 39, 37
+rgb: 255, 255, 255
+read 39, 38
+rgb: 255, 255, 255
+read 39, 39
+rgb: 255, 255, 255
+read 39, 40
+rgb: 255, 255, 255
+read 39, 41
+rgb: 255, 255, 255
+read 39, 42
+rgb: 255, 255, 255
+read 39, 43
+rgb: 255, 255, 255
+read 39, 44
+rgb: 255, 255, 255
+read 39, 45
+rgb: 255, 255, 255
+read 39, 46
+rgb: 255, 255, 255
+read 39, 47
+rgb: 0, 0, 0
+read 40, 35
+rgb: 0, 0, 0
+read 40, 36
+rgb: 255, 255, 255
+read 40, 37
+rgb: 255, 255, 255
+read 40, 38
+rgb: 255, 255, 255
+read 40, 39
+rgb: 255, 255, 255
+read 40, 40
+rgb: 255, 255, 255
+read 40, 41
+rgb: 255, 255, 255
+read 40, 42
+rgb: 255, 255, 255
+read 40, 43
+rgb: 255, 255, 255
+read 40, 44
+rgb: 255, 255, 255
+read 40, 45
+rgb: 255, 255, 255
+read 40, 46
+rgb: 255, 255, 255
+read 40, 47
+rgb: 0, 0, 0
+read 41, 35
+rgb: 0, 0, 0
+read 41, 36
+rgb: 255, 255, 255
+read 41, 37
+rgb: 255, 255, 255
+read 41, 38
+rgb: 255, 255, 255
+read 41, 39
+rgb: 255, 255, 255
+read 41, 40
+rgb: 255, 255, 255
+read 41, 41
+rgb: 255, 255, 255
+read 41, 42
+rgb: 255, 255, 255
+read 41, 43
+rgb: 255, 255, 255
+read 41, 44
+rgb: 255, 255, 255
+read 41, 45
+rgb: 255, 255, 255
+read 41, 46
+rgb: 255, 255, 255
+read 41, 47
+rgb: 0, 0, 0
+read 42, 35
+rgb: 0, 0, 0
+read 42, 36
+rgb: 255, 255, 255
+read 42, 37
+rgb: 255, 255, 255
+read 42, 38
+rgb: 255, 255, 255
+read 42, 39
+rgb: 255, 255, 255
+read 42, 40
+rgb: 255, 255, 255
+read 42, 41
+rgb: 255, 255, 255
+read 42, 42
+rgb: 255, 255, 255
+read 42, 43
+rgb: 255, 255, 255
+read 42, 44
+rgb: 255, 255, 255
+read 42, 45
+rgb: 255, 255, 255
+read 42, 46
+rgb: 255, 255, 255
+read 42, 47
+rgb: 0, 0, 0
+read 43, 35
+rgb: 0, 0, 0
+read 43, 36
+rgb: 255, 255, 255
+read 43, 37
+rgb: 255, 255, 255
+read 43, 38
+rgb: 255, 255, 255
+read 43, 39
+rgb: 255, 255, 255
+read 43, 40
+rgb: 255, 255, 255
+read 43, 41
+rgb: 255, 255, 255
+read 43, 42
+rgb: 255, 255, 255
+read 43, 43
+rgb: 255, 255, 255
+read 43, 44
+rgb: 255, 255, 255
+read 43, 45
+rgb: 255, 255, 255
+read 43, 46
+rgb: 255, 255, 255
+read 43, 47
+rgb: 0, 0, 0
+read 44, 35
+rgb: 0, 0, 0
+read 44, 36
+rgb: 255, 255, 255
+read 44, 37
+rgb: 255, 255, 255
+read 44, 38
+rgb: 255, 255, 255
+read 44, 39
+rgb: 255, 255, 255
+read 44, 40
+rgb: 255, 255, 255
+read 44, 41
+rgb: 255, 255, 0
+read 44, 42
+rgb: 255, 255, 255
+read 44, 43
+rgb: 255, 255, 255
+read 44, 44
+rgb: 255, 255, 255
+read 44, 45
+rgb: 255, 255, 255
+read 44, 46
+rgb: 255, 255, 255
+read 44, 47
+rgb: 0, 0, 0
+read 45, 35
+rgb: 0, 0, 0
+read 45, 36
+rgb: 255, 255, 255
+read 45, 37
+rgb: 255, 255, 255
+read 45, 38
+rgb: 255, 255, 255
+read 45, 39
+rgb: 255, 255, 255
+read 45, 40
+rgb: 255, 255, 255
+read 45, 41
+rgb: 255, 255, 255
+read 45, 42
+rgb: 255, 255, 255
+read 45, 43
+rgb: 255, 255, 255
+read 45, 44
+rgb: 255, 255, 255
+read 45, 45
+rgb: 255, 255, 255
+read 45, 46
+rgb: 255, 255, 255
+read 45, 47
+rgb: 0, 0, 0
+read 46, 35
+rgb: 0, 0, 0
+read 46, 36
+rgb: 255, 255, 255
+read 46, 37
+rgb: 255, 255, 255
+read 46, 38
+rgb: 255, 255, 255
+read 46, 39
+rgb: 255, 255, 255
+read 46, 40
+rgb: 255, 255, 255
+read 46, 41
+rgb: 255, 255, 255
+read 46, 42
+rgb: 255, 255, 255
+read 46, 43
+rgb: 255, 255, 255
+read 46, 44
+rgb: 255, 255, 255
+read 46, 45
+rgb: 255, 255, 255
+read 46, 46
+rgb: 0, 0, 255
+read 46, 47
+rgb: 0, 0, 0
+read 47, 35
+rgb: 255, 0, 0
+read 47, 36
+rgb: 0, 0, 0
+read 47, 37
+rgb: 0, 0, 0
+read 47, 38
+rgb: 0, 0, 0
+read 47, 39
+rgb: 0, 0, 0
+read 47, 40
+rgb: 0, 0, 0
+read 47, 41
+rgb: 0, 0, 0
+read 47, 42
+rgb: 0, 0, 0
+read 47, 43
+rgb: 0, 0, 0
+read 47, 44
+rgb: 0, 0, 0
+read 47, 45
+rgb: 0, 0, 0
+read 47, 46
+rgb: 0, 0, 0
+read 47, 47
+rgb: 255, 128, 0
+No more doors -------------
+read 36, 36
+rgb: 255, 255, 255
+read 36, 37
+rgb: 255, 255, 255
+read 36, 38
+rgb: 255, 255, 255
+read 36, 39
+rgb: 255, 255, 255
+read 36, 40
+rgb: 255, 255, 255
+read 36, 41
+rgb: 255, 255, 255
+read 36, 42
+rgb: 255, 255, 255
+read 36, 43
+rgb: 255, 255, 255
+read 36, 44
+rgb: 255, 255, 255
+read 36, 45
+rgb: 255, 255, 255
+read 36, 46
+rgb: 255, 255, 255
+read 37, 36
+rgb: 255, 255, 255
+read 37, 37
+rgb: 255, 255, 255
+read 37, 38
+rgb: 255, 255, 255
+read 37, 39
+rgb: 255, 255, 255
+read 37, 40
+rgb: 255, 255, 255
+read 37, 41
+rgb: 255, 255, 255
+read 37, 42
+rgb: 255, 255, 255
+read 37, 43
+rgb: 255, 255, 255
+read 37, 44
+rgb: 255, 255, 255
+read 37, 45
+rgb: 255, 255, 255
+read 37, 46
+rgb: 255, 255, 255
+read 38, 36
+rgb: 255, 255, 255
+read 38, 37
+rgb: 255, 255, 255
+read 38, 38
+rgb: 255, 255, 255
+read 38, 39
+rgb: 255, 255, 255
+read 38, 40
+rgb: 255, 255, 255
+read 38, 41
+rgb: 255, 255, 255
+read 38, 42
+rgb: 255, 255, 255
+read 38, 43
+rgb: 255, 255, 255
+read 38, 44
+rgb: 255, 255, 255
+read 38, 45
+rgb: 255, 255, 255
+read 38, 46
+rgb: 255, 255, 255
+read 39, 36
+rgb: 255, 255, 255
+read 39, 37
+rgb: 255, 255, 255
+read 39, 38
+rgb: 255, 255, 255
+read 39, 39
+rgb: 255, 255, 255
+read 39, 40
+rgb: 255, 255, 255
+read 39, 41
+rgb: 255, 255, 255
+read 39, 42
+rgb: 255, 255, 255
+read 39, 43
+rgb: 255, 255, 255
+read 39, 44
+rgb: 255, 255, 255
+read 39, 45
+rgb: 255, 255, 255
+read 39, 46
+rgb: 255, 255, 255
+read 40, 36
+rgb: 255, 255, 255
+read 40, 37
+rgb: 255, 255, 255
+read 40, 38
+rgb: 255, 255, 255
+read 40, 39
+rgb: 255, 255, 255
+read 40, 40
+rgb: 255, 255, 255
+read 40, 41
+rgb: 255, 255, 255
+read 40, 42
+rgb: 255, 255, 255
+read 40, 43
+rgb: 255, 255, 255
+read 40, 44
+rgb: 255, 255, 255
+read 40, 45
+rgb: 255, 255, 255
+read 40, 46
+rgb: 255, 255, 255
+read 41, 36
+rgb: 255, 255, 255
+read 41, 37
+rgb: 255, 255, 255
+read 41, 38
+rgb: 255, 255, 255
+read 41, 39
+rgb: 255, 255, 255
+read 41, 40
+rgb: 255, 255, 255
+read 41, 41
+rgb: 255, 255, 255
+read 41, 42
+rgb: 255, 255, 255
+read 41, 43
+rgb: 255, 255, 255
+read 41, 44
+rgb: 255, 255, 255
+read 41, 45
+rgb: 255, 255, 255
+read 41, 46
+rgb: 255, 255, 255
+read 42, 36
+rgb: 255, 255, 255
+read 42, 37
+rgb: 255, 255, 255
+read 42, 38
+rgb: 255, 255, 255
+read 42, 39
+rgb: 255, 255, 255
+read 42, 40
+rgb: 255, 255, 255
+read 42, 41
+rgb: 255, 255, 255
+read 42, 42
+rgb: 255, 255, 255
+read 42, 43
+rgb: 255, 255, 255
+read 42, 44
+rgb: 255, 255, 255
+read 42, 45
+rgb: 255, 255, 255
+read 42, 46
+rgb: 255, 255, 255
+read 43, 36
+rgb: 255, 255, 255
+read 43, 37
+rgb: 255, 255, 255
+read 43, 38
+rgb: 255, 255, 255
+read 43, 39
+rgb: 255, 255, 255
+read 43, 40
+rgb: 255, 255, 255
+read 43, 41
+rgb: 255, 255, 255
+read 43, 42
+rgb: 255, 255, 255
+read 43, 43
+rgb: 255, 255, 255
+read 43, 44
+rgb: 255, 255, 255
+read 43, 45
+rgb: 255, 255, 255
+read 43, 46
+rgb: 255, 255, 255
+read 44, 36
+rgb: 255, 255, 255
+read 44, 37
+rgb: 255, 255, 255
+read 44, 38
+rgb: 255, 255, 255
+read 44, 39
+rgb: 255, 255, 255
+read 44, 40
+rgb: 255, 255, 255
+read 44, 41
+rgb: 255, 255, 0
+chest at 8, 5
+read 44, 42
+rgb: 255, 255, 255
+read 44, 43
+rgb: 255, 255, 255
+read 44, 44
+rgb: 255, 255, 255
+read 44, 45
+rgb: 255, 255, 255
+read 44, 46
+rgb: 255, 255, 255
+read 45, 36
+rgb: 255, 255, 255
+read 45, 37
+rgb: 255, 255, 255
+read 45, 38
+rgb: 255, 255, 255
+read 45, 39
+rgb: 255, 255, 255
+read 45, 40
+rgb: 255, 255, 255
+read 45, 41
+rgb: 255, 255, 255
+read 45, 42
+rgb: 255, 255, 255
+read 45, 43
+rgb: 255, 255, 255
+read 45, 44
+rgb: 255, 255, 255
+read 45, 45
+rgb: 255, 255, 255
+read 45, 46
+rgb: 255, 255, 255
+read 46, 36
+rgb: 255, 255, 255
+read 46, 37
+rgb: 255, 255, 255
+read 46, 38
+rgb: 255, 255, 255
+read 46, 39
+rgb: 255, 255, 255
+read 46, 40
+rgb: 255, 255, 255
+read 46, 41
+rgb: 255, 255, 255
+read 46, 42
+rgb: 255, 255, 255
+read 46, 43
+rgb: 255, 255, 255
+read 46, 44
+rgb: 255, 255, 255
+read 46, 45
+rgb: 255, 255, 255
+read 46, 46
+rgb: 0, 0, 255
+stair at 10, 10
+no more stuffing
+End room
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 0, 8 class floor
+Made tile 0, 9 class floor
+Made tile 0, 10 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 1, 8 class floor
+Made tile 1, 9 class floor
+Made tile 1, 10 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 2, 6 class floor
+Made tile 2, 7 class floor
+Made tile 2, 8 class floor
+Made tile 2, 9 class floor
+Made tile 2, 10 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 3, 6 class floor
+Made tile 3, 7 class floor
+Made tile 3, 8 class floor
+Made tile 3, 9 class floor
+Made tile 3, 10 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 4, 6 class floor
+Made tile 4, 7 class floor
+Made tile 4, 8 class floor
+Made tile 4, 9 class floor
+Made tile 4, 10 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+Made tile 5, 6 class floor
+Made tile 5, 7 class floor
+Made tile 5, 8 class floor
+Made tile 5, 9 class floor
+Made tile 5, 10 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+Made tile 6, 4 class floor
+Made tile 6, 5 class chest
+Made tile 6, 6 class floor
+Made tile 6, 7 class floor
+Made tile 6, 8 class floor
+Made tile 6, 9 class floor
+Made tile 6, 10 class floor
+Made tile 7, 0 class floor
+Made tile 7, 1 class floor
+Made tile 7, 2 class floor
+Made tile 7, 3 class floor
+Made tile 7, 4 class floor
+Made tile 7, 5 class floor
+Made tile 7, 6 class floor
+Made tile 7, 7 class floor
+Made tile 7, 8 class floor
+Made tile 7, 9 class floor
+Made tile 7, 10 class floor
+Made tile 8, 0 class floor
+Made tile 8, 1 class floor
+Made tile 8, 2 class floor
+Made tile 8, 3 class floor
+Made tile 8, 4 class floor
+Made tile 8, 5 class floor
+Made tile 8, 6 class floor
+Made tile 8, 7 class floor
+Made tile 8, 8 class floor
+Made tile 8, 9 class floor
+Made tile 8, 10 class floor
+Made tile 9, 0 class floor
+Made tile 9, 1 class floor
+Made tile 9, 2 class floor
+Made tile 9, 3 class floor
+Made tile 9, 4 class floor
+Made tile 9, 5 class chest
+Made tile 9, 6 class floor
+Made tile 9, 7 class floor
+Made tile 9, 8 class floor
+Made tile 9, 9 class floor
+Made tile 9, 10 class floor
+Made tile 10, 0 class floor
+Made tile 10, 1 class floor
+Made tile 10, 2 class floor
+Made tile 10, 3 class floor
+Made tile 10, 4 class floor
+Made tile 10, 5 class floor
+Made tile 10, 6 class floor
+Made tile 10, 7 class floor
+Made tile 10, 8 class floor
+Made tile 10, 9 class floor
+Made tile 10, 10 class floor
+Made tile 11, 0 class floor
+Made tile 11, 1 class floor
+Made tile 11, 2 class floor
+Made tile 11, 3 class floor
+Made tile 11, 4 class floor
+Made tile 11, 5 class floor
+Made tile 11, 6 class floor
+Made tile 11, 7 class floor
+Made tile 11, 8 class floor
+Made tile 11, 9 class floor
+Made tile 11, 10 class floor
+Made tile 12, 0 class floor
+Made tile 12, 1 class floor
+Made tile 12, 2 class floor
+Made tile 12, 3 class floor
+Made tile 12, 4 class floor
+Made tile 12, 5 class floor
+Made tile 12, 6 class floor
+Made tile 12, 7 class floor
+Made tile 12, 8 class floor
+Made tile 12, 9 class floor
+Made tile 12, 10 class floor
+Made tile 13, 0 class floor
+Made tile 13, 1 class floor
+Made tile 13, 2 class floor
+Made tile 13, 3 class floor
+Made tile 13, 4 class floor
+Made tile 13, 5 class floor
+Made tile 13, 6 class floor
+Made tile 13, 7 class floor
+Made tile 13, 8 class floor
+Made tile 13, 9 class floor
+Made tile 13, 10 class floor
+Made tile 14, 0 class floor
+Made tile 14, 1 class floor
+Made tile 14, 2 class floor
+Made tile 14, 3 class floor
+Made tile 14, 4 class floor
+Made tile 14, 5 class floor
+Made tile 14, 6 class floor
+Made tile 14, 7 class floor
+Made tile 14, 8 class floor
+Made tile 14, 9 class floor
+Made tile 14, 10 class floor
+Made tile 15, 0 class floor
+Made tile 15, 1 class floor
+Made tile 15, 2 class floor
+Made tile 15, 3 class floor
+Made tile 15, 4 class floor
+Made tile 15, 5 class floor
+Made tile 15, 6 class floor
+Made tile 15, 7 class floor
+Made tile 15, 8 class floor
+Made tile 15, 9 class floor
+Made tile 15, 10 class floor
+Made tile 16, 0 class stair
+Made tile 16, 1 class floor
+Made tile 16, 2 class floor
+Made tile 16, 3 class floor
+Made tile 16, 4 class floor
+Made tile 16, 5 class floor
+Made tile 16, 6 class floor
+Made tile 16, 7 class floor
+Made tile 16, 8 class floor
+Made tile 16, 9 class floor
+Made tile 16, 10 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class stair
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 2, 6 class floor
+Made tile 2, 7 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 3, 6 class floor
+Made tile 3, 7 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 4, 6 class floor
+Made tile 4, 7 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+Made tile 5, 6 class floor
+Made tile 5, 7 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+Made tile 6, 4 class floor
+Made tile 6, 5 class floor
+Made tile 6, 6 class floor
+Made tile 6, 7 class floor
+Made tile 7, 0 class floor
+Made tile 7, 1 class floor
+Made tile 7, 2 class floor
+Made tile 7, 3 class floor
+Made tile 7, 4 class floor
+Made tile 7, 5 class floor
+Made tile 7, 6 class floor
+Made tile 7, 7 class floor
+Made tile 8, 0 class floor
+Made tile 8, 1 class floor
+Made tile 8, 2 class floor
+Made tile 8, 3 class floor
+Made tile 8, 4 class floor
+Made tile 8, 5 class floor
+Made tile 8, 6 class floor
+Made tile 8, 7 class floor
+Made tile 9, 0 class floor
+Made tile 9, 1 class floor
+Made tile 9, 2 class floor
+Made tile 9, 3 class floor
+Made tile 9, 4 class floor
+Made tile 9, 5 class floor
+Made tile 9, 6 class floor
+Made tile 9, 7 class floor
+Made tile 10, 0 class floor
+Made tile 10, 1 class floor
+Made tile 10, 2 class floor
+Made tile 10, 3 class floor
+Made tile 10, 4 class floor
+Made tile 10, 5 class floor
+Made tile 10, 6 class floor
+Made tile 10, 7 class floor
+Made tile 11, 0 class floor
+Made tile 11, 1 class floor
+Made tile 11, 2 class floor
+Made tile 11, 3 class floor
+Made tile 11, 4 class floor
+Made tile 11, 5 class floor
+Made tile 11, 6 class floor
+Made tile 11, 7 class floor
+Made tile 12, 0 class floor
+Made tile 12, 1 class floor
+Made tile 12, 2 class floor
+Made tile 12, 3 class floor
+Made tile 12, 4 class floor
+Made tile 12, 5 class floor
+Made tile 12, 6 class floor
+Made tile 12, 7 class floor
+Made tile 13, 0 class floor
+Made tile 13, 1 class floor
+Made tile 13, 2 class floor
+Made tile 13, 3 class floor
+Made tile 13, 4 class floor
+Made tile 13, 5 class floor
+Made tile 13, 6 class floor
+Made tile 13, 7 class floor
+Made tile 14, 0 class floor
+Made tile 14, 1 class floor
+Made tile 14, 2 class floor
+Made tile 14, 3 class floor
+Made tile 14, 4 class floor
+Made tile 14, 5 class floor
+Made tile 14, 6 class floor
+Made tile 14, 7 class floor
+Made tile 15, 0 class floor
+Made tile 15, 1 class floor
+Made tile 15, 2 class floor
+Made tile 15, 3 class floor
+Made tile 15, 4 class floor
+Made tile 15, 5 class floor
+Made tile 15, 6 class floor
+Made tile 15, 7 class floor
+Made tile 16, 0 class floor
+Made tile 16, 1 class floor
+Made tile 16, 2 class floor
+Made tile 16, 3 class floor
+Made tile 16, 4 class floor
+Made tile 16, 5 class floor
+Made tile 16, 6 class floor
+Made tile 16, 7 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 0, 8 class floor
+Made tile 0, 9 class floor
+Made tile 0, 10 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 1, 8 class floor
+Made tile 1, 9 class floor
+Made tile 1, 10 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 2, 6 class floor
+Made tile 2, 7 class floor
+Made tile 2, 8 class floor
+Made tile 2, 9 class floor
+Made tile 2, 10 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 1, 0 class chest
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 0, 8 class floor
+Made tile 0, 9 class floor
+Made tile 0, 10 class floor
+Made tile 0, 11 class floor
+Made tile 0, 12 class floor
+Made tile 0, 13 class floor
+Made tile 0, 14 class floor
+Made tile 0, 15 class floor
+Made tile 0, 16 class floor
+Made tile 0, 17 class floor
+Made tile 0, 18 class floor
+Made tile 0, 19 class floor
+Made tile 0, 20 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 1, 8 class floor
+Made tile 1, 9 class floor
+Made tile 1, 10 class floor
+Made tile 1, 11 class floor
+Made tile 1, 12 class floor
+Made tile 1, 13 class floor
+Made tile 1, 14 class floor
+Made tile 1, 15 class floor
+Made tile 1, 16 class floor
+Made tile 1, 17 class floor
+Made tile 1, 18 class floor
+Made tile 1, 19 class floor
+Made tile 1, 20 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 0, 8 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 1, 8 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class stair
+Made tile 1, 5 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class chest
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+Made tile 7, 0 class floor
+Made tile 7, 1 class floor
+Made tile 7, 2 class floor
+Made tile 7, 3 class floor
+Made tile 8, 0 class floor
+Made tile 8, 1 class floor
+Made tile 8, 2 class floor
+Made tile 8, 3 class floor
+Made tile 9, 0 class floor
+Made tile 9, 1 class floor
+Made tile 9, 2 class floor
+Made tile 9, 3 class floor
+Made tile 10, 0 class floor
+Made tile 10, 1 class floor
+Made tile 10, 2 class floor
+Made tile 10, 3 class floor
+Made tile 11, 0 class floor
+Made tile 11, 1 class floor
+Made tile 11, 2 class floor
+Made tile 11, 3 class floor
+Made tile 12, 0 class floor
+Made tile 12, 1 class floor
+Made tile 12, 2 class floor
+Made tile 12, 3 class floor
+Made tile 13, 0 class floor
+Made tile 13, 1 class floor
+Made tile 13, 2 class floor
+Made tile 13, 3 class floor
+Made tile 14, 0 class floor
+Made tile 14, 1 class floor
+Made tile 14, 2 class floor
+Made tile 14, 3 class floor
+Made tile 15, 0 class floor
+Made tile 15, 1 class floor
+Made tile 15, 2 class floor
+Made tile 15, 3 class floor
+Made tile 16, 0 class floor
+Made tile 16, 1 class floor
+Made tile 16, 2 class floor
+Made tile 16, 3 class floor
+Made tile 17, 0 class floor
+Made tile 17, 1 class floor
+Made tile 17, 2 class floor
+Made tile 17, 3 class floor
+Made tile 18, 0 class floor
+Made tile 18, 1 class floor
+Made tile 18, 2 class floor
+Made tile 18, 3 class floor
+Made tile 19, 0 class floor
+Made tile 19, 1 class floor
+Made tile 19, 2 class floor
+Made tile 19, 3 class floor
+Made tile 20, 0 class floor
+Made tile 20, 1 class floor
+Made tile 20, 2 class floor
+Made tile 20, 3 class floor
+Made tile 21, 0 class floor
+Made tile 21, 1 class floor
+Made tile 21, 2 class floor
+Made tile 21, 3 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class chest
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class stair
+Made tile 1, 7 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 2, 6 class floor
+Made tile 2, 7 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 3, 6 class floor
+Made tile 3, 7 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 4, 6 class floor
+Made tile 4, 7 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+Made tile 5, 6 class floor
+Made tile 5, 7 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+Made tile 6, 4 class floor
+Made tile 6, 5 class floor
+Made tile 6, 6 class floor
+Made tile 6, 7 class floor
+Made tile 7, 0 class floor
+Made tile 7, 1 class floor
+Made tile 7, 2 class floor
+Made tile 7, 3 class floor
+Made tile 7, 4 class floor
+Made tile 7, 5 class floor
+Made tile 7, 6 class floor
+Made tile 7, 7 class floor
+Made tile 8, 0 class floor
+Made tile 8, 1 class floor
+Made tile 8, 2 class floor
+Made tile 8, 3 class floor
+Made tile 8, 4 class floor
+Made tile 8, 5 class floor
+Made tile 8, 6 class floor
+Made tile 8, 7 class floor
+Made tile 9, 0 class floor
+Made tile 9, 1 class floor
+Made tile 9, 2 class floor
+Made tile 9, 3 class floor
+Made tile 9, 4 class floor
+Made tile 9, 5 class floor
+Made tile 9, 6 class floor
+Made tile 9, 7 class floor
+Made tile 10, 0 class floor
+Made tile 10, 1 class floor
+Made tile 10, 2 class floor
+Made tile 10, 3 class floor
+Made tile 10, 4 class floor
+Made tile 10, 5 class floor
+Made tile 10, 6 class floor
+Made tile 10, 7 class floor
+Made tile 11, 0 class floor
+Made tile 11, 1 class floor
+Made tile 11, 2 class floor
+Made tile 11, 3 class floor
+Made tile 11, 4 class floor
+Made tile 11, 5 class floor
+Made tile 11, 6 class floor
+Made tile 11, 7 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 0, 8 class floor
+Made tile 0, 9 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 1, 8 class floor
+Made tile 1, 9 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 2, 6 class floor
+Made tile 2, 7 class floor
+Made tile 2, 8 class floor
+Made tile 2, 9 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 3, 6 class floor
+Made tile 3, 7 class floor
+Made tile 3, 8 class floor
+Made tile 3, 9 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 4, 6 class floor
+Made tile 4, 7 class floor
+Made tile 4, 8 class floor
+Made tile 4, 9 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+Made tile 5, 6 class floor
+Made tile 5, 7 class floor
+Made tile 5, 8 class floor
+Made tile 5, 9 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+Made tile 6, 4 class floor
+Made tile 6, 5 class floor
+Made tile 6, 6 class floor
+Made tile 6, 7 class floor
+Made tile 6, 8 class floor
+Made tile 6, 9 class floor
+End room.make()
+Made tile 0, 0 class floor
+Made tile 0, 1 class floor
+Made tile 0, 2 class floor
+Made tile 0, 3 class floor
+Made tile 0, 4 class floor
+Made tile 0, 5 class floor
+Made tile 0, 6 class floor
+Made tile 0, 7 class floor
+Made tile 0, 8 class floor
+Made tile 0, 9 class floor
+Made tile 0, 10 class floor
+Made tile 1, 0 class floor
+Made tile 1, 1 class floor
+Made tile 1, 2 class floor
+Made tile 1, 3 class floor
+Made tile 1, 4 class floor
+Made tile 1, 5 class floor
+Made tile 1, 6 class floor
+Made tile 1, 7 class floor
+Made tile 1, 8 class floor
+Made tile 1, 9 class floor
+Made tile 1, 10 class floor
+Made tile 2, 0 class floor
+Made tile 2, 1 class floor
+Made tile 2, 2 class floor
+Made tile 2, 3 class floor
+Made tile 2, 4 class floor
+Made tile 2, 5 class floor
+Made tile 2, 6 class floor
+Made tile 2, 7 class floor
+Made tile 2, 8 class floor
+Made tile 2, 9 class floor
+Made tile 2, 10 class floor
+Made tile 3, 0 class floor
+Made tile 3, 1 class floor
+Made tile 3, 2 class floor
+Made tile 3, 3 class floor
+Made tile 3, 4 class floor
+Made tile 3, 5 class floor
+Made tile 3, 6 class floor
+Made tile 3, 7 class floor
+Made tile 3, 8 class floor
+Made tile 3, 9 class floor
+Made tile 3, 10 class floor
+Made tile 4, 0 class floor
+Made tile 4, 1 class floor
+Made tile 4, 2 class floor
+Made tile 4, 3 class floor
+Made tile 4, 4 class floor
+Made tile 4, 5 class floor
+Made tile 4, 6 class floor
+Made tile 4, 7 class floor
+Made tile 4, 8 class floor
+Made tile 4, 9 class floor
+Made tile 4, 10 class floor
+Made tile 5, 0 class floor
+Made tile 5, 1 class floor
+Made tile 5, 2 class floor
+Made tile 5, 3 class floor
+Made tile 5, 4 class floor
+Made tile 5, 5 class floor
+Made tile 5, 6 class floor
+Made tile 5, 7 class floor
+Made tile 5, 8 class floor
+Made tile 5, 9 class floor
+Made tile 5, 10 class floor
+Made tile 6, 0 class floor
+Made tile 6, 1 class floor
+Made tile 6, 2 class floor
+Made tile 6, 3 class floor
+Made tile 6, 4 class floor
+Made tile 6, 5 class floor
+Made tile 6, 6 class floor
+Made tile 6, 7 class floor
+Made tile 6, 8 class floor
+Made tile 6, 9 class floor
+Made tile 6, 10 class floor
+Made tile 7, 0 class floor
+Made tile 7, 1 class floor
+Made tile 7, 2 class floor
+Made tile 7, 3 class floor
+Made tile 7, 4 class floor
+Made tile 7, 5 class floor
+Made tile 7, 6 class floor
+Made tile 7, 7 class floor
+Made tile 7, 8 class floor
+Made tile 7, 9 class floor
+Made tile 7, 10 class floor
+Made tile 8, 0 class floor
+Made tile 8, 1 class floor
+Made tile 8, 2 class floor
+Made tile 8, 3 class floor
+Made tile 8, 4 class floor
+Made tile 8, 5 class chest
+Made tile 8, 6 class floor
+Made tile 8, 7 class floor
+Made tile 8, 8 class floor
+Made tile 8, 9 class floor
+Made tile 8, 10 class floor
+Made tile 9, 0 class floor
+Made tile 9, 1 class floor
+Made tile 9, 2 class floor
+Made tile 9, 3 class floor
+Made tile 9, 4 class floor
+Made tile 9, 5 class floor
+Made tile 9, 6 class floor
+Made tile 9, 7 class floor
+Made tile 9, 8 class floor
+Made tile 9, 9 class floor
+Made tile 9, 10 class floor
+Made tile 10, 0 class floor
+Made tile 10, 1 class floor
+Made tile 10, 2 class floor
+Made tile 10, 3 class floor
+Made tile 10, 4 class floor
+Made tile 10, 5 class floor
+Made tile 10, 6 class floor
+Made tile 10, 7 class floor
+Made tile 10, 8 class floor
+Made tile 10, 9 class floor
+Made tile 10, 10 class stair
+End room.make()

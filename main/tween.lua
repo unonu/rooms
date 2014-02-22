@@ -1,0 +1,54 @@
+tween = {}
+tween._index = tween
+
+function tween.make(start, stop, step, loop)
+	local t = {}
+	setmetatable(t,tween)
+	
+	t.start = start
+	t.stop = stop
+	t.val = start
+	t.step = step or 1
+	t.loop = loop or 'none'
+	t.play = true
+	t.done = false
+	function t:reset()
+		self.val = self.start
+		self.play = true
+	end
+	
+	function t:set(val)
+		self.val = val
+	end
+	
+	function t:discard()
+		self.done = true
+	end
+	
+	function t:update()
+	if self.play then
+		if self.step > 0 then
+			if self.val < self.stop then
+				self.val = self.val + self.step
+			end
+			if self.val >= self.stop then
+				self.val = self.stop
+			end
+		elseif self.step < 0 then
+			if self.val > self.stop then
+				self.val = self.val + self.step
+			end
+			if self.val <= self.stop then
+				self.val = self.stop
+			end
+		end
+		if self.val == self.stop and self.loop == 'loop' then
+			self.val = self.start
+		elseif self.val == self.stop and self.loop == 'flip' then
+			self.step = -self.step
+		end
+	end
+	end
+	
+	return t
+end

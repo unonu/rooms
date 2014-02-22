@@ -1,0 +1,30 @@
+this is enty three in the devlog of ROOMS
+
+the end goal is an adventure game, similar to the Legend of Zelda series' 2d entries.
+
+what was done this session:
+
+issues with .quad file loading have been resolved
+
+place holders have been inserted to represent the major HUD elements in the game state
+
+all functions have been rewritten to take advantage of the new resource manager if necessary.
+the resource manager provides marked improvement in framerate though still more optimisations may need to be made.
+in light of the pretty concrete terrain hights, different tiles may be made for each one, which would require the room draw
+function to do less work. the only downside is more memory would be needed for the textures, but the savings in time will probably outweigh this
+
+now that I think about, that's all I did this session. it was pretty time consuming. in the end, it turned out I had misspelt something in the
+.quad file loader. that's how it goes!
+
+anyways
+
+that's about the long and short of it.
+
+if you have any questions or suggestions, leave a comment or email me at
+
+unonuorea@gmail.com
+
+be careful out there.
+
+-unonu
+

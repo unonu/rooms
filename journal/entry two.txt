@@ -1,0 +1,28 @@
+this is enty two in the devlog of ROOMS
+
+the end goal is an adventure game, similar to the Legend of Zelda series' 2d entries.
+
+what was done this session:
+
+the load menu is now forgone for the more practical game state,
+
+systems are now in place to automagically recognise new assets and index them,
+
+quads for sprite sheets and tilesets can be loaded from a ".quad" file,
+
+the menus now have filler art,
+
+initial camera support is in place,
+
+and a fps cap of 48 fps has been imposed on the game, in addition
+to a funcition which disables canvas blanking.
+
+that's about the long and short of it.
+
+if you have any questions or suggestions, leave a comment or email me at
+
+unonuorea@gmail.com
+
+be careful out there.
+
+-unonu

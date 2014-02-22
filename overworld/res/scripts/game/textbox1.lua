@@ -1,0 +1,1 @@
+table.insert(self.textboxes, textbox.make({'Green!', 'In the event of a huricane, I suggest you go and find shelter.'},screen.cameras[1]._x,screen.cameras[1]._y,false,2,6,true,false))

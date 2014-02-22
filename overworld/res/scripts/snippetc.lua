@@ -1,0 +1,1 @@
+love.graphics.setBackgroundColor(hexToCol("#000000"))

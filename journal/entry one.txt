@@ -1,0 +1,51 @@
+hello world.
+
+today I began serious work on our new game:
+ROOMS
+
+the end goal is an adventure game, similar to the Legend of Zelda series' 2d entries.
+
+the game will be made with love.
+that is, Löve, a 2d game engine.
+
+all things are currently being done by myself, with the possibility of help later on.
+
+who am I?
+I don't use conventional caps, I listen to diverse musics, I eat all the pizza.
+I am player one
+
+unonu
+
+enough introduction.
+
+what was done this session:
+
+a main start screen and load menu have been partially coded.
+
+there are no graphics yet, so the title and buttons are all place holders right now.
+
+I added a little effect to the words on the start screen to make them more interesting.
+
+this idea may end up persisting throughout the game's visual design.
+
+underlying these two menus are:
+
+a state system,
+
+a tween system,
+
+a gui system,
+
+and a font system.
+
+that is most of the progress for this session.
+
+that's about the long and short of it.
+
+if you have any questions or suggestions, leave a comment or email me at
+
+unonuorea@gmail.com
+
+be careful out there.
+
+-unonu
