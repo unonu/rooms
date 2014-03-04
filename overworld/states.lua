@@ -28,56 +28,112 @@ function states.game.make()
 
 	g.time = {}
 		g.time.time = 0
-		g.time.today = 0
-		g.time.timeStep = 1
-		g.time.day = 86400--14400
-		g.time.timeFuzzy = 'midnight'
+		g.time.day = 0
+		g.time.dayLength = 86400--14400
+		g.time.step = 1
+		g.time.dayIndex = 1
+		g.time.times = {'midnight',
+						'early',
+						'morning',
+						'noon',
+						'afternoon',
+						'evening',
+						'night',
+						midnight = 0,
+						early=g.time.dayLength/6,
+						morning=g.time.dayLength/4,
+						noon=g.time.dayLength/2,
+						afternoon=g.time.dayLength*13/24,
+						evening=g.time.dayLength*17/24,
+						night=g.time.dayLength*5/6
+					}
+		g.time.fuzzy = 'midnight'
 		g.time.nextFuzzy = 'early'
-		g.time.weather = 'clear'
-		g.time.weathers = {'clear','overcast','showers','downpoor','hot','humid','stormy','windy'}
-		g.time.timeNames = {'midnight','early','morning','noon','afternoon','evening','night'}
-		g.time.times = {midnight = 0,early=g.time.day/6,morning=g.time.day/4,noon=g.time.day/2,afternoon=g.time.day*13/24,evening=g.time.day*17/24,night=g.time.day*5/6}
+		g.time.colors = {	midnight = {0,12,48},
+							early = {64,50,86},
+							morning = {208,220,222},
+							noon = {255,255,255},
+							afternoon = {255,240,230},
+							evening = {150,171,195},
+							night = {0,58,142},
+						}
+		g.time.timeColor = {unpack(g.time.colors[g.time.fuzzy])}
 		g.time.colorCorrection = {255,255,255}
-		g.time.colors = {}
-			g.time.colors.midnight = {0,12,48}
-			g.time.colors.early = {64,50,86}
-			g.time.colors.morning = {208,220,222}
-			g.time.colors.noon = {255,255,255}
-			g.time.colors.afternoon = {255,240,230}
-			g.time.colors.evening = {125,75,90}
-			g.time.colors.night = {0,28,112}
-			g.time.colors.clear = {}
-			g.time.colors.overcast = {}
-			g.time.colors.showers = {}
-			g.time.colors.downpoor = {}
-			g.time.colors.hot = {}
-			g.time.colors.humid = {}
-			g.time.colors.stormy = {}
-			g.time.colors.windy = {}
-		g.time.timeColor = {unpack(g.time.colors[g.time.timeFuzzy])}
+		g.time.month = "Clearleaf"
+		g.time.months = {	"Clearleaf",
+							"B",
+							"C",
+							"D",
+							"E",
+							"F",
+							"G",
+						}
+		g.time.monthIndex = 1
+		g.time.monthLength = 20
+		g.time.year = 0
+
+	g.weather = {}
+		g.weather.weather = "clear"
+		g.weather.colors = {	"clear",
+							"overcast",
+							"showers",
+							"downpoor",
+							"hot",
+							"humid",
+							"stormy",
+							"windy",	
+							clear = {255,255,255},
+							overcast = {160,160,160},
+							showers = {140,140,160},
+							downpoor = {128,128,140},
+							hot = {255,230,220},
+							humid = {250,255,220},
+							stormy = {160,170,180},
+							windy = {230,230,230},
+						}
+		g.weather.colorCorrection = {255,255,255}
+		--keep these vvv values <= 4 please
+		g.weather.rain = 0
+		g.weather.wind = 0
+		g.weather.cloud = 0
+		g.weather.rainTable = {}
+		g.weather.windTable = {}
+		g.weather.cloudTable = {}
 
 		g.events = loadEvents("res/scripts/game")
 
 		g.textboxes = {}
 
+		g.canvases = {
+			lights = love.graphics.newCanvas(screen.width,screen.height),
+			colorCorrection = love.graphics.newCanvas(screen.width,screen.height),
+		}
+
 	return g
 end
 
 function states.game:draw()
-	love.graphics.setBackgroundColor(unpack(self.time.timeColor))
-	screen.cameras[1]:set()
+	--background
+	love.graphics.setBackgroundColor(255,255,255)
+
 	--
+	screen.cameras[1]:set()
+	----------------------------------------------------------------------------------------------<
+
+	--map
 	love.graphics.setColor(255,255,255)
 	love.graphics.draw(self.map.image)
+
+	--player
 	self.p:draw()
 	for i,d in ipairs(self.mouse.directions) do
 		love.graphics.print(d,self.p.x+48,self.p.y+((i-1)*26))
 	end
 
+	--mouse
 	love.graphics.setColor(0,128,255,128)
 	love.graphics.line(mouseX,screen.cameras[1]._y,mouseX,mouseY)
 	love.graphics.circle('fill',mouseX,mouseY,24,4)
-	--
 	if self.mouse.active then
 		love.graphics.setColor(255,0,0)
 		love.graphics.setLineWidth(2)
@@ -103,20 +159,74 @@ function states.game:draw()
 	for i,t in ipairs(self.textboxes) do
 	t:draw()
 	end
-	--
+
+	----------------------------------------------------------------------------------------------<
 	screen.cameras[1]:release()
 	--
-	love.graphics.print(self.time.time,0,0)
-	love.graphics.print('DAY '..self.time.today,0,26)
-	love.graphics.print(string.upper(self.time.timeFuzzy),0,52)
+
+	--weather
+	love.graphics.setColor(255,255,255,128)
+	if self.weather.rain > 0 then
+		for i,d in ipairs(self.weather.rainTable) do
+			d[1] = d[1]+(self.weather.wind*4)
+			d[2] = d[2] + 8*d[3]
+			love.graphics.line(d[1],d[2],d[1]-(self.weather.wind*4),d[2]-(8*self.weather.rain)-d[3])
+			if d[2] > screen.height/(4-d[3]) then table.remove(self.weather.rainTable,i) end
+		end
+	end
+
+	--colour manipulation
+		love.graphics.setCanvas(self.canvases.colorCorrection)
+		love.graphics.setColor(255,255,255)
+		love.graphics.rectangle("fill",0,0,screen.width,screen.height)
+
+		--time
+	love.graphics.setColor(unpack(self.time.timeColor))
+	love.graphics.rectangle("fill",0,0,screen.width,screen.height)
+
+		--weather
+	love.graphics.setBlendMode("multiplicative")
+	-- love.graphics.setBlendMode("additive")
+	love.graphics.setColor(unpack(self.weather.colorCorrection))
+	love.graphics.rectangle("fill",0,0,screen.width,screen.height)
+	-- love.graphics.setBlendMode("alpha")
+
+		--lights
+	-- 	love.graphics.setColorMask( true,true,true,true )
+	-- love.graphics.setBlendMode("replace")
+	-- love.graphics.setColor(255,255,255)
+	-- love.graphics.draw(self.canvases.lights,0,0)
+	-- 	love.graphics.setColorMask()
+
+		love.graphics.setCanvas()
+
+	-- love.graphics.setBlendMode("multiplicative")
+	love.graphics.draw(self.canvases.colorCorrection,0,0)
+	love.graphics.setBlendMode("alpha")
+	--
+
+	love.graphics.print(self.time.time,screen.width-love.graphics.getFont():getWidth(self.time.time),48)
+	love.graphics.print('DAY '..self.time.day,0,26)
+	love.graphics.print(self.weather.weather:upper()..' '..self.time.fuzzy:upper(),0,52)
+
+	--clock
+	love.graphics.setColor(255,255,255)
+	love.graphics.circle("fill",screen.width-24,24,24,32)
+	love.graphics.setColor(0,0,0)
+	love.graphics.arc("fill",screen.width-24,24,25,-(math.pi/2),(math.pi*2)*(self.time.time/self.time.dayLength)-(math.pi/2),32)
 end
 
 function states.game:update(dt)
 	self:updateTime(dt)
-	mouseX,mouseY = love.mouse.getX()+screen.cameras[1]._x,love.mouse.getY()+screen.cameras[1]._y
+	self:updateWeather(dt)
+	cameraX,cameraY = screen.cameras[1]:getPosition()
+	cameraWidth,cameraHeight = screen.cameras[1]._width,screen.cameras[1]._height
+	mouseX,mouseY = love.mouse.getX()+cameraX,love.mouse.getY()+cameraY
+
  if not self.sleep then
 	-- player
 	self.p:update(dt)
+
 	-- camera
 	local cx,cy = screen.cameras[1]._x+(screen.cameras[1]._width/2),screen.cameras[1]._y+(screen.cameras[1]._height/2)
 	local cpd = (((cx-self.p.x)^2)+((cy-self.p.y)^2))^.5
@@ -125,6 +235,7 @@ function states.game:update(dt)
 		screen.cameras[1]:move(0,-math.round(math.sin(math.atan2((cy-self.p.y),(cx-self.p.x)))*(cpd)/(128/self.p.speed),1))
 	end
  end
+
 	-- mouse
 	self:mousethingUpdate(dt)
 
@@ -132,13 +243,29 @@ function states.game:update(dt)
 	for i,t in ipairs(self.textboxes) do
 		t:update(dt)
 		if t.grab then self.sleep = t.grab end
-		print(self.sleep)
 		if t.done then
 			self.sleep = false
 			table.remove(self.textboxes, i)
 			print('finished drawing the #'..i..' text box')
 		end
 	end
+
+	--weather
+	--this method for rain is slow and resource intensive. fix it
+	if self.weather.rain > 0 then
+		if math.floor((.4+(self.weather.rain/10))+math.random(0,100/self.weather.rain)/(100/self.weather.rain)) == 1 then
+			for x=1, self.weather.rain^2 do
+				local i = math.random(0,screen.width/(128/self.weather.rain))*(128/self.weather.rain)
+				table.insert(self.weather.rainTable,{i,0,math.random(1,6)})
+			end
+		end
+	end
+
+	--clear canvases
+	for i,c in pairs(self.canvases) do
+		c:clear()
+	end
+	-- love.graphics.setCanvas()
 end
 
 function states.game:mousepressed(x,y,button)
@@ -164,13 +291,34 @@ function states.game:mousereleased(x,y,button)
 end
 
 function states.game:keypressed(k)
-	-- if k == 'a' then
-	-- 	screen:fade('in',300)
-	-- end
-	if k == ' ' then
-		table.insert(self.textboxes, textbox.make({'Hello World!', 'In the event of a huricane, I suggest you go and find shelter.'},mouseX,mouseY,true,math.random(1,5)))
+	-- player
+	self.p:keypressed(k)
+
+	if k == "keytype" then
+	-- elseif k == ' ' then
+	-- 	table.insert(self.textboxes, textbox.make({'Hello World!', 'In the event of a huricane, I suggest you go and find shelter.'},
+	-- 		mouseX,mouseY,true,math.random(1,5)))
 	elseif k == 'lshift' then
-		table.insert(self.textboxes, textbox.make({'Hello World!', 'In the event of a huricane, I suggest you go and find shelter.'},screen.cameras[1]._x,screen.cameras[1]._y,false,2,6,true,true))
+		table.insert(self.textboxes, textbox.make({'Hello World!', 'In the event of a huricane, I suggest you go and find shelter.',
+			'You may now move again.'}, screen.cameras[1]._x,screen.cameras[1]._y,false,2,6,true,true))
+	elseif k == '1' then
+		self:setTime("midnight")
+	elseif k == '2' then
+		self:setTime("early")
+	elseif k == '3' then
+		self:setTime("morning")
+	elseif k == '4' then
+		self:setTime("noon")
+	elseif k == '5' then
+		self:setTime("afternoon")
+	elseif k == '6' then
+		self:setTime("evening")
+	elseif k == '7' then
+		self:setTime("night")
+	elseif k == '`' then
+		self:setWeather(self.weather.colors[math.random(1,#self.weather.colors)])
+	-- elseif k == 'a' then
+	-- 	screen:fade('in',300)
 	end
 end
 
@@ -184,20 +332,25 @@ function states.game:mousethingUpdate(dt)
 		table.insert(self.mouse.dataPoints,mouseY)
 		self.mouse.step = self.mouse.step + 1
 		if self.mouse.step == 4 then self.mouse.step = 0 end
-		if math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1]) - math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints]) >= 72 then
+		if math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1])
+			- math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints]) >= 72 then
 			if self.mouse.tempPoints[#self.mouse.tempPoints-3] < self.mouse.tempPoints[#self.mouse.tempPoints-1] then
 				self:makeSegment()
 			elseif self.mouse.tempPoints[#self.mouse.tempPoints-3] > self.mouse.tempPoints[#self.mouse.tempPoints-1] then
 				self:makeSegment()
 			end
-		elseif math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1]) - math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints]) <= -72 then
+		elseif math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1])
+			- math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints]) <= -72 then
 			if self.mouse.tempPoints[#self.mouse.tempPoints-2] < self.mouse.tempPoints[#self.mouse.tempPoints] then
 				self:makeSegment()
 			elseif self.mouse.tempPoints[#self.mouse.tempPoints-2] > self.mouse.tempPoints[#self.mouse.tempPoints] then
 				self:makeSegment()
 			end
-		elseif math.abs(math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1]) - math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints])) < 72
-		and ((self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1])^2+(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints])^2)^.5 >= 86 then
+		elseif math.abs(math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1])
+			- math.abs(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints])) < 72
+		and ((self.mouse.tempPoints[#self.mouse.tempPoints-3]-self.mouse.tempPoints[#self.mouse.tempPoints-1])^2
+			+(self.mouse.tempPoints[#self.mouse.tempPoints-2]-self.mouse.tempPoints[#self.mouse.tempPoints])^2)^.5 >= 86 then
+			--
 			if self.mouse.tempPoints[#self.mouse.tempPoints-3] < self.mouse.tempPoints[#self.mouse.tempPoints-1] then
 				if self.mouse.tempPoints[#self.mouse.tempPoints-2] < self.mouse.tempPoints[#self.mouse.tempPoints] then
 					self:makeSegment()
@@ -222,17 +375,30 @@ end
 
 function states.game:makeSegment()
 	if #self.mouse.segments == 0 then
-		table.insert(self.mouse.segments,{self.mouse.tempPoints[1],self.mouse.tempPoints[2],self.mouse.tempPoints[#self.mouse.tempPoints-1],self.mouse.tempPoints[#self.mouse.tempPoints]})
+		table.insert(self.mouse.segments,
+						{self.mouse.tempPoints[1],self.mouse.tempPoints[2],
+						self.mouse.tempPoints[#self.mouse.tempPoints-1],self.mouse.tempPoints[#self.mouse.tempPoints]})
 	else
-		table.insert(self.mouse.segments,{self.mouse.segments[#self.mouse.segments][3],self.mouse.segments[#self.mouse.segments][4],self.mouse.tempPoints[#self.mouse.tempPoints-1],self.mouse.tempPoints[#self.mouse.tempPoints]})
-		if math.abs(((-math.atan2(self.mouse.segments[#self.mouse.segments-1][2]-self.mouse.segments[#self.mouse.segments-1][4],self.mouse.segments[#self.mouse.segments-1][1]-self.mouse.segments[#self.mouse.segments-1][3]))+(math.pi)) - ((-math.atan2(self.mouse.segments[#self.mouse.segments][2]-self.mouse.segments[#self.mouse.segments][4],self.mouse.segments[#self.mouse.segments][1]-self.mouse.segments[#self.mouse.segments][3]))+(math.pi))) < math.pi/4
-		or math.abs(((-math.atan2(self.mouse.segments[#self.mouse.segments-1][2]-self.mouse.segments[#self.mouse.segments-1][4],self.mouse.segments[#self.mouse.segments-1][1]-self.mouse.segments[#self.mouse.segments-1][3]))+(math.pi)) - ((-math.atan2(self.mouse.segments[#self.mouse.segments][2]-self.mouse.segments[#self.mouse.segments][4],self.mouse.segments[#self.mouse.segments][1]-self.mouse.segments[#self.mouse.segments][3]))+(math.pi))) > 7*math.pi/4 then
+		table.insert(self.mouse.segments,
+						{self.mouse.segments[#self.mouse.segments][3],self.mouse.segments[#self.mouse.segments][4],
+						self.mouse.tempPoints[#self.mouse.tempPoints-1],self.mouse.tempPoints[#self.mouse.tempPoints]})
+		--
+		if math.abs(((-math.atan2(self.mouse.segments[#self.mouse.segments-1][2]-self.mouse.segments[#self.mouse.segments-1][4],
+									self.mouse.segments[#self.mouse.segments-1][1]-self.mouse.segments[#self.mouse.segments-1][3]))+(math.pi))
+			- ((-math.atan2(self.mouse.segments[#self.mouse.segments][2]-self.mouse.segments[#self.mouse.segments][4],
+								self.mouse.segments[#self.mouse.segments][1]-self.mouse.segments[#self.mouse.segments][3]))+(math.pi))) < math.pi/4
+		or math.abs(((-math.atan2(self.mouse.segments[#self.mouse.segments-1][2]-self.mouse.segments[#self.mouse.segments-1][4],
+									self.mouse.segments[#self.mouse.segments-1][1]-self.mouse.segments[#self.mouse.segments-1][3]))+(math.pi))
+			- ((-math.atan2(self.mouse.segments[#self.mouse.segments][2]-self.mouse.segments[#self.mouse.segments][4],
+								self.mouse.segments[#self.mouse.segments][1]-self.mouse.segments[#self.mouse.segments][3]))+(math.pi))) > 7*math.pi/4 then
+			--
 			self.mouse.segments[#self.mouse.segments-1][3] = self.mouse.segments[#self.mouse.segments][3]
 			self.mouse.segments[#self.mouse.segments-1][4] = self.mouse.segments[#self.mouse.segments][4]
 			table.remove(self.mouse.segments,#self.mouse.segments)
 		end
 	end
-	if ((self.mouse.segments[#self.mouse.segments][1]-self.mouse.segments[#self.mouse.segments][3])^2+(self.mouse.segments[#self.mouse.segments][2]-self.mouse.segments[#self.mouse.segments][4])^2)^.5 < 96 then
+	if ((self.mouse.segments[#self.mouse.segments][1]-self.mouse.segments[#self.mouse.segments][3])^2
+		+(self.mouse.segments[#self.mouse.segments][2]-self.mouse.segments[#self.mouse.segments][4])^2)^.5 < 96 then
 		table.remove(self.mouse.segments,#self.mouse.segments)
 	end
 end
@@ -277,18 +443,95 @@ function states.game:analyse(data)
 	if #intersections >0 then circuit = true end
 end
 
-function states.game:updateTime()
-	for i,t in pairs(self.time.times) do
-		if self.time.time == t then self.time.timeFuzzy = i end
+function states.game:updateTime(dt)
+	--add a day if time == 0
+	if self.time.time == 0 then self.time.day = self.time.day + 1; print("Day "..self.time.day) end
+
+	--change the month if day == monthLength
+	if self.time.day == self.time.monthLength then self.time.monthIndex = math.loop(1,self.time.monthIndex + 1,#self.time.months) end
+
+	--chang the year if time is 0, month is 1 and day is 1
+	if self.time.time == 0 and self.time.day == 1 and self.time.monthIndex == 1 then self.time.year = self.time.year + 1 end
+
+	--update the fuzzy time
+	if self.time.time == self.time.times[self.time.nextFuzzy] then
+		print("switchFuzzy")
+		self.time.dayIndex = math.loop(1, self.time.dayIndex+1, #self.time.times)
+		self.time.fuzzy = self.time.times[self.time.dayIndex]
+		self.time.nextFuzzy = self.time.times[math.loop(1, self.time.dayIndex+1, #self.time.times)]
 	end
-	if self.time.time == 0 then self.time.today = self.time.today + 1 end
-	self.time.time = math.loop(0,self.time.time+self.time.timeStep,self.time.day)
-	self.time.nextFuzzy = self.time.timeNames[math.loop(1,table.getIndex(self.time.timeNames,self.time.timeFuzzy)+1,7)]
-	if self.time.time >= math.loop(1,self.time.times[self.time.nextFuzzy],self.time.day) - (self.time.day/24) then
+
+	--update colour
+	if self.time.time >= math.loop(1,self.time.times[self.time.nextFuzzy],self.time.dayLength) - (self.time.dayLength/24) and
+		self.time.time <= math.loop(1,self.time.times[self.time.nextFuzzy],self.time.dayLength) then
 		for i = 1, 3 do
 			if self.time.timeColor[i] ~= self.time.colors[self.time.nextFuzzy][i] then
-				self.time.timeColor[i] = self.time.timeColor[i] + (self.time.colors[self.time.nextFuzzy][i]-self.time.colors[self.time.timeFuzzy][i])/(self.time.day/24)
+				self.time.timeColor[i] = self.time.timeColor[i] + 
+					(self.time.colors[self.time.nextFuzzy][i]-self.time.colors[self.time.fuzzy][i])/
+					(self.time.dayLength/24)
 			end
 		end
+	else
+	--if the time is equal to the next fuzzy time's time, then set the colours equal
+		self.time.timeColor[1] = self.time.colors[self.time.fuzzy][1]
+		self.time.timeColor[2] = self.time.colors[self.time.fuzzy][2]
+		self.time.timeColor[3] = self.time.colors[self.time.fuzzy][3]
 	end
+
+	--increment the time by step
+	self.time.time = math.loop(0,self.time.time+self.time.step,self.time.dayLength)
+
+end
+
+function states.game:setTime(time)
+	if type(time) == "number" then self.time.time = time; print(self.time.time)
+	elseif type(time) == "string" then
+		self.time.time = self.time.times[time]-1
+		self.time.dayIndex = table.getIndex(self.time.times,time)
+		self.time.fuzzy = self.time.times[self.time.dayIndex]
+		self.time.nextFuzzy = self.time.times[math.loop(1, self.time.dayIndex+1, #self.time.times)]
+	end
+	print("Changing Time: "..time)
+end
+
+function states.game:updateWeather(dt)
+	for i = 1, 3 do
+		if self.weather.colorCorrection[i] ~= self.weather.colors[self.weather.weather][i] then
+			self.weather.colorCorrection[i] = self.weather.colors[self.weather.weather][i] + 
+						(self.weather.colors[self.weather.weather][i]-self.weather.colorCorrection[i])/
+						(self.time.dayLength/96)
+		end
+	end
+
+	--rain and wind
+	if self.weather.weather == "showers" then
+		self.weather.rain = math.random(1,2)
+		self.weather.wind = math.floor(0.2+(math.random(0,10)/10))
+		self.weather.cloud = math.random(0,2)
+	elseif self.weather.weather == "downpoor" then
+		self.weather.rain = math.random(3,4)
+		self.weather.wind = math.random(1,4)
+		self.weather.cloud = math.random(2,4)
+	elseif self.weather.weather == "windy" then
+		self.weather.rain = 0
+		self.weather.wind = math.random(1,4)
+		self.weather.cloud = math.random(0,1)
+	elseif self.weather.weather == "stormy" then
+		self.weather.rain = 0
+		self.weather.wind = math.random(2,4)
+		self.weather.cloud = math.random(3,4)
+	elseif self.weather.weather == "overcast" then
+		self.weather.rain = 0
+		self.weather.wind = math.floor(0.1+(math.random(0,10)/10))
+		self.weather.cloud = math.random(3,4)
+	elseif self.weather.weather == "clear" or self.weather.weather == "humid" or self.weather.weather == "hot" then
+		self.weather.rain = 0
+		self.weather.wind = 0
+		self.weather.cloud = 0
+	end
+end
+
+function states.game:setWeather(weather)
+	print("Changing Weather: "..weather)
+	self.weather.weather = weather
 end

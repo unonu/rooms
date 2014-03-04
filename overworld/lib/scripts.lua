@@ -1,14 +1,15 @@
 function loadEvents(dir)
+	print("Loading scripts from "..dir..'/')
 	local events = {}
 	for i,f in ipairs(love.filesystem.getDirectoryItems(dir or "")) do
 		if f:sub(-4,-1) == ".spt" then
-			print(f,dir..'/'..f)
+			print(f)
 			local file = io.open(dir..'/'..f,'r')
 			for l in file:lines() do
 				print(l)
 				local e = splitString(l,',')
 				for ii,x in ipairs(e) do
-					print(ii,x,type(x))
+					print(ii,x)
 				end
 				function e:call()
 					print("Attempting to execute script \""..self[1].."\"")

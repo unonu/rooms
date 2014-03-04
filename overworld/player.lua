@@ -12,10 +12,15 @@ function player.make(x,y)
 	p.timers = {}
 		p.timers.waiting = 0
 		p.timers.still = 0
+		p.timers.lampPulse = 0
 	p.speed = 4
 	p.walkTargets = {}
 	p.walking = false
 	p.wait = false
+	p.light = false
+	p.images = {
+		lamp = res.load("image","roundLight.png")	
+	}
 
 	return p
 end
@@ -31,6 +36,14 @@ function player:draw()
 	for i,t in ipairs(self.walkTargets) do
 		love.graphics.line(t[1],screen.cameras[1]._y,t[1],t[2])
 		-- love.graphics.circle('fill',t[1],t[2],4,3)
+	end
+	if self.light then
+		love.graphics.setCanvas(state.canvases.lights)
+		love.graphics.setColor(255,220+(math.ceil(math.random(0,36)/36)*35),200+(math.ceil(math.random(0,100)/100)*35))
+		self.timers.lampPulse = math.loop(0,self.timers.lampPulse + .01,2)
+		local scale = 2+math.sin(self.timers.lampPulse*math.pi)/40
+		love.graphics.draw(self.images.lamp,self.x-(128*scale),self.y-400,0,scale)
+		love.graphics.setCanvas()
 	end
 end
 
@@ -77,6 +90,13 @@ end
 
 function player:mousereleased( x,y,button )
 	
+end
+
+function player:keypressed( k )
+	if k == ' ' then
+		self.light = not self.light
+		print("Light on... or off")
+	end
 end
 
 -- function player:update(dt)
@@ -139,3 +159,4 @@ end
 -- 		end
 -- 	end
 -- end
+

@@ -38,7 +38,7 @@ function textbox:draw()
 	end
 ---- shadow
 	love.graphics.setColor(0,0,0,128)
-	love.graphics.rectangle('fill',self.x-4,self.y+4,208,64)
+	love.graphics.rectangle('fill',self.x-2,self.y+2,204,64)
 ---- box
 	love.graphics.setColor(200,200,200)
 	love.graphics.rectangle('fill',self.x, self.y, 200,64)
@@ -53,7 +53,7 @@ function textbox:draw()
 	if self.done then
 		love.graphics.setColor(0,255,0)
 	end
-	love.graphics.printf(self.curText,self.x + 4,self.y + 4,200)
+	love.graphics.printf(self.curText,self.x + 2,self.y + 2,200)
 	
 	if not self.auto and self.ready then
 		love.graphics.setColor(255,200,0,255/math.random(1,2))

@@ -227,6 +227,7 @@ function screen:releaseChromaticFilter()
 	end
 end
 
+--call at the beginning of love.update...or the end?
 function screen:capFPS()
 	local cur_time = love.timer.getTime()
 	if self.next_time <= cur_time then

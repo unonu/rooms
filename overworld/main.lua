@@ -32,6 +32,7 @@ function love.load()
 	--
 	state = states.game.make()
 	prevState = nil
+	print(ansicolors.red.."|||\\\\\\___DONE LOADING___///|||\n"..ansicolors.clear)
 end
 
 function  love.draw()
@@ -40,13 +41,15 @@ function  love.draw()
 	if state.draw then state:draw() end
 	screen:drawFade()
 	-- screen:releaseChromaticFilter()
+	love.graphics.print(love.timer.getFPS(),500,500)
 end
 
 
 function  love.update(dt)
-	if prevState ~= state.name then prevState = state.name; print(state.name) end
-	if state.update then state:update(dt) end
+	if prevState ~= state.name then prevState = state.name; print("[CHANGE STATE]: "..state.name) end
 	screen:update(dt)
+	if state.update then state:update(dt) end
+	screen:capFPS()
 end
 
 function  love.keypressed(k)
